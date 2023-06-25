@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 from routes.subject import subject
+from routes.user import user
 
 app = FastAPI(
     title="Tutorias FastAPI",
@@ -8,7 +9,12 @@ app = FastAPI(
     openapi_tags=[{
         "name": "Subjects",
         "description": "Subjects endpoints"
+    },
+    {
+        "name": "Users",
+        "description": "Users endpoints"
     }]
 )
 
 app.include_router(subject)
+app.include_router(user)

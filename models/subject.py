@@ -8,3 +8,5 @@ class Subject(BaseModel):
     name: str
     careers: list[str] = []
     semester: int
+
+
