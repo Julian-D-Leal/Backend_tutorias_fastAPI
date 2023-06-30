@@ -24,3 +24,4 @@ def userEntity(user) -> dict:
 
 def usersEntity(users) -> list:
     return [userEntity(user) for user in users]
+
