@@ -8,14 +8,17 @@ class Calification(BaseModel):
 class Clicks(BaseModel):
     asignatura_id: str
     tutor_id: str
+class Schedule(BaseModel):
+    day: int
+    hour: int
 
 class User(BaseModel):
     id: Optional[str]
     name: str
-    career: str
-    avaliability: list[list[int]]
-    format: Optional[str]
-    format_tutor: Optional[str]
+    career: Optional[str]
+    avaliability: Optional[list[Schedule]]
+    format: Optional[list[str]]
+    format_tutor: Optional[list[str]]
     is_tutor: bool = Field(default=False)
     cost_tutor: Optional[int]
     type_tutor: Optional[str]
@@ -24,8 +27,8 @@ class User(BaseModel):
     budget: Optional[float]#presupuesto
     method: Optional[list[str]]
     method_tutor: Optional[list[str]]
-    type_group: Optional[str]
-    type_group_tutor: Optional[str]
+    type_group: Optional[list[str]]
+    type_group_tutor: Optional[list[str]]
     subjects_tutor: Optional[list[str]]
     keywords: Optional[list[str]]
     calification: Optional[list[Calification]]
@@ -36,9 +39,9 @@ class User(BaseModel):
             "example": {
                 "name": "Juan",
                 "career": "Ingeniería de Sistemas",
-                "avaliability": [[1,0],[1,0,1,1]],
-                "format": "Presencial",
-                "format_tutor": "Presencial",
+                "avaliability": [{"day":2,"hour": 5},{"day":1,"hour": 2}],
+                "format": ["Presencial","Virtual"],
+                "format_tutor": ["Virtual"],
                 "is_tutor": False,
                 "cost_tutor": 0,
                 "type_tutor": "Estudiante",
@@ -47,9 +50,9 @@ class User(BaseModel):
                 "budget": 25000,
                 "method": ["",""],
                 "method_tutor": ["",""],
-                "type_group": "Grupal",
-                "type_group_tutor": "Grupal",
-                "subjects_tutor": ["id_Calculo","id_Programación"],
+                "type_group": ["Grupal"],
+                "type_group_tutor": ["Grupal","Individual"],
+                "subjects_tutor": ["id_Calculo","id_Programación","etc"],
                 "keywords": ["",""],
                 "calification": [{"id_tutor": "12345","calif": 3.7}, {"id_tutor": "43254", "calif": 4.5}],
                 "clicks": [{"asignatura_id": "id_Calculo","tutor_id": "12345"}, {"asignatura_id": "id_Programación", "tutor_id": "43254"}]

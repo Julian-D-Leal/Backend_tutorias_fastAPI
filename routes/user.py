@@ -42,12 +42,13 @@ async def login(user: LoginUserSchema, Authorize: AuthJWT = Depends()):
     db_user = db.users.find_one({"email": user.email.lower()})
     if not db_user:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST,
-                            detail='Email o contraseña incorrectos')
+                            detail='Email no registrado en nuestro sistema')
     
     actual_user = user.dict()
+    print(actual_user)
     if not utils.verify_password(actual_user['password'], db_user['password']):
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST,
-                            detail='Email o contraseña incorrectos')
+                            detail='contraseña incorrecta')
     
     #crear token de acceso
     access_token = Authorize.create_access_token(
@@ -57,7 +58,7 @@ async def login(user: LoginUserSchema, Authorize: AuthJWT = Depends()):
     refresh_token = Authorize.create_refresh_token(
         subject=db_user['email'], expires_time=timedelta(days=REFRESH_TOKEN_EXPIRES_IN))
     
-    return {"status": "success","access_token": access_token, "refresh_token": refresh_token, "token_type": "bearer"}
+    return {"status": "success","access_token": access_token, "refresh_token": refresh_token, "token_type": "bearer", "user": userEntity(db_user)}
 
 @user.post('/users/refresh', response_model=dict, tags=["Users"])
 async def refresh(Authorize: AuthJWT = Depends()):
@@ -113,8 +114,8 @@ async def getUsers(Authorize: AuthJWT = Depends()):
     
     return usersEntity(db.users.find())
 
-@user.get('/users/{id}', response_model=User, status_code=status.HTTP_200_OK,tags=["Users"])
-async def getUser(id: str, Authorize: AuthJWT = Depends()):
+@user.get('/users/{email}', response_model=User, status_code=status.HTTP_200_OK,tags=["Users"])
+async def getUser(email: str, Authorize: AuthJWT = Depends()):
     try:
         Authorize.jwt_required()
     except Exception as e:
@@ -128,7 +129,7 @@ async def getUser(id: str, Authorize: AuthJWT = Depends()):
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST, detail=error)
 
-    return userEntity(db.users.find_one({"_id": ObjectId(id)}))
+    return userEntity(db.users.find_one({"email": email.lower()}))
 
 
 

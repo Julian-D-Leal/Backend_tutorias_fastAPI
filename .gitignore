@@ -1,2 +1,5 @@
-myenv/
+venv/
 config/settings.py
+.env
+requierments.txt
+
