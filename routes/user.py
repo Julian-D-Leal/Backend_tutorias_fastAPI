@@ -45,7 +45,7 @@ async def login(user: LoginUserSchema, Authorize: AuthJWT = Depends()):
                             detail='Email no registrado en nuestro sistema')
     
     actual_user = user.dict()
-    print(actual_user)
+
     if not utils.verify_password(actual_user['password'], db_user['password']):
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST,
                             detail='contraseña incorrecta')
@@ -128,8 +128,9 @@ async def getUser(email: str, Authorize: AuthJWT = Depends()):
                 status_code=status.HTTP_400_BAD_REQUEST, detail='El token de acceso ha expirado')
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST, detail=error)
-
-    return userEntity(db.users.find_one({"email": email.lower()}))
+    print(db.users.find_one({"email": email}))
+    
+    return userEntity(db.users.find_one({"email": email}))
 
 
 

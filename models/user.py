@@ -1,4 +1,5 @@
 from pydantic import BaseModel, Field, EmailStr
+from typing import List
 from typing import Optional
 
 class Calification(BaseModel):
@@ -8,6 +9,7 @@ class Calification(BaseModel):
 class Clicks(BaseModel):
     asignatura_id: str
     tutor_id: str
+
 class Schedule(BaseModel):
     day: int
     hour: int
@@ -16,23 +18,23 @@ class User(BaseModel):
     id: Optional[str]
     name: str
     career: Optional[str]
-    avaliability: Optional[list[Schedule]]
-    format: Optional[list[str]]
-    format_tutor: Optional[list[str]]
+    avaliability: Optional[List[Schedule]]
+    format: Optional[List[str]]
+    format_tutor: Optional[List[str]]
     is_tutor: bool = Field(default=False)
     cost_tutor: Optional[int]
     type_tutor: Optional[str]
     password: str
     email: EmailStr
     budget: Optional[float]#presupuesto
-    method: Optional[list[str]]
-    method_tutor: Optional[list[str]]
-    type_group: Optional[list[str]]
-    type_group_tutor: Optional[list[str]]
-    subjects_tutor: Optional[list[str]]
-    keywords: Optional[list[str]]
-    calification: Optional[list[Calification]]
-    clicks: Optional[list[Clicks]]
+    method: Optional[List[str]]
+    method_tutor: Optional[List[str]]
+    type_group: Optional[List[str]]
+    type_group_tutor: Optional[List[str]]
+    subjects_tutor: Optional[List[str]]
+    keywords: Optional[List[str]]
+    calification: Optional[List[Calification]]
+    clicks: Optional[List[Clicks]]
 
     class Config:
         schema_extra = {
