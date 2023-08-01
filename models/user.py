@@ -66,7 +66,3 @@ class LoginUserSchema(BaseModel):
     #password: constr(min_length=8)
     password: str
     
-
-
-
-

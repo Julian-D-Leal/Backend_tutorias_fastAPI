@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from config.config import settings
 from routes.subject import subject
 from routes.user import user
+from routes.password_reset import password_reset
 
 app = FastAPI(
     title="Tutorias FastAPI",
@@ -32,3 +33,4 @@ app.add_middleware(
 
 app.include_router(subject)
 app.include_router(user)
+app.include_router(password_reset)
