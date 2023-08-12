@@ -9,6 +9,7 @@ import utils
 from auth import AuthJWT
 
 user = APIRouter()
+
 #Falta cambiar las claves secretas en .env
 ACCESS_TOKEN_EXPIRES_IN = settings.ACCESS_TOKEN_EXPIRES_IN
 REFRESH_TOKEN_EXPIRES_IN = settings.REFRESH_TOKEN_EXPIRES_IN
@@ -21,8 +22,9 @@ async def createUser(user: User, Authorize: AuthJWT = Depends()):
     new_user["email"] = new_user["email"].lower()
     del new_user['id']
 
-    if db.subjects.count_documents({"email": new_user["email"]}) > 0:
-        return {"error": "El email ya está registrado"}
+    if db.users.count_documents({"email": new_user["email"]}) > 0:
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST,
+                            detail='El email ya está registrado')
     id = db.users.insert_one(new_user).inserted_id
 
     user_created = userEntity(db.users.find_one({"_id": id}))
@@ -87,7 +89,7 @@ async def refresh(Authorize: AuthJWT = Depends()):
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST, detail=error)
     
-    return {"access_token": access_token}
+    return {"access_token": access_token, "user": userEntity(user)}
 
 
 # @user.post('/users/logout', response_model=dict, tags=["Users"])
@@ -128,14 +130,13 @@ async def getUser(email: str, Authorize: AuthJWT = Depends()):
                 status_code=status.HTTP_400_BAD_REQUEST, detail='El token de acceso ha expirado')
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST, detail=error)
-    print(db.users.find_one({"email": email}))
     
     return userEntity(db.users.find_one({"email": email}))
 
 
 
-@user.put('/users/update/{id}', response_model=User, tags=["Users"], status_code=status.HTTP_200_OK)
-async def updateUser(id: str, user: User, Authorize: AuthJWT = Depends()):
+@user.patch('/users/update/{id}', response_model=User, tags=["Users"], status_code=status.HTTP_200_OK)
+async def updateUser(id: str, user: dict, Authorize: AuthJWT = Depends()):
     try:
         Authorize.jwt_required()
     except Exception as e:
@@ -148,13 +149,13 @@ async def updateUser(id: str, user: User, Authorize: AuthJWT = Depends()):
                 status_code=status.HTTP_400_BAD_REQUEST, detail='El token de acceso ha expirado')
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST, detail=error)
-
-    user_received = user.dict()
-    user_received["email"] = user_received["email"].lower()
-    user_received["password"] = utils.hash_password(user_received["password"])
-    del user_received['id']
-    user_updated = await userEntity(db.users.find_one_and_update({"_id": ObjectId(id)}, {"$set": user_received}, return_document=True))
-    return user_updated
+    stored_user_data = db.users.find_one({"_id": ObjectId(id)})
+    store_data_model = User(**stored_user_data)
+    update_user = {key: value for key, value in user.items() if key in store_data_model.__annotations__}
+    updated_user = store_data_model.copy(update=update_user)
+    user_updated = db.users.find_one_and_update({"_id": ObjectId(id)}, {"$set": updated_user.dict()}, return_document=True)
+    
+    return userEntity(user_updated)
 
 @user.delete('/users/delete/{id}', response_model=dict, tags=["Users"], status_code=status.HTTP_200_OK)
 async def deleteUser(id: str, Authorize: AuthJWT = Depends()):

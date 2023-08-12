@@ -18,10 +18,12 @@ class User(BaseModel):
     id: Optional[str]
     name: str
     career: Optional[str]
+    semester: Optional[int]
     avaliability: Optional[List[Schedule]]
     format: Optional[List[str]]
     format_tutor: Optional[List[str]]
     is_tutor: bool = Field(default=False)
+    is_student: bool = Field(default=False)
     cost_tutor: Optional[int]
     type_tutor: Optional[str]
     password: str
@@ -41,10 +43,12 @@ class User(BaseModel):
             "example": {
                 "name": "Juan",
                 "career": "Ingeniería de Sistemas",
+                "semester": 5,
                 "avaliability": [{"day":2,"hour": 5},{"day":1,"hour": 2}],
                 "format": ["Presencial","Virtual"],
                 "format_tutor": ["Virtual"],
                 "is_tutor": False,
+                "is_student": True,
                 "cost_tutor": 0,
                 "type_tutor": "Estudiante",
                 "password": "12345678",

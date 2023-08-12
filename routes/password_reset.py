@@ -1,4 +1,6 @@
 from datetime import timedelta
+import random
+import string
 from config.db import db
 from fastapi import APIRouter, HTTPException,status
 from models.password_reset import ChangePassword, PasswordReset
@@ -10,16 +12,20 @@ import uuid
 import smtplib
 import utils
 from email.utils import formataddr
-
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+import base64
 
 password_reset = APIRouter()
 
 #funcion para generar el token
-def generate_token():
-    return str(uuid.uuid4())
+def generate_token(): 
+    characters = string.ascii_letters + string.digits
+    short_code = ''.join(random.choice(characters) for _ in range(6))
+    return short_code
 
 #funcion para enviar el correo
-def send_reset_email(email,code):
+def send_reset_email(email,code, name):
     smtp_server = 'smtp.gmail.com'
     smtp_port = 465
     smtp_email = 'info.tutoriapp@gmail.com'
@@ -28,16 +34,171 @@ def send_reset_email(email,code):
     sender_name = 'Tutoriapp'
     receiver_email = email
     subject = 'Código de recuperación de contraseña'
-    message = f'Tu código es: {code}'
+    with open('C:\\Users\\julia\\Desktop\\Backend_tutorias_fastAPI\\routes\\logo.png', 'rb') as f:
+        # Lee el archivo en base64
+        logo = base64.b64encode(f.read()).decode('utf-8')
+        # Reemplaza el texto del logo por el archivo en base64
+    message = f'''
+    <!DOCTYPE html>
+<html>
 
+<head>
+    <style>
+        body {{
+            font-family: Arial, sans-serif;
+            background-color: #1F3040;
+        }}
+
+        .container {{
+            width: 100%;
+            height: 100%;
+        }}
+
+        .body {{
+            max-width: 100vw;
+            max-height: 69vh;
+            height: 68vh;
+            display: flex;
+            flex-direction: column;
+            background-color: #155B68;
+            justify-content: center;
+        }}
+
+        .head {{
+            color: white;
+            display: flex;
+            flex-direction: column;
+            height: 15vh;
+            align-items: center;
+            justify-content: center;
+        }}
+
+        .titulo {{
+            text-align: center;
+            font-size: 3vh;
+        }}
+
+        .footer {{
+            height: 15vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }}
+
+        .logo {{
+            width: 7vh;
+            height: 7vh;
+        }}
+
+        .mensaje {{
+            text-align: center;
+            font-size: 3vh;
+            color: #1F3040;
+            padding: 0vh 20vw;
+        }}
+
+        h2 {{
+            font-size: 1.8vh;
+            text-align: left;
+            color: white;
+            padding: 0 20vw;
+        }}
+
+        .code {{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 1.8vh;
+        }}
+
+        .code-value {{
+            width: 5vh;
+            height: 5vh;
+            border: 2px solid white;
+            border-radius: 5px;
+            font-size: 3vh;
+            margin: 0 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #1F3040;
+        }}
+        .box {{
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            flex: 0 0 calc(33.33% - 40px);
+        }}
+        .codigotexto{{
+            text-align: center;
+        }}
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="head">
+            <h1 class="titulo">
+                TUTORIAPP
+            </h1>
+            <img class="logo" src="data: image/png;base64,{logo}" />
+        </div>
+        <div class="body">
+            <h2 class="mensaje">
+                Hola {name}
+            </h2>
+            <h2 >
+                Hemos recibido una solicitud para restablecer la contraseña de tu cuenta en Tutoriapp.
+            </h2>
+            <div>
+                <h2 class="codigotexto">
+                    Código de recuperación
+                </h2>
+                <div class="code">
+                    <div class="code-value">{code[0]}</div>
+                    <div class="code-value">{code[1]}</div>
+                    <div class="code-value">{code[2]}</div>
+                    <div class="code-value">{code[3]}</div>
+                    <div class="code-value">{code[4]}</div>
+                    <div class="code-value">{code[5]}</div>
+                </div>
+            </div>
+            <h2>
+               El código que tienes en este correo electrónico es necesario para reestablecer tu contraseña. No compartas este código con nadie.
+            </h2>
+            <h2>
+                Si no estás tratando de iniciar sesión, te invitamos a reestablecer tu contraseña de inmediato.
+            </h2>
+            <h2>
+                Atentamente, el equipo de Tutoriapp.
+            </h2>
+        </div>
+        <div class="footer">
+            <h2>
+                Si tienes alguna duda contactanos: info.tutoriapp@gmail.com
+            </h2>
+            <h2>
+                © 2023 Tutoriapp. Todos los derechos reservados.
+            </h2>
+        </div>
+    </div>
+</body>
+
+</html>
+    '''
+   
+       
     # Crea el objeto del mensaje
-    msg = EmailMessage()
+    msg = MIMEMultipart()
     msg['From'] = formataddr((sender_name, smtp_email))
     msg['To'] = receiver_email
     msg['Subject'] = subject
 
     # Agrega el cuerpo del mensaje
-    msg.set_content(message)
+    msg.attach(MIMEText(message, 'html'))
 
     # Inicia la conexión al servidor SMTP y envía el mensaje
     smtp = smtplib.SMTP_SSL(smtp_server, smtp_port)
@@ -45,53 +206,47 @@ def send_reset_email(email,code):
     smtp.sendmail(smtp_email, receiver_email, msg.as_string())
     smtp.quit()
 
-@password_reset.post('/password_reset/', response_model=PasswordReset, tags=["Password Reset"])
-async def createPasswordReset(password_reset: PasswordReset):
-    db_user = db.users.find_one({"email": password_reset.email.lower()})
+@password_reset.post('/password_reset/{email}', response_model=dict, tags=["Password Reset"])
+async def createPasswordReset(email: str):
+    db_user = db.users.find_one({"email": email.lower()})
     if not db_user:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST,
                             detail='Email no registrado en nuestro sistema')
-    user_email = password_reset.email.lower()
+    
     reset_code = generate_token()
-    send_reset_email(user_email,reset_code)
+    send_reset_email(email,reset_code, db_user["name"])
     current_datetime = datetime.now()
     expiration_datetime = current_datetime + timedelta(hours=1)
     password_reset = PasswordReset(
-        id=None,
-        email=user_email,
+        email=email,
         token=reset_code,
         expires=expiration_datetime,
         used='pendiente'
         )
-    result = db.password_resets.insert_one(password_reset.dict())
-    password_reset.id = str(result.inserted_id)
+    db.password_resets.insert_one(password_reset.dict())
     
-    return password_reset
+    return {"message": "código de recuperación enviado."}
 
-@password_reset.post("/change_password/", response_model=ChangePassword, tags=["Password Reset"])
+@password_reset.post("/change_password/", response_model=dict, tags=["Password Reset"])
 async def change_password(change_password: ChangePassword):
-
+    print(change_password)
     tokens = list(db.password_resets.find({"token": change_password.token}))
     sorted_tokens = sorted(tokens, key=lambda x: x["expires"], reverse=True)
 
     if not sorted_tokens:
-        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Token no válido')
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Codigo no válido')
 
     db_token = sorted_tokens[0]
 
     if db_token["used"] == "usado":
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST,
-                            detail='Token ya usado')
+                            detail='Codigo ya usado')
     elif db_token["expires"] < datetime.now():
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST,
-                            detail='Token expirado')
+                            detail='El tiempo de uso del codigo de recuperación se ha terminado')
     else:
         new_password = utils.hash_password(change_password.password)
         db.password_resets.update_one({"_id": ObjectId(db_token["_id"])}, {"$set": {"used": "usado"}})
         db.users.update_one({"email": db_token["email"]}, {"$set": {"password": new_password}})
 
-    response = {
-        "token": change_password.token,
-        "password": change_password.password
-    }
-    return response
+    return {"message": "Contraseña cambiada satisfactoriamente"}
