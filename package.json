@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@ionic-native/network": "^5.36.0"
+  }
+}

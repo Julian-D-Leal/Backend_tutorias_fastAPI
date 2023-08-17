@@ -1,4 +1,5 @@
 from datetime import timedelta
+from email.mime.image import MIMEImage
 import random
 import string
 from config.db import db
@@ -34,10 +35,6 @@ def send_reset_email(email,code, name):
     sender_name = 'Tutoriapp'
     receiver_email = email
     subject = 'Código de recuperación de contraseña'
-    with open('C:\\Users\\julia\\Desktop\\Backend_tutorias_fastAPI\\routes\\logo.png', 'rb') as f:
-        # Lee el archivo en base64
-        logo = base64.b64encode(f.read()).decode('utf-8')
-        # Reemplaza el texto del logo por el archivo en base64
     message = f'''
     <!DOCTYPE html>
 <html>
@@ -144,7 +141,7 @@ def send_reset_email(email,code, name):
             <h1 class="titulo">
                 TUTORIAPP
             </h1>
-            <img class="logo" src="data: image/png;base64,{logo}" />
+            <img class="logo" src="https://i.ibb.co/DWHVDfC/logo.png" />
         </div>
         <div class="body">
             <h2 class="mensaje">
@@ -198,7 +195,8 @@ def send_reset_email(email,code, name):
     msg['Subject'] = subject
 
     # Agrega el cuerpo del mensaje
-    msg.attach(MIMEText(message, 'html'))
+    msText = MIMEText(message, 'html')
+    msg.attach(msText)
 
     # Inicia la conexión al servidor SMTP y envía el mensaje
     smtp = smtplib.SMTP_SSL(smtp_server, smtp_port)
