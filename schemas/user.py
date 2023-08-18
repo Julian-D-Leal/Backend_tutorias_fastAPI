@@ -18,6 +18,7 @@ def userEntity(user) -> dict:
         "method_tutor": user["method_tutor"],
         "type_group": user["type_group"],
         "type_group_tutor": user["type_group_tutor"],
+        "tutor_opinions": user["tutor_opinions"],
         "subjects_tutor": user["subjects_tutor"],
         "keywords": user["keywords"],
         "calification": user["calification"],

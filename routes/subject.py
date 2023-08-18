@@ -15,19 +15,21 @@ async def getSubjects():
 async def getSubject(id: str):
     return subjectEntity(db.subjects.find_one({"_id": ObjectId(id)}))
 
-@subject.post('/subjects/create', response_model=Subject, tags=["Subjects"])
-async def createSubject(subject: Subject):
-    new_subject = dict(subject)
-    del new_subject['id']
+#Crear materias
+# @subject.post('/subjects/create', response_model=dict, tags=["Subjects"])
+# async def createSubject(subject: list[Subject]):
+    
 
-    if db.subjects.count_documents({"name": new_subject["name"]}) > 0:
-        return {"error": "Ya existe una materia con ese nombre"}
+#     for subj in subject:
+#         subj = subj.dict()
+#         del subj['id']
 
-    id = db.subjects.insert_one(new_subject).inserted_id
+#         if db.subjects.count_documents({"name": subj["name"]}) > 0:
+#             return {"error": "Ya existe una materia con ese nombre"}
+    
+#         db.subjects.insert_one(subj)
 
-    subject_created = db.subjects.find_one({"_id": id})
-
-    return subjectEntity(subject_created)
+#     return {"message": "creado con exito"}
 
 # @subject.put('/subjects/update/{id}', response_model=Subject, tags=["Subjects"])
 # async def updateSubject(id: str, subject: Subject):

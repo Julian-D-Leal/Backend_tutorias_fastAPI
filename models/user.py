@@ -14,6 +14,10 @@ class Schedule(BaseModel):
     day: int
     hour: int
 
+class Opinion(BaseModel):
+    opinion: str
+    calification_tutor: float
+
 class User(BaseModel):
     id: Optional[str]
     name: str
@@ -22,8 +26,8 @@ class User(BaseModel):
     avaliability: Optional[List[Schedule]]
     format: Optional[List[str]]
     format_tutor: Optional[List[str]]
-    is_tutor: bool = Field(default=False)
-    is_student: bool = Field(default=False)
+    is_tutor: bool = Field(...,)
+    is_student: bool = Field(...)
     cost_tutor: Optional[int]
     type_tutor: Optional[str]
     password: str
@@ -33,12 +37,14 @@ class User(BaseModel):
     method_tutor: Optional[List[str]]
     type_group: Optional[List[str]]
     type_group_tutor: Optional[List[str]]
+    tutor_opinions: Optional[List[Opinion]]
     subjects_tutor: Optional[List[str]]
     keywords: Optional[List[str]]
     calification: Optional[List[Calification]]
     clicks: Optional[List[Clicks]]
 
     class Config:
+        arbitrary_types_allowed = True
         schema_extra = {
             "example": {
                 "name": "Juan",
@@ -57,6 +63,7 @@ class User(BaseModel):
                 "method": ["",""],
                 "method_tutor": ["",""],
                 "type_group": ["Grupal"],
+                "tutor_opinions": [{"opinion": "Muy buen tutor", "calification": 4.5}, {"opinion": "Buen tutor", "calification": 3.5}],
                 "type_group_tutor": ["Grupal","Individual"],
                 "subjects_tutor": ["id_Calculo","id_Programación","etc"],
                 "keywords": ["",""],

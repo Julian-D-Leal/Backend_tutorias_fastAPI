@@ -7,7 +7,6 @@ class PasswordReset(BaseModel):
     email: str
     token: Optional[str] = None
     expires: Optional[datetime] = None
-    used: Optional[str] = None
 
 class ChangePassword(BaseModel):
     token: str

@@ -141,7 +141,7 @@ def send_reset_email(email,code, name):
             <h1 class="titulo">
                 TUTORIAPP
             </h1>
-            <img class="logo" src="https://i.ibb.co/DWHVDfC/logo.png" />
+            <img class="logo" src="https://i.ibb.co/DWHVDfC/logo.png" alt="TutoriApp"/>
         </div>
         <div class="body">
             <h2 class="mensaje">
@@ -205,7 +205,7 @@ def send_reset_email(email,code, name):
     smtp.quit()
 
 @password_reset.post('/password_reset/{email}', response_model=dict, tags=["Password Reset"])
-async def createPasswordReset(email: str):
+async def createCodeReset(email: str):
     db_user = db.users.find_one({"email": email.lower()})
     if not db_user:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST,
@@ -218,33 +218,31 @@ async def createPasswordReset(email: str):
     password_reset = PasswordReset(
         email=email,
         token=reset_code,
-        expires=expiration_datetime,
-        used='pendiente'
+        expires=expiration_datetime
         )
+    del password_reset.id
+    print(password_reset.dict())
     db.password_resets.insert_one(password_reset.dict())
     
     return {"message": "código de recuperación enviado."}
 
 @password_reset.post("/change_password/", response_model=dict, tags=["Password Reset"])
 async def change_password(change_password: ChangePassword):
-    print(change_password)
-    tokens = list(db.password_resets.find({"token": change_password.token}))
-    sorted_tokens = sorted(tokens, key=lambda x: x["expires"], reverse=True)
-
-    if not sorted_tokens:
+    token = db.password_resets.find_one({"token": change_password.token})
+    password = change_password.password
+    if not token:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Codigo no válido')
+    
+    print(token)
 
-    db_token = sorted_tokens[0]
-
-    if db_token["used"] == "usado":
-        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST,
-                            detail='Codigo ya usado')
-    elif db_token["expires"] < datetime.now():
+    if token['expires'] < datetime.now():
+        db.password_resets.delete_many({"expires": {"$lt": datetime.now()}})
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST,
                             detail='El tiempo de uso del codigo de recuperación se ha terminado')
     else:
-        new_password = utils.hash_password(change_password.password)
-        db.password_resets.update_one({"_id": ObjectId(db_token["_id"])}, {"$set": {"used": "usado"}})
-        db.users.update_one({"email": db_token["email"]}, {"$set": {"password": new_password}})
+        new_password = utils.hash_password(password)
+        db.password_resets.delete_one({"_id": ObjectId(token["_id"])})
+        db.password_resets.delete_many({"expires": {"$lt": datetime.now()}})
+        db.users.update_one({"email":token["email"]}, {"$set": {"password": new_password}})
 
     return {"message": "Contraseña cambiada satisfactoriamente"}

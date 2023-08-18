@@ -41,7 +41,9 @@ async def createUser(user: User, Authorize: AuthJWT = Depends()):
 
 @user.post('/users/login', response_model=dict, tags=["Users"])
 async def login(user: LoginUserSchema, Authorize: AuthJWT = Depends()):
+
     db_user = db.users.find_one({"email": user.email.lower()})
+    
     if not db_user:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST,
                             detail='Email no registrado en nuestro sistema')
