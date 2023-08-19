@@ -232,8 +232,6 @@ async def change_password(change_password: ChangePassword):
     password = change_password.password
     if not token:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Codigo no válido')
-    
-    print(token)
 
     if token['expires'] < datetime.now():
         db.password_resets.delete_many({"expires": {"$lt": datetime.now()}})
