@@ -21,6 +21,7 @@ app = FastAPI(
 
 origins = [
     settings.CLIENT_ORIGIN,
+    '0.0.0.0'
 ]
 
 app.add_middleware(
