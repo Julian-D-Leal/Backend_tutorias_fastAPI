@@ -2,5 +2,5 @@ venv/
 myenv/
 config/settings.py
 .env
-requierments.txt
-
+requirements.txt
+requirements.in
