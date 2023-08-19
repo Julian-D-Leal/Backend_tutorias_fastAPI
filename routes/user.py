@@ -41,7 +41,7 @@ async def createUser(user: User, Authorize: AuthJWT = Depends()):
 
 @user.post('/users/login', response_model=dict, tags=["Users"])
 async def login(user: LoginUserSchema, Authorize: AuthJWT = Depends()):
-
+    print(user.dict())
     db_user = db.users.find_one({"email": user.email.lower()})
     
     if not db_user:
