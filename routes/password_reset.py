@@ -3,19 +3,17 @@ from email.mime.image import MIMEImage
 import random
 import string
 from config.db import db
-from fastapi import APIRouter, HTTPException,status
-from models.password_reset import ChangePassword, PasswordReset
+from fastapi import APIRouter, Depends, HTTPException,status
+from models.password_reset import ChangePassword, PasswordReset, ChangePasswordAuth
 from bson import ObjectId
 from datetime import datetime, timedelta
 import smtplib
-from email.message import EmailMessage
-import uuid
 import smtplib
 import utils
 from email.utils import formataddr
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
-import base64
+from auth import AuthJWT
 
 password_reset = APIRouter()
 
@@ -242,5 +240,30 @@ async def change_password(change_password: ChangePassword):
         db.password_resets.delete_one({"_id": ObjectId(token["_id"])})
         db.password_resets.delete_many({"expires": {"$lt": datetime.now()}})
         db.users.update_one({"email":token["email"]}, {"$set": {"password": new_password}})
+
+    return {"message": "Contraseña cambiada satisfactoriamente"}
+
+@password_reset.post("/change_password/auth/{email}", response_model=dict, tags=["Password Reset"])
+async def change_password_auth_user(email: str, newPass: ChangePasswordAuth, Authorize: AuthJWT = Depends()):
+    try:
+        Authorize.jwt_required()
+        current_user = Authorize.get_jwt_subject()
+    except Exception as e:
+        error = e.__class__.__name__
+        if error == 'MissingTokenError':
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST, detail='Porfavor proporcione un token de accesso')
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST, detail=error)
+    
+    newPass = newPass.dict()
+    db_user = db.users.find_one({"email": current_user.lower()})
+
+    if not utils.verify_password(newPass['actualPassword'], db_user['password']):
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST,
+                            detail='contraseña incorrecta')
+    
+    new_password = utils.hash_password(newPass['newPassword'])
+    db.users.update_one({"email": current_user.lower()}, {"$set": {"password": new_password}})
 
     return {"message": "Contraseña cambiada satisfactoriamente"}

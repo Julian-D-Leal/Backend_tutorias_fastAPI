@@ -11,3 +11,7 @@ class PasswordReset(BaseModel):
 class ChangePassword(BaseModel):
     token: str
     password: str
+
+class ChangePasswordAuth(BaseModel):
+    actualPassword: str
+    newPassword: str
