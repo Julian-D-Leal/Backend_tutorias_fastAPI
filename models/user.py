@@ -42,6 +42,7 @@ class User(BaseModel):
     keywords: Optional[List[str]]
     calification: Optional[List[Calification]]
     clicks: Optional[List[Clicks]]
+    image_url: Optional[str]
 
     class Config:
         arbitrary_types_allowed = True
@@ -68,7 +69,8 @@ class User(BaseModel):
                 "subjects_tutor": ["id_Calculo","id_Programación","etc"],
                 "keywords": ["",""],
                 "calification": [{"id_tutor": "12345","calif": 3.7}, {"id_tutor": "43254", "calif": 4.5}],
-                "clicks": [{"asignatura_id": "id_Calculo","tutor_id": "12345"}, {"asignatura_id": "id_Programación", "tutor_id": "43254"}]
+                "clicks": [{"asignatura_id": "id_Calculo","tutor_id": "12345"}, {"asignatura_id": "id_Programación", "tutor_id": "43254"}],
+                "image_url": "http://azure.blob.com/12345.jpg"
             }
         }
 

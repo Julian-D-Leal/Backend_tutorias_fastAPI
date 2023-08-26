@@ -22,7 +22,8 @@ def userEntity(user) -> dict:
         "subjects_tutor": user["subjects_tutor"],
         "keywords": user["keywords"],
         "calification": user["calification"],
-        "clicks": user["clicks"]
+        "clicks": user["clicks"],
+        "image_url": user["image_url"]
     }
 
 def usersEntity(users) -> list:

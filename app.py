@@ -4,6 +4,7 @@ from config.config import settings
 from routes.subject import subject
 from routes.user import user
 from routes.password_reset import password_reset
+from routes.blob import blob1 as blob
 
 app = FastAPI(
     title="Tutorias FastAPI",
@@ -16,6 +17,14 @@ app = FastAPI(
     {
         "name": "Users",
         "description": "Users and authentication endpoints"
+    },
+    {
+        "name": "Password Reset",
+        "description": "Password reset endpoints"
+    },
+    {
+        "name": "Blobs",
+        "description": "Upload image of profile endpoint"
     }]
 )
 
@@ -35,3 +44,4 @@ app.add_middleware(
 app.include_router(subject)
 app.include_router(user)
 app.include_router(password_reset)
+app.include_router(blob)
