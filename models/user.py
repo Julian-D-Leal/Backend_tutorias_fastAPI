@@ -4,7 +4,7 @@ from typing import Optional
 
 class Calification(BaseModel):
     id_tutor: str = Field(..., alias="id_tutor")
-    calif: float = Field(..., alias="calif")
+    calif: float = Field(..., alias="calif", ge=0.5, le=5)
 
 class Clicks(BaseModel):
     asignatura_id: str
@@ -16,7 +16,8 @@ class Schedule(BaseModel):
 
 class Opinion(BaseModel):
     opinion: str
-    calification_tutor: float
+    calification_tutor: float = Field(..., ge=0.5, le=5)
+    id_user: str
 
 class User(BaseModel):
     id: Optional[str]

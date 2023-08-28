@@ -12,9 +12,9 @@ MB = 1024 * KB
 
 
 SUPPORTED_FILES_TYPES = {
-    'image/png': '.png',
-    'image/jpeg': '.jpg',
-    'image/jpg': '.jpg',
+    'image/png': 'png',
+    'image/jpeg': 'jpg',
+    'image/jpg': 'jpg',
 }
 
 
@@ -69,9 +69,9 @@ async def uploadToAzure(email: str,file: UploadFile = File(...)):
         except Exception as e:
             error = e.__class__.__name__
             raise HTTPException(
-            status_code=status.HTTP_400_BAD_REQUEST, detail=error)    
+            status_code=status.HTTP_400_BAD_REQUEST, detail=error)
     
     db.users.find_one_and_update({"email": email}, {"$set": {"image_url": blob_client.url}})
 
-    return {"message": "Imagen guardada con éxito"}
+    return {"message": "Imagen guardada con éxito", "url": blob_client.url}
 
