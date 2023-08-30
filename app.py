@@ -44,7 +44,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-app.mount('/', app=sio_app)
+# app.mount('/', app=sio_app)
 
 # sio = socketio.AsyncServer(async_mode='asgi', cors_allowed_origins='*')
 # sio.attach(app)
