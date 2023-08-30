@@ -5,6 +5,8 @@ from routes.subject import subject
 from routes.user import user
 from routes.password_reset import password_reset
 from routes.blob import blob1 as blob
+from routes.chat import sio_app
+
 
 app = FastAPI(
     title="Tutorias FastAPI",
@@ -28,6 +30,7 @@ app = FastAPI(
     }]
 )
 
+
 origins = [
     settings.CLIENT_ORIGIN,
     "*"
@@ -41,6 +44,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+app.mount('/', app=sio_app)
+
+# sio = socketio.AsyncServer(async_mode='asgi', cors_allowed_origins='*')
+# sio.attach(app)
 app.include_router(subject)
 app.include_router(user)
 app.include_router(password_reset)
