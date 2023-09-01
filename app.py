@@ -5,8 +5,8 @@ from routes.subject import subject
 from routes.user import user
 from routes.password_reset import password_reset
 from routes.blob import blob1 as blob
-from routes.chat import router as chat_router
-import socketio
+# from routes.chat import router as chat_router
+# import socketio
 
 app = FastAPI(
     title="Tutorias FastAPI",
