@@ -1,12 +1,13 @@
 from datetime import timedelta
 from config.config import settings
 from config.db import db
-from fastapi import APIRouter, Depends, HTTPException, status
+from fastapi import APIRouter, Depends, HTTPException, status, Query
 from models.user import User, LoginUserSchema
 from schemas.user import userEntity, usersEntity
 from bson import ObjectId
 import utils
 from auth import AuthJWT
+from typing import List 
 
 user = APIRouter()
 
@@ -135,6 +136,12 @@ async def getUser(email: str, Authorize: AuthJWT = Depends()):
     
     return userEntity(db.users.find_one({"email": email}))
 
+# @user.get('/users/usersList/', response_model=list[User], status_code=status.HTTP_200_OK,tags=["Users"])
+# async def getUsers(ids: List[str] = Query(...)):
+#     objectIds = [ObjectId(_id) for _id in ids]
+#     users = db.users.find({"_id": {"$in": objectIds}})
+#     users = list(users)
+#     return usersEntity(users)
 
 
 @user.patch('/users/update/{id}', response_model=User, tags=["Users"], status_code=status.HTTP_200_OK)
