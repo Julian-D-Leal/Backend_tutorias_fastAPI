@@ -11,8 +11,7 @@ import socketio
 router = APIRouter()
 
 sio_server = socketio.AsyncServer(
-    async_mode='asgi',
-    cors_allowed_origins=["*"]
+    async_mode='asgi'
 )
 
 sio_app = socketio.ASGIApp(
