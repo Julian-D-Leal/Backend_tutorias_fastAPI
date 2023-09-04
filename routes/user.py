@@ -94,30 +94,12 @@ async def refresh(Authorize: AuthJWT = Depends()):
     
     return {"access_token": access_token, "user": userEntity(user)}
 
-
-# @user.post('/users/logout', response_model=dict, tags=["Users"])
-# async def logout(Authorize: AuthJWT = Depends()):
-#     Authorize.unset_jwt_cookies()
-
-#     return{"status": "success", "message": "Se ha cerrado la sesión"}
-
 #falta modificar la función para que retorne los tutores que se están buscando
 @user.get('/users/tutores', response_model=list[User], status_code=status.HTTP_200_OK,tags=["Users"])
-async def getUsers(Authorize: AuthJWT = Depends()):
-    try:
-        Authorize.jwt_required()
-    except Exception as e:
-        error = e.__class__.__name__
-        if error == 'InvalidHeaderError':
-            raise HTTPException(
-                status_code=status.HTTP_400_BAD_REQUEST, detail='Porfavor proporcione un token de acceso')
-        if error == 'ExpiredSignatureError':
-            raise HTTPException(
-                status_code=status.HTTP_400_BAD_REQUEST, detail='El token de acceso ha expirado')
-        raise HTTPException(
-            status_code=status.HTTP_400_BAD_REQUEST, detail=error)
-    
-    return usersEntity(db.users.find())
+async def getUsers(keywords: str = Query(...)):
+    keywords = keywords.split(",")
+    print(keywords)
+    return usersEntity(db.users.find({"is_tutor": True}))
 
 @user.get('/users/{email}', response_model=User, status_code=status.HTTP_200_OK,tags=["Users"])
 async def getUser(email: str, Authorize: AuthJWT = Depends()):
@@ -136,12 +118,11 @@ async def getUser(email: str, Authorize: AuthJWT = Depends()):
     
     return userEntity(db.users.find_one({"email": email}))
 
-# @user.get('/users/usersList/', response_model=list[User], status_code=status.HTTP_200_OK,tags=["Users"])
-# async def getUsers(ids: List[str] = Query(...)):
-#     objectIds = [ObjectId(_id) for _id in ids]
-#     users = db.users.find({"_id": {"$in": objectIds}})
-#     users = list(users)
-#     return usersEntity(users)
+@user.get('/users/userName/{id}', response_model= dict, status_code=status.HTTP_200_OK,tags=["Users"])
+async def getUsers(id : str):
+    user = db.users.find_one({"_id": ObjectId(id)})
+    name = user["name"]
+    return {"name": name}
 
 
 @user.patch('/users/update/{id}', response_model=User, tags=["Users"], status_code=status.HTTP_200_OK)
