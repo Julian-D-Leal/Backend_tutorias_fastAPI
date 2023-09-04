@@ -3,17 +3,12 @@ from models.chat import Message
 from schemas.messages import messageEntity, messagesEntity
 from config.db import db
 import socketio
-import json
 from bson import ObjectId
 from schemas.user import usersEntity
 from schemas.chat import conversationsEntity
+import socketio
 
 router = APIRouter()
-
-# Create a socket.io server instance
-#sio = socketio.AsyncServer(cors_allowed_origins="*")
-
-import socketio
 
 sio_server = socketio.AsyncServer(
     async_mode='asgi',
@@ -28,13 +23,8 @@ sio_app = socketio.ASGIApp(
 
 @sio_server.event
 async def connect(sid, environ, socket):
-    #sio_server.on('prueba', data)
-
     print("connected:", sid)
-    #print(f'environ: {data}')
-    #
-    #print(historial)
-    #await sio_server.emit('connect', {'sid': sid, 'message': 'New user joined'})
+
 
 
 @sio_server.event
