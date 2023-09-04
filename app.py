@@ -5,8 +5,8 @@ from routes.subject import subject
 from routes.user import user
 from routes.password_reset import password_reset
 from routes.blob import blob1 as blob
-# from routes.chat import router as chat_router
-# import socketio
+from routes.chat import router as chat_router
+from routes.chat import sio_app
 
 app = FastAPI(
     title="Tutorias FastAPI",
@@ -44,11 +44,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# sio = socketio.AsyncServer(async_mode='asgi')
-# app.mount("/socket.io", socketio.ASGIApp(sio))
-
 app.include_router(subject)
 app.include_router(user)
 app.include_router(password_reset)
 app.include_router(blob)
-# app.include_router(chat_router)
+app.include_router(chat_router)
+app.mount('/', app=sio_app)
