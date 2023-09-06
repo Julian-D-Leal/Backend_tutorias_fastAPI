@@ -20,30 +20,48 @@ sio_app = socketio.ASGIApp(
     socketio_path='sockets'
 )
 
-
 @sio_server.event
 async def connect(sid, environ, socket):
     print("connected:", sid)
 
-
-
-@sio_server.event
-async def messages(sid, data):
-    historial = await get_messages_for_conversation(data["idUser"], data["idReceiver"])
-    await sio_server.emit('messages', {'sid': sid, 'messages': historial})
-
-@sio_server.event
-async def chat(sid, message):
-    print(f'mensaje: {message}')
-    print(type(message))
-    # del message_format.id
-    db.messages.insert_one(message)
-    await sio_server.emit('chat', {'sid': sid, 'message': messageEntity(message)})
-
-
 @sio_server.event
 async def disconnect(sid):
     print(f'{sid}: disconnected')
+
+@sio_server.event
+async def messages(sid, data):
+    print(data)
+    sender = data["idUser"]
+    receiver = data["idReceiver"]
+    room_id = await get_room_id(sender, receiver)
+    historial = await get_messages_for_conversation(data["idUser"], data["idReceiver"])
+    print(historial)
+    await sio_server.emit('messages', {'sid': sid, 'messages': historial}, room=room_id)
+
+@sio_server.event
+async def chat(sid, message, room):
+    room_id = "".join(room)
+    print(f'mensaje: {message}')
+    db.messages.insert_one(message)
+    await sio_server.emit('chat', {'sid': sid, 'message': messageEntity(message)}, room=room_id)
+
+@sio_server.event
+async def join_room(sid, data):
+    sender = data["idUser"]
+    receiver = data["idReceiver"]
+    room_id = await get_room_id(sender, receiver)
+    print(f'{sid}: joined room {room_id}')
+    sio_server.enter_room(sid, room_id)
+    await sio_server.emit('join_room', {'sid': sid, 'room': room_id})
+
+async def get_room_id(user_id: str, recipient_id: str):
+    sorted_ids = sorted([user_id, recipient_id])
+    concatenated_ids = "".join(sorted_ids)
+    room_id = db.rooms.find_one({"room": concatenated_ids})
+    if not room_id:
+        room_id = db.rooms.insert_one({"room": concatenated_ids})
+    print(room_id.get("room"))
+    return room_id.get("room")
 
 async def get_messages_for_conversation(user_id: str, recipient_id: str):
     messages = db.messages.find({
@@ -52,7 +70,6 @@ async def get_messages_for_conversation(user_id: str, recipient_id: str):
             {"sender": recipient_id, "receiver": user_id}
         ]
     })
-    
     return messagesEntity(messages)
 
 @router.get("/messages/{user_id}")
