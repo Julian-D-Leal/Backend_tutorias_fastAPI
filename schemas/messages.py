@@ -1,11 +1,12 @@
 def messageEntity(message) -> dict:
     return{
-        "id": str(message["_id"]),
+        # "_id": str(message["_id"]),
         "message": message["message"],
         "sender": message["sender"],
         "receiver": message["receiver"],
         "date": message["date"],
-        "time": message["time"]
+        "time": message["time"],
+        "read": message["read"],
     }
 
 def messagesEntity(messages) -> list:

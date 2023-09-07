@@ -1,8 +1,9 @@
 def conversationEntity(conversation) -> dict:
     return{
-        "id": str(conversation["_id"]),
+        "_id": str(conversation["_id"]),
         "name": conversation["name"],
-        "image_url": conversation["image_url"]
+        "image_url": conversation["image_url"],
+        "read": conversation["read"],
     }
 
 def conversationsEntity(conversations) -> list:
