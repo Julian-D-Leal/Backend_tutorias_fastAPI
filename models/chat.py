@@ -1,5 +1,5 @@
 from typing import Optional
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 class Message(BaseModel):
     id: Optional[str]
@@ -8,3 +8,4 @@ class Message(BaseModel):
     receiver: str
     date: Optional[str]
     time: Optional[str]
+    read: bool | None = Field(default=False)
