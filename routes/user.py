@@ -22,7 +22,6 @@ async def createUser(user: User, Authorize: AuthJWT = Depends()):
     new_user["password"] = utils.hash_password(new_user["password"])
     new_user["email"] = new_user["email"].lower()
     new_user["image_url"] = "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
-    del new_user['id']
 
     if db.users.count_documents({"email": new_user["email"]}) > 0:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST,
