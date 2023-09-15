@@ -4,7 +4,7 @@ def userEntity(user) -> dict:
         "name": user["name"],
         "career": user["career"],
         "semester": user["semester"],
-        "avaliability": user["avaliability"],	
+        "availability": user["availability"],	
         "format": user["format"],	
         "format_tutor": user["format_tutor"],
         "is_tutor": user["is_tutor"],
