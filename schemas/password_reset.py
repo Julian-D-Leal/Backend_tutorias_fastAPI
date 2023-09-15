@@ -1,6 +1,6 @@
 def password_resetEntity(password_reset) -> dict:
     return{
-        "id": str(password_reset["_id"]),
+        "_id": str(password_reset["_id"]),
         "email": password_reset["email"],
         "token": password_reset["token"],
         "expires": password_reset["expires"]

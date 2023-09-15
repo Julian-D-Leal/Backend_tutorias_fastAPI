@@ -2,7 +2,6 @@ from typing import Optional
 from pydantic import BaseModel, Field
 
 class Message(BaseModel):
-    id: Optional[str]
     message: str
     sender: str
     receiver: str

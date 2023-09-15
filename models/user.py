@@ -7,8 +7,7 @@ class Calification(BaseModel):
     calif: float = Field(..., alias="calif", ge=0.5, le=5)
 
 class Clicks(BaseModel):
-    asignatura_id: str
-    tutor_id: str
+    id_tutor: str
 
 class Schedule(BaseModel):
     day: int
@@ -20,20 +19,19 @@ class Opinion(BaseModel):
     id_user: str
 
 class User(BaseModel):
-    id: Optional[str]
     name: str
     career: Optional[str]
     semester: Optional[int]
-    avaliability: Optional[List[Schedule]]
+    availability: Optional[List[Schedule]]
     format: Optional[List[str]]
     format_tutor: Optional[List[str]]
     is_tutor: bool = Field(...,)
     is_student: bool = Field(...)
-    cost_tutor: Optional[int]
+    cost_tutor: Optional[int] 
     type_tutor: Optional[str]
     password: str
     email: EmailStr
-    budget: Optional[float]#presupuesto
+    budget: Optional[int]
     method: Optional[List[str]]
     method_tutor: Optional[List[str]]
     type_group: Optional[List[str]]
@@ -52,7 +50,7 @@ class User(BaseModel):
                 "name": "Juan",
                 "career": "Ingeniería de Sistemas",
                 "semester": 5,
-                "avaliability": [{"day":2,"hour": 5},{"day":1,"hour": 2}],
+                "availability": [{"day":2,"hour": 5},{"day":1,"hour": 2}],
                 "format": ["Presencial","Virtual"],
                 "format_tutor": ["Virtual"],
                 "is_tutor": False,

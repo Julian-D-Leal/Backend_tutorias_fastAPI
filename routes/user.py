@@ -126,7 +126,7 @@ async def getUsers(id : str):
     return {"name": name}
 
 
-@user.patch('/users/update/{id}', response_model=User, tags=["Users"], status_code=status.HTTP_200_OK)
+@user.patch('/users/update/{id}', response_model=dict, tags=["Users"], status_code=status.HTTP_200_OK)
 async def updateUser(id: str, user: dict, Authorize: AuthJWT = Depends()):
     try:
         Authorize.jwt_required()
@@ -141,11 +141,15 @@ async def updateUser(id: str, user: dict, Authorize: AuthJWT = Depends()):
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST, detail=error)
     stored_user_data = db.users.find_one({"_id": ObjectId(id)})
-    store_data_model = User(**stored_user_data)
-    update_user = {key: value for key, value in user.items() if key in store_data_model.__annotations__}
-    updated_user = store_data_model.copy(update=update_user)
-    user_updated = db.users.find_one_and_update({"_id": ObjectId(id)}, {"$set": updated_user.dict()}, return_document=True)
-    
+    update_user = {**stored_user_data, **user}
+    update_user = User(**update_user).dict()
+    # stored_user_data["_id"] = str(stored_user_data["_id"])
+    #store_data_model = User(**stored_user_data)
+    #print(store_data_model.dict())
+    #update_user = {key: value for key, value in user.items() if key in stored_user_data}
+    #updated_user = stored_user_data.copy(update=update_user)
+    user_updated = db.users.find_one_and_update({"_id": ObjectId(id)}, {"$set": update_user}, return_document=True)
+
     return userEntity(user_updated)
 
 @user.delete('/users/delete/{id}', response_model=dict, tags=["Users"], status_code=status.HTTP_200_OK)
