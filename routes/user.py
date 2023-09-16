@@ -101,7 +101,7 @@ async def getUsers(keywords: str = Query(...)):
     print(keywords)
     return usersEntity(db.users.find({"is_tutor": True}))
 
-@user.get('/users/{email}', response_model=User, status_code=status.HTTP_200_OK,tags=["Users"])
+@user.get('/users/{email}', response_model=dict, status_code=status.HTTP_200_OK,tags=["Users"])
 async def getUser(email: str, Authorize: AuthJWT = Depends()):
     try:
         Authorize.jwt_required()
@@ -115,8 +115,8 @@ async def getUser(email: str, Authorize: AuthJWT = Depends()):
                 status_code=status.HTTP_400_BAD_REQUEST, detail='El token de acceso ha expirado')
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST, detail=error)
-    
-    return userEntity(db.users.find_one({"email": email}))
+    user= db.users.find_one({"email": email})
+    return {"userData": userEntity(user)}
 
 @user.get('/users/userName/{id}', response_model= dict, status_code=status.HTTP_200_OK,tags=["Users"])
 async def getUsers(id : str):
