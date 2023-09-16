@@ -2,10 +2,6 @@ from pydantic import BaseModel, Field, EmailStr
 from typing import List
 from typing import Optional
 
-class Calification(BaseModel):
-    id_tutor: str = Field(..., alias="id_tutor")
-    calif: float = Field(..., alias="calif", ge=0.5, le=5)
-
 class Clicks(BaseModel):
     id_tutor: str
 
@@ -14,9 +10,11 @@ class Schedule(BaseModel):
     hour: int
 
 class Opinion(BaseModel):
-    opinion: str
+    opinion: Optional[str]
     calification_tutor: float = Field(..., ge=0.5, le=5)
-    id_user: str
+    name_user: str
+    url_img: str
+
 
 class User(BaseModel):
     name: str
@@ -39,7 +37,6 @@ class User(BaseModel):
     tutor_opinions: Optional[List[Opinion]]
     subjects_tutor: Optional[List[str]]
     keywords: Optional[List[str]]
-    calification: Optional[List[Calification]]
     clicks: Optional[List[Clicks]]
     image_url: Optional[str]
 

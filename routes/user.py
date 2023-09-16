@@ -95,11 +95,29 @@ async def refresh(Authorize: AuthJWT = Depends()):
     return {"access_token": access_token, "user": userEntity(user)}
 
 #falta modificar la función para que retorne los tutores que se están buscando
-@user.get('/users/tutores', response_model=list[User], status_code=status.HTTP_200_OK,tags=["Users"])
+@user.get('/users/tutores', response_model=List, status_code=status.HTTP_200_OK,tags=["Users"])
 async def getUsers(keywords: str = Query(...)):
     keywords = keywords.split(",")
     print(keywords)
-    return usersEntity(db.users.find({"is_tutor": True}))
+    tutoresCursor = db.users.find({"is_tutor": True})
+    tutores =[]
+    for tutor in tutoresCursor:
+        dict_tutor = {
+            "id" : tutor["_id"].__str__(),
+            "name": tutor["name"],
+            "availability": tutor["availability"],
+            "format_tutor": tutor["format_tutor"],
+            "cost_tutor": tutor["cost_tutor"],
+            "type_tutor": tutor["type_tutor"],
+            "method_tutor": tutor["method_tutor"],
+            "type_group_tutor": tutor["type_group_tutor"],
+            "tutor_opinions": tutor["tutor_opinions"],
+            "subjects_tutor": tutor["subjects_tutor"],
+            "image_url": tutor["image_url"],
+        }
+        tutores.append(dict_tutor)    
+    print(tutores)
+    return tutores
 
 @user.get('/users/{email}', response_model=dict, status_code=status.HTTP_200_OK,tags=["Users"])
 async def getUser(email: str, Authorize: AuthJWT = Depends()):

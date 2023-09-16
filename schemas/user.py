@@ -21,11 +21,9 @@ def userEntity(user) -> dict:
         "tutor_opinions": user["tutor_opinions"],
         "subjects_tutor": user["subjects_tutor"],
         "keywords": user["keywords"],
-        "calification": user["calification"],
         "clicks": user["clicks"],
         "image_url": user["image_url"]
     }
 
 def usersEntity(users) -> list:
     return [userEntity(user) for user in users]
-
