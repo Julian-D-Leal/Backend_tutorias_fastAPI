@@ -29,7 +29,6 @@ async def disconnect(sid):
 
 @sio_server.event
 async def messages(sid, data):
-    #print(data)
     sender = data["idUser"]
     receiver = data["idReceiver"]
     room_id = await get_room_id(sender, receiver)
@@ -42,8 +41,6 @@ async def chat(sid, message):
     receiver = message["receiver"]
     room_id = await get_room_id(sender, receiver)
     message = Message(**message)
-    del message.id
-    #print(f'mensaje: {message}')
     message = message.dict()
     db.messages.insert_one(message)
     await sio_server.emit('chat', {'sid': sid, 'message': messageEntity(message)},  room=room_id)
@@ -53,7 +50,6 @@ async def join_room(sid, data):
     sender = data["idUser"]
     receiver = data["idReceiver"]
     room_id = await get_room_id(sender, receiver)
-    #print(f'{sid}: joined room {room_id}')
     sio_server.enter_room(sid, room_id)
     db.messages.update_many({"sender": receiver, "receiver": sender}, {"$set": {"read": True}})
     await sio_server.emit('join_room', {'sid': sid, 'room': room_id}, room=room_id)
@@ -64,7 +60,6 @@ async def get_room_id(user_id: str, recipient_id: str):
     room_id = db.rooms.find_one({"room": concatenated_ids})
     if not room_id:
         room_id = db.rooms.insert_one({"room": concatenated_ids})
-    #print(room_id.get("room"))
     return room_id.get("room")
 
 async def get_messages_for_conversation(user_id: str, recipient_id: str):
@@ -91,6 +86,5 @@ async def get_conversations_by_id(user_id: str):
     for user in users:
         user_info = {"_id": user["_id"], "name": user["name"], "image_url": user["image_url"],"read": False if user["_id"] in objectIds_unread_messages else True}
         response.append(user_info)
-    #print("response:" + str(response))
     return conversationsEntity(response)
 

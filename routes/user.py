@@ -95,10 +95,9 @@ async def refresh(Authorize: AuthJWT = Depends()):
     return {"access_token": access_token, "user": userEntity(user)}
 
 #falta modificar la función para que retorne los tutores que se están buscando
-@user.get('/users/tutores', response_model=List, status_code=status.HTTP_200_OK,tags=["Users"])
+@user.get('/users/tutores', response_model=list, status_code=status.HTTP_200_OK,tags=["Users"])
 async def getUsers(keywords: str = Query(...)):
     keywords = keywords.split(",")
-    print(keywords)
     tutoresCursor = db.users.find({"is_tutor": True})
     tutores =[]
     for tutor in tutoresCursor:
@@ -115,8 +114,7 @@ async def getUsers(keywords: str = Query(...)):
             "subjects_tutor": tutor["subjects_tutor"],
             "image_url": tutor["image_url"],
         }
-        tutores.append(dict_tutor)    
-    print(tutores)
+        tutores.append(dict_tutor)     
     return tutores
 
 @user.get('/users/{email}', response_model=dict, status_code=status.HTTP_200_OK,tags=["Users"])
@@ -160,11 +158,6 @@ async def updateUser(id: str, user: dict, Authorize: AuthJWT = Depends()):
     stored_user_data = db.users.find_one({"_id": ObjectId(id)})
     update_user = {**stored_user_data, **user}
     update_user = User(**update_user).dict()
-    # stored_user_data["_id"] = str(stored_user_data["_id"])
-    #store_data_model = User(**stored_user_data)
-    #print(store_data_model.dict())
-    #update_user = {key: value for key, value in user.items() if key in stored_user_data}
-    #updated_user = stored_user_data.copy(update=update_user)
     user_updated = db.users.find_one_and_update({"_id": ObjectId(id)}, {"$set": update_user}, return_document=True)
 
     return userEntity(user_updated)
