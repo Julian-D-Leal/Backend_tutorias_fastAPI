@@ -5,18 +5,19 @@ from config.db import db
 import socketio
 from bson import ObjectId
 from schemas.chat import conversationsEntity
-import socketio
 
 router = APIRouter()
 
 sio_server = socketio.AsyncServer(
     async_mode='asgi',
-    cors_allowed_origins=[]
+    cors_allowed_origins=[],
+    logger=True,
+    engineio_logger=True,
 )
 
 sio_app = socketio.ASGIApp(
     socketio_server=sio_server,
-    socketio_path='sockets'
+    socketio_path='sockets',
 )
 
 @sio_server.event
@@ -43,7 +44,8 @@ async def chat(sid, message):
     message = Message(**message)
     message = message.dict()
     db.messages.insert_one(message)
-    await sio_server.emit('chat', {'sid': sid, 'message': messageEntity(message)},  room=room_id)
+    Newmessages = await get_messages_for_conversation(sender, receiver)
+    await sio_server.emit('chat', {'sid': sid, 'messages': messagesEntity(Newmessages)},  room=room_id)
 
 @sio_server.event
 async def join_room(sid, data):
