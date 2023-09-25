@@ -1,17 +1,11 @@
 # import spacy
-# import nltk
+# from spacy.lang.es.stop_words import STOP_WORDS
 
-# if not nltk.corpus.stopwords.fileids():
-#     nltk.download('stopwords')
-
-# from nltk.corpus import stopwords
-
-# stopwords = stopwords.words('spanish')
 # nlp = spacy.load("es_core_news_lg")
 
 # def searchEngine(keywords, subjects):
 #     totalScore = 0
-#     filteredKeywords = [keyword for keyword in keywords if keyword not in stopwords]
+#     filteredKeywords = [keyword for keyword in keywords if keyword not in STOP_WORDS]
 #     for keyword in filteredKeywords:
 #         score = 0   
 #         keyword = keyword.lower()
@@ -19,7 +13,7 @@
 #         for subject in subjects:
 #             if " " in subject:
 #                 words = subject.lower().split()
-#                 filteredWords = [word for word in words if word not in stopwords]
+#                 filteredWords = [word for word in words if word not in STOP_WORDS]
 #                 maxScore = 0
 #                 for word in filteredWords:
 #                     word = word.lower()

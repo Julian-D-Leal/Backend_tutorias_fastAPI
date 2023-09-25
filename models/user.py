@@ -2,9 +2,6 @@ from pydantic import BaseModel, Field, EmailStr
 from typing import List
 from typing import Optional
 
-class Clicks(BaseModel):
-    id_tutor: str
-
 class Schedule(BaseModel):
     day: int
     hour: int
@@ -37,7 +34,7 @@ class User(BaseModel):
     tutor_opinions: Optional[List[Opinion]]
     subjects_tutor: Optional[List[str]]
     keywords: Optional[List[str]]
-    clicks: Optional[List[Clicks]]
+    clicks: Optional[List[str]]
     image_url: Optional[str]
 
     class Config:
@@ -65,7 +62,7 @@ class User(BaseModel):
                 "subjects_tutor": ["id_Calculo","id_Programación","etc"],
                 "keywords": ["",""],
                 "calification": [{"id_tutor": "12345","calif": 3.7}, {"id_tutor": "43254", "calif": 4.5}],
-                "clicks": [{"asignatura_id": "id_Calculo","tutor_id": "12345"}, {"asignatura_id": "id_Programación", "tutor_id": "43254"}],
+                "clicks": ["id_tutor1","id_tutor2","id_tutor3"],
                 "image_url": "http://azure.blob.com/12345.jpg"
             }
         }

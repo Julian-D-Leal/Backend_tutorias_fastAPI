@@ -5,7 +5,7 @@ from fastapi import APIRouter, Depends, HTTPException, status, Query
 from models.user import User, LoginUserSchema
 from schemas.user import userEntity, usersEntity
 from bson import ObjectId
-# from .searchEngine.searchEngine import searchEngine
+# from scripts.searchEngine.searchEngine import searchEngine
 import utils
 from auth import AuthJWT
 from typing import List 
@@ -95,33 +95,53 @@ async def refresh(Authorize: AuthJWT = Depends()):
     
     return {"access_token": access_token, "user": userEntity(user)}
 
-# @user.get('/users/tutores', response_model=list, status_code=status.HTTP_200_OK,tags=["Users"])
-# async def getUsers(keywords: str = Query(...)):
-#     keywords = keywords.split(",")
-#     tutoresCursor = db.users.find({"is_tutor": True})
-#     tutores =[]
-#     for tutor in tutoresCursor:
-#         score = searchEngine(keywords, tutor["subjects_tutor"])
-#         if score > 0.399:
-#             dict_tutor = {
-#                 "id" : tutor["_id"].__str__(),
-#                 "name": tutor["name"],
-#                 "availability": tutor["availability"],
-#                 "format_tutor": tutor["format_tutor"],
-#                 "cost_tutor": tutor["cost_tutor"],
-#                 "type_tutor": tutor["type_tutor"],
-#                 "method_tutor": tutor["method_tutor"],
-#                 "type_group_tutor": tutor["type_group_tutor"],
-#                 "tutor_opinions": tutor["tutor_opinions"],
-#                 "subjects_tutor": tutor["subjects_tutor"],
-#                 "image_url": tutor["image_url"],
-#                 "score": f"{score:.2f}"
-#             }
-#             tutores.append(dict_tutor)     
-#     tutores.sort(key=lambda x: x["score"], reverse=True)
-#     for tutor in tutores:
-#         del tutor["score"]
-#     return tutores
+@user.get('/users/tutores', response_model=list, status_code=status.HTTP_200_OK,tags=["Users"])
+async def getUsers(keywords: str = Query(...)):
+    if not keywords :
+        tutoresCursor = db.users.find({"is_tutor": True})
+        tutores =[]
+        for tutor in tutoresCursor:
+            dict_tutor = {
+                "id" : tutor["_id"].__str__(),
+                "name": tutor["name"],
+                "availability": tutor["availability"],
+                "format_tutor": tutor["format_tutor"],
+                "cost_tutor": tutor["cost_tutor"],
+                "type_tutor": tutor["type_tutor"],
+                "method_tutor": tutor["method_tutor"],
+                "type_group_tutor": tutor["type_group_tutor"],
+                "tutor_opinions": tutor["tutor_opinions"],
+                "subjects_tutor": tutor["subjects_tutor"],
+                "image_url": tutor["image_url"]
+            }
+            tutores.append(dict_tutor)
+        return tutores
+    # else:
+    #     keywords = keywords.split(",")
+    #     tutoresCursor = db.users.find({"is_tutor": True})
+    #     tutores =[]
+    #     for tutor in tutoresCursor:
+    #         score = searchEngine(keywords, tutor["subjects_tutor"])
+    #         if score > 0.399:
+    #             dict_tutor = {
+    #                 "id" : tutor["_id"].__str__(),
+    #                 "name": tutor["name"],
+    #                 "availability": tutor["availability"],
+    #                 "format_tutor": tutor["format_tutor"],
+    #                 "cost_tutor": tutor["cost_tutor"],
+    #                 "type_tutor": tutor["type_tutor"],
+    #                 "method_tutor": tutor["method_tutor"],
+    #                 "type_group_tutor": tutor["type_group_tutor"],
+    #                 "tutor_opinions": tutor["tutor_opinions"],
+    #                 "subjects_tutor": tutor["subjects_tutor"],
+    #                 "image_url": tutor["image_url"],
+    #                 "score": f"{score:.2f}"
+    #             }
+    #             tutores.append(dict_tutor)     
+    #     tutores.sort(key=lambda x: x["score"], reverse=True)
+    #     for tutor in tutores:
+    #         del tutor["score"]
+    #     return tutores
 
 @user.get('/users/{email}', response_model=dict, status_code=status.HTTP_200_OK,tags=["Users"])
 async def getUser(email: str, Authorize: AuthJWT = Depends()):

@@ -1,0 +1,6551 @@
+[
+  {
+    "name": "Francisca Pinilla Zorrilla",
+    "email": "franciscapinillazorrilla@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 2
+      },
+      {
+        "day": 2,
+        "hour": 0
+      },
+      {
+        "day": 4,
+        "hour": 2
+      },
+      {
+        "day": 1,
+        "hour": 4
+      },
+      {
+        "day": 5,
+        "hour": 5
+      },
+      {
+        "day": 4,
+        "hour": 6
+      },
+      {
+        "day": 4,
+        "hour": 8
+      },
+      {
+        "day": 4,
+        "hour": 12
+      },
+      {
+        "day": 4,
+        "hour": 0
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 48000,
+    "method": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Visual",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Auditivo"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Exterior"
+    ],
+    "semester": 6,
+    "career": "Administración de Empresas",
+    "clicks": [
+      "chussoriano-simó@gmail.com",
+      "cayetanoluz@gmail.com"
+    ]
+  },
+  {
+    "name": "Marina Arregui Gallart",
+    "email": "marinaarreguigallart@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 1,
+        "hour": 4
+      },
+      {
+        "day": 5,
+        "hour": 0
+      },
+      {
+        "day": 4,
+        "hour": 11
+      },
+      {
+        "day": 4,
+        "hour": 10
+      },
+      {
+        "day": 1,
+        "hour": 7
+      },
+      {
+        "day": 5,
+        "hour": 2
+      },
+      {
+        "day": 5,
+        "hour": 9
+      },
+      {
+        "day": 2,
+        "hour": 3
+      }
+    ],
+    "format": [
+      "Presencial"
+    ],
+    "budget": 41000,
+    "method": [
+      "Aprendizaje Activo",
+      "Aprendizaje Visual",
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group": [
+      "Individual"
+    ],
+    "keywords": [
+      "Construcción",
+      "Complejidad",
+      "Potencia"
+    ],
+    "semester": 4,
+    "career": "Nutrición y Dietética",
+    "clicks": [
+      "vinicioisaíasgisbertmoles@gmail.com",
+      "jafetcarmona@gmail.com",
+      "alejandrabuenobarral@gmail.com"
+    ]
+  },
+  {
+    "name": "Calixto Martínez Hidalgo",
+    "email": "calixtomartínezhidalgo@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 7
+      }
+    ],
+    "format_tutor": [
+      "Virtual",
+      "Presencial"
+    ],
+    "cost_tutor": 15000,
+    "method_tutor": [
+      "Aprendizaje Teórico"
+    ],
+    "type_group_tutor": [
+      "Grupal"
+    ],
+    "type_tutor": "Estudiante",
+    "tutor_opinions": [
+      {
+        "opinion": "Consequatur accusamus sit corrupti. Ipsam hic unde. Officiis explicabo id et mollitia maiores.",
+        "calification_tutor": 3,
+        "name_user": "Xiomara Nicolau-Rosselló",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Nemo dolores suscipit dicta accusamus excepturi exercitationem. Laborum ullam quam quis dicta.",
+        "calification_tutor": 1,
+        "name_user": "Maricela Crespo-Alegria",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Magnam voluptates reprehenderit amet incidunt perferendis. Earum dolorem vel modi nulla in.",
+        "calification_tutor": 2,
+        "name_user": "Marcio Américo Reina Caballero",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Soluta corporis vero odio. Veniam quos et itaque. Quas accusamus delectus in ab voluptatem quidem nisi.",
+        "calification_tutor": 3,
+        "name_user": "Concepción Sotelo Escrivá",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Nemo quam praesentium iusto consequatur. Beatae enim nobis nam nisi atque iure.\nPerferendis iure nostrum sunt cupiditate. Magnam quia officia adipisci minus.",
+        "calification_tutor": 4,
+        "name_user": "Cesar Téllez Valera",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Fundamentos de contabilidad",
+      "Fundamentos de Programación",
+      "Talleres y laboratorios Ingeniería Alimentos IV",
+      "Fundamentos de Mercadeo",
+      "Fundamentos de Redes",
+      "Análisis de Costos y Presupuestos",
+      "Inglés",
+      "Proceso administrativo",
+      "Álgebra Lineal"
+    ]
+  },
+  {
+    "name": "Rocío Alondra Matas Rivera",
+    "email": "rocíoalondramatasrivera@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 1,
+        "hour": 8
+      },
+      {
+        "day": 4,
+        "hour": 4
+      },
+      {
+        "day": 3,
+        "hour": 11
+      },
+      {
+        "day": 1,
+        "hour": 7
+      },
+      {
+        "day": 5,
+        "hour": 3
+      },
+      {
+        "day": 3,
+        "hour": 11
+      },
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 1,
+        "hour": 11
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 22000,
+    "method": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Teórico",
+      "Aprendizaje Visual",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Activo"
+    ],
+    "type_group": [
+      "Individual"
+    ],
+    "keywords": [
+      "Construcción",
+      "Representación",
+      "Fabricación"
+    ],
+    "semester": 6,
+    "career": "Tecnología en Desarrollo de Software",
+    "clicks": [
+      "rafaelamercader-almazán@gmail.com",
+      "áureadelaguna@gmail.com",
+      "bonifaciopalomar-hernández@gmail.com"
+    ]
+  },
+  {
+    "name": "Octavio Gregorio Amigó Valero",
+    "email": "octaviogregorioamigóvalero@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 4
+      },
+      {
+        "day": 0,
+        "hour": 3
+      },
+      {
+        "day": 0,
+        "hour": 6
+      },
+      {
+        "day": 2,
+        "hour": 5
+      },
+      {
+        "day": 0,
+        "hour": 10
+      },
+      {
+        "day": 5,
+        "hour": 6
+      },
+      {
+        "day": 3,
+        "hour": 8
+      },
+      {
+        "day": 2,
+        "hour": 8
+      }
+    ],
+    "format_tutor": [
+      "Presencial"
+    ],
+    "cost_tutor": 15000,
+    "method_tutor": [
+      "Aprendizaje Visual",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group_tutor": [
+      "Individual",
+      "Grupal"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Ratione totam sapiente quibusdam eveniet. Corrupti provident inventore expedita repellendus perspiciatis.",
+        "calification_tutor": 2,
+        "name_user": "Rogelio Gálvez García",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Omnis omnis distinctio at eaque nihil. Hic sunt officiis ipsa nisi dignissimos est.\nOccaecati unde odit vitae quasi nulla ad totam.",
+        "calification_tutor": 5,
+        "name_user": "Patricio Llorens",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Inventore odit cupiditate.\nA atque sapiente ratione. Tempore neque molestiae earum nulla nemo. Architecto earum repellat velit odit.",
+        "calification_tutor": 4,
+        "name_user": "Eutropio Lara Miralles",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Nulla ipsum sint magni quidem inventore exercitationem.",
+        "calification_tutor": 1,
+        "name_user": "Carolina Ribas Acuña",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Porro eaque quos excepturi necessitatibus laboriosam. Sint atque asperiores ratione doloremque perspiciatis.\nAccusantium esse necessitatibus provident accusantium. Illum cum cum ipsam aspernatur quo.",
+        "calification_tutor": 5,
+        "name_user": "Anastasio Martorell Plana",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Política Econ. Nacional e Internacional",
+      "Procesos de costos II",
+      "Macroeconomía y coyuntura",
+      "Transferencia de masa en el proceso de Alimentos",
+      "Estrategia y Planeación",
+      "Diseño Organizacional",
+      "Entorno Organizacional"
+    ]
+  },
+  {
+    "name": "Felipe Vera",
+    "email": "felipevera@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 5
+      },
+      {
+        "day": 1,
+        "hour": 12
+      },
+      {
+        "day": 1,
+        "hour": 12
+      },
+      {
+        "day": 5,
+        "hour": 10
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 16000,
+    "method": [
+      "Aprendizaje Teórico",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Visual",
+      "Aprendizaje Activo"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "Info.",
+      "Procesos"
+    ],
+    "semester": 9,
+    "career": "Tecnología en Desarrollo de Software",
+    "clicks": [
+      "bernardodelguardia@gmail.com",
+      "bernardodelguardia@gmail.com",
+      "ignaciacoellocarnero@gmail.com",
+      "bernardosanabriagil@gmail.com"
+    ]
+  },
+  {
+    "name": "Manola del Mir",
+    "email": "manoladelmir@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 0
+      },
+      {
+        "day": 4,
+        "hour": 11
+      },
+      {
+        "day": 4,
+        "hour": 1
+      },
+      {
+        "day": 3,
+        "hour": 4
+      },
+      {
+        "day": 0,
+        "hour": 4
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 25000,
+    "method": [
+      "Aprendizaje Visual",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Teórico"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "Empresarial",
+      "Producción",
+      "Sistemas",
+      "Física",
+      "control",
+      "Inteligencia",
+      "Legislación",
+      "Inglés",
+      "contables"
+    ],
+    "semester": 10,
+    "career": "Ingeniería de Alimentos",
+    "clicks": [
+      "bonifaciopalomar-hernández@gmail.com",
+      "sebastianzorrillacaro@gmail.com"
+    ]
+  },
+  {
+    "name": "Sigfrido Serra Montalbán",
+    "email": "sigfridoserramontalbán@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 7
+      },
+      {
+        "day": 4,
+        "hour": 8
+      }
+    ],
+    "format": [
+      "Presencial"
+    ],
+    "budget": 20000,
+    "method": [
+      "Aprendizaje Activo",
+      "Aprendizaje Visual",
+      "Aprendizaje Teórico"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Aseguramiento",
+      "Bienes",
+      "Gestión",
+      "Fundamentos",
+      "Numéricos",
+      "Química",
+      "Servicios"
+    ],
+    "semester": 6,
+    "career": "Tecnología en Desarrollo de Software",
+    "clicks": [
+      "claudioderedondo@gmail.com"
+    ]
+  },
+  {
+    "name": "Otilia Lilia Villalba Miró",
+    "email": "otilialiliavillalbamiró@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 6
+      },
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 5,
+        "hour": 1
+      },
+      {
+        "day": 5,
+        "hour": 1
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 49000,
+    "method": [
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Activo",
+      "Aprendizaje Auditivo"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "Evaluación",
+      "Aseguramiento",
+      "Comercial",
+      "auditoría",
+      "Investigación"
+    ],
+    "semester": 3,
+    "career": "Ingeniería de Alimentos",
+    "clicks": [
+      "adeliamartíferrera@gmail.com"
+    ]
+  },
+  {
+    "name": "Graciela Moles-Luján",
+    "email": "gracielamoles-luján@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 8
+      },
+      {
+        "day": 0,
+        "hour": 1
+      },
+      {
+        "day": 5,
+        "hour": 7
+      },
+      {
+        "day": 1,
+        "hour": 6
+      },
+      {
+        "day": 3,
+        "hour": 10
+      },
+      {
+        "day": 0,
+        "hour": 11
+      },
+      {
+        "day": 1,
+        "hour": 10
+      },
+      {
+        "day": 5,
+        "hour": 10
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 15000,
+    "method": [
+      "Aprendizaje Activo",
+      "Aprendizaje Visual",
+      "Aprendizaje Reflexivo"
+    ],
+    "type_group": [
+      "Individual"
+    ],
+    "keywords": [
+      "Lenguajes",
+      "Electrónico",
+      "Sociología",
+      "Derecho",
+      "General"
+    ],
+    "semester": 10,
+    "career": "Administración de empresas",
+    "clicks": [
+      "alejandrabuenobarral@gmail.com",
+      "reginanuñez-colom@gmail.com",
+      "chussoriano-simó@gmail.com"
+    ]
+  },
+  {
+    "name": "Yago Reig Salmerón",
+    "email": "yagoreigsalmerón@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 9
+      },
+      {
+        "day": 2,
+        "hour": 4
+      },
+      {
+        "day": 5,
+        "hour": 7
+      },
+      {
+        "day": 4,
+        "hour": 9
+      },
+      {
+        "day": 5,
+        "hour": 7
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 38000,
+    "method": [
+      "Aprendizaje Auditivo"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Operaciones",
+      "Discretas",
+      "aplicaciones",
+      "contabilidad",
+      "Datos"
+    ],
+    "semester": 4,
+    "career": "Ingeniería de Alimentos",
+    "clicks": [
+      "angelitajuradocanales@gmail.com",
+      "américosaavedracortes@gmail.com",
+      "ramónespaña@gmail.com",
+      "yagomadrigalblanch@gmail.com",
+      "magdalenaarmasolivé@gmail.com"
+    ]
+  },
+  {
+    "name": "Armida Leandra Jordá Yuste",
+    "email": "armidaleandrajordáyuste@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 8
+      },
+      {
+        "day": 1,
+        "hour": 5
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 33000,
+    "method": [
+      "Aprendizaje Activo",
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Teórico"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Fundamentos",
+      "Administración",
+      "Procesos",
+      "Economía",
+      "Contables"
+    ],
+    "semester": 5,
+    "career": "Tecnología en Desarrollo de Software",
+    "clicks": [
+      "javiálvaroroca@gmail.com",
+      "anasofíateruelrocha@gmail.com",
+      "claudioderedondo@gmail.com"
+    ]
+  },
+  {
+    "name": "Pacífica Andreu Romero",
+    "email": "pacíficaandreuromero@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 7
+      },
+      {
+        "day": 2,
+        "hour": 7
+      },
+      {
+        "day": 4,
+        "hour": 4
+      },
+      {
+        "day": 4,
+        "hour": 3
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 12000,
+    "method": [
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Entorno"
+    ],
+    "semester": 7,
+    "career": "Tecnología en Electrónica",
+    "clicks": [
+      "adeliamartíferrera@gmail.com",
+      "sebastianzorrillacaro@gmail.com"
+    ]
+  },
+  {
+    "name": "Rosaura Martirio Nicolás Pintor",
+    "email": "rosauramartirionicoláspintor@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 4
+      },
+      {
+        "day": 3,
+        "hour": 12
+      },
+      {
+        "day": 1,
+        "hour": 10
+      },
+      {
+        "day": 1,
+        "hour": 3
+      },
+      {
+        "day": 1,
+        "hour": 11
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 24000,
+    "method": [
+      "Aprendizaje Pragmático",
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Química",
+      "Ecuaciones",
+      "Potencia"
+    ],
+    "semester": 8,
+    "career": "Tecnología en Desarrollo de Software",
+    "clicks": [
+      "galopascual@gmail.com",
+      "sebastianzorrillacaro@gmail.com",
+      "octaviogregorioamigóvalero@gmail.com",
+      "vinicioisaíasgisbertmoles@gmail.com",
+      "magdalenaamadorcañas@gmail.com"
+    ]
+  },
+  {
+    "name": "Faustino Serra Mateos",
+    "email": "faustinoserramateos@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 3
+      },
+      {
+        "day": 3,
+        "hour": 8
+      },
+      {
+        "day": 1,
+        "hour": 5
+      },
+      {
+        "day": 5,
+        "hour": 6
+      },
+      {
+        "day": 3,
+        "hour": 12
+      },
+      {
+        "day": 3,
+        "hour": 4
+      },
+      {
+        "day": 4,
+        "hour": 2
+      },
+      {
+        "day": 2,
+        "hour": 7
+      },
+      {
+        "day": 3,
+        "hour": 7
+      },
+      {
+        "day": 0,
+        "hour": 3
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 46000,
+    "method": [
+      "Aprendizaje Pragmático"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Fundamentos",
+      "tributaria",
+      "Biología",
+      "Electrónico",
+      "web",
+      "Construcción"
+    ],
+    "semester": 5,
+    "career": "Tecnología en Desarrollo de Software",
+    "clicks": [
+      "magdalenaamadorcañas@gmail.com",
+      "calixtomartínezhidalgo@gmail.com",
+      "octaviogregorioamigóvalero@gmail.com"
+    ]
+  },
+  {
+    "name": "Ignacio Gordillo Castejón",
+    "email": "ignaciogordillocastejón@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 4
+      },
+      {
+        "day": 1,
+        "hour": 11
+      },
+      {
+        "day": 5,
+        "hour": 9
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 27000,
+    "method": [
+      "Aprendizaje Pragmático",
+      "Aprendizaje Auditivo"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "Aseguramiento"
+    ],
+    "semester": 3,
+    "career": "Administración de empresas",
+    "clicks": [
+      "abrildelcalzada@gmail.com",
+      "abrildelcalzada@gmail.com",
+      "magdalenaamadorcañas@gmail.com",
+      "chussoriano-simó@gmail.com"
+    ]
+  },
+  {
+    "name": "Sebastian Zorrilla Caro",
+    "email": "sebastianzorrillacaro@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 1
+      },
+      {
+        "day": 4,
+        "hour": 0
+      },
+      {
+        "day": 3,
+        "hour": 10
+      },
+      {
+        "day": 3,
+        "hour": 9
+      },
+      {
+        "day": 1,
+        "hour": 12
+      },
+      {
+        "day": 3,
+        "hour": 3
+      },
+      {
+        "day": 1,
+        "hour": 4
+      }
+    ],
+    "format_tutor": [
+      "Virtual"
+    ],
+    "cost_tutor": 27000,
+    "method_tutor": [
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Activo",
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group_tutor": [
+      "Individual"
+    ],
+    "type_tutor": "Estudiante",
+    "tutor_opinions": [
+      {
+        "opinion": "Cupiditate necessitatibus eaque doloremque aperiam. Debitis sequi quos minima tenetur illo laborum. Deserunt expedita tempora aperiam.\nQuo tempora pariatur sed minima.",
+        "calification_tutor": 4,
+        "name_user": "Ruperto Herrera Sarabia",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Nihil aperiam corrupti labore corporis architecto nulla praesentium. Quod recusandae ut at. At quas repellat cumque excepturi consectetur. Quis sit fuga expedita sed.",
+        "calification_tutor": 5,
+        "name_user": "Ciriaco Millán Castejón",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Repellendus quo quis.\nAut at enim cupiditate dignissimos veritatis maxime. Temporibus necessitatibus quidem perspiciatis assumenda sapiente distinctio occaecati. Sed tempora pariatur at.",
+        "calification_tutor": 1,
+        "name_user": "Seve Perez Taboada",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Cum officia soluta quidem occaecati odio dolore. Rem repudiandae tempore voluptatibus consectetur corporis aliquid. Sapiente totam nam necessitatibus quisquam.",
+        "calification_tutor": 4,
+        "name_user": "Ale Segovia Rocha",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Placeat explicabo molestias totam. Eius magni minus eveniet modi. Veritatis consequuntur incidunt illo sed repudiandae.",
+        "calification_tutor": 5,
+        "name_user": "Purificación Gárate Pina",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Casos contables especiales II",
+      "Investigación de Operaciones",
+      "Sistemas de Comunicación"
+    ]
+  },
+  {
+    "name": "Áurea de Laguna",
+    "email": "áureadelaguna@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 10
+      },
+      {
+        "day": 4,
+        "hour": 1
+      },
+      {
+        "day": 1,
+        "hour": 0
+      },
+      {
+        "day": 3,
+        "hour": 5
+      },
+      {
+        "day": 1,
+        "hour": 0
+      }
+    ],
+    "format_tutor": [
+      "Virtual",
+      "Presencial"
+    ],
+    "cost_tutor": 15000,
+    "method_tutor": [
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Auditivo"
+    ],
+    "type_group_tutor": [
+      "Individual"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Quos ipsa illum. Corrupti fuga illum autem porro. Harum quas sint iste.\nMinima nisi et. Omnis possimus itaque earum quidem.",
+        "calification_tutor": 3,
+        "name_user": "Telmo Lucas Cuesta",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Aut laborum quibusdam adipisci velit voluptatibus omnis. Quisquam minus deserunt suscipit necessitatibus sapiente. Nulla voluptate voluptates esse quaerat.",
+        "calification_tutor": 1,
+        "name_user": "Griselda Almeida Pina",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Legislación tributaria II",
+      "Legislación Comercial I",
+      "Cálculo Multivariable",
+      "Modelación 3D"
+    ]
+  },
+  {
+    "name": "Brígida Riera Serra",
+    "email": "brígidarieraserra@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 10
+      },
+      {
+        "day": 4,
+        "hour": 4
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 33000,
+    "method": [
+      "Aprendizaje Reflexivo"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "móviles"
+    ],
+    "semester": 3,
+    "career": "Tecnología en Desarrollo de Software",
+    "clicks": [
+      "bernardodelguardia@gmail.com",
+      "ignaciacoellocarnero@gmail.com",
+      "galopascual@gmail.com",
+      "octaviogregorioamigóvalero@gmail.com",
+      "áureadelaguna@gmail.com"
+    ]
+  },
+  {
+    "name": "Anselmo Prieto-Alfaro",
+    "email": "anselmoprieto-alfaro@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 7
+      },
+      {
+        "day": 1,
+        "hour": 9
+      },
+      {
+        "day": 1,
+        "hour": 3
+      },
+      {
+        "day": 3,
+        "hour": 10
+      },
+      {
+        "day": 0,
+        "hour": 12
+      },
+      {
+        "day": 1,
+        "hour": 1
+      },
+      {
+        "day": 0,
+        "hour": 11
+      },
+      {
+        "day": 1,
+        "hour": 1
+      },
+      {
+        "day": 5,
+        "hour": 12
+      },
+      {
+        "day": 0,
+        "hour": 12
+      }
+    ],
+    "format": [
+      "Presencial"
+    ],
+    "budget": 45000,
+    "method": [
+      "Aprendizaje Auditivo",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Teórico",
+      "Aprendizaje Visual",
+      "Aprendizaje Reflexivo"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Fundamentos",
+      "Fundamentos",
+      "Costos",
+      "Ingeniería",
+      "Fundamentos",
+      "Fundamentos"
+    ],
+    "semester": 1,
+    "career": "Ingeniería de Sistemas",
+    "clicks": [
+      "yagomadrigalblanch@gmail.com",
+      "reginanuñez-colom@gmail.com",
+      "jafetcarmona@gmail.com",
+      "alejandrabuenobarral@gmail.com"
+    ]
+  },
+  {
+    "name": "Fanny Fábregas-Yáñez",
+    "email": "fannyfábregas-yáñez@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 7
+      },
+      {
+        "day": 5,
+        "hour": 8
+      },
+      {
+        "day": 3,
+        "hour": 10
+      },
+      {
+        "day": 5,
+        "hour": 9
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 21000,
+    "method": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Visual"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Empresarial",
+      "Social",
+      "Social",
+      "instrumentación",
+      "Sistemas",
+      "Datos",
+      "Programación",
+      "Laboral",
+      "Computacional",
+      "Operativos"
+    ],
+    "semester": 6,
+    "career": "Construcción",
+    "clicks": [
+      "angelitajuradocanales@gmail.com",
+      "octaviogregorioamigóvalero@gmail.com",
+      "adeliamartíferrera@gmail.com"
+    ]
+  },
+  {
+    "name": "Lisandro Bilbao Santos",
+    "email": "lisandrobilbaosantos@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 0,
+        "hour": 4
+      },
+      {
+        "day": 2,
+        "hour": 1
+      },
+      {
+        "day": 0,
+        "hour": 1
+      },
+      {
+        "day": 1,
+        "hour": 4
+      },
+      {
+        "day": 5,
+        "hour": 1
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 42000,
+    "method": [
+      "Aprendizaje Activo",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Teórico",
+      "Aprendizaje Visual",
+      "Aprendizaje Reflexivo"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Fundamentos",
+      "contables"
+    ],
+    "semester": 10,
+    "career": "Nutrición y Dietética",
+    "clicks": [
+      "anasofíateruelrocha@gmail.com",
+      "alejandrabuenobarral@gmail.com",
+      "galopascual@gmail.com"
+    ]
+  },
+  {
+    "name": "Gabino Escrivá Canals",
+    "email": "gabinoescrivácanals@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 0
+      },
+      {
+        "day": 3,
+        "hour": 0
+      },
+      {
+        "day": 3,
+        "hour": 10
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 14000,
+    "method": [
+      "Aprendizaje Pragmático",
+      "Aprendizaje Auditivo"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Administración",
+      "Ciberseguridad",
+      "Construcción",
+      "Fundamentos"
+    ],
+    "semester": 7,
+    "career": "Tecnología en Desarrollo de Software",
+    "clicks": [
+      "fidelaadánbarrio@gmail.com",
+      "vinicioisaíasgisbertmoles@gmail.com",
+      "anasofíateruelrocha@gmail.com",
+      "bernardodelguardia@gmail.com",
+      "cayetanoluz@gmail.com"
+    ]
+  },
+  {
+    "name": "Patricio Bonet Amorós",
+    "email": "patriciobonetamorós@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 1,
+        "hour": 1
+      },
+      {
+        "day": 5,
+        "hour": 7
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 21000,
+    "method": [
+      "Aprendizaje Teórico",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Visual",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Auditivo"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Complejidad",
+      "Electrónico",
+      "Análisis",
+      "obligaciones"
+    ],
+    "semester": 3,
+    "career": "Trabajo social",
+    "clicks": [
+      "bonifaciopalomar-hernández@gmail.com"
+    ]
+  },
+  {
+    "name": "José Ángel Noé Beltran Montaña",
+    "email": "joséángelnoébeltranmontaña@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 0
+      },
+      {
+        "day": 2,
+        "hour": 0
+      },
+      {
+        "day": 0,
+        "hour": 1
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 23000,
+    "method": [
+      "Aprendizaje Pragmático",
+      "Aprendizaje Visual",
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Teórico",
+      "Aprendizaje Activo"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Operativos",
+      "contables",
+      "Gerencia",
+      "Gerencia",
+      "Arquitectura",
+      "Análisis",
+      "Alimentos",
+      "Alimentos",
+      "Internacional"
+    ],
+    "semester": 1,
+    "career": "Administración de empresas",
+    "clicks": [
+      "angelitajuradocanales@gmail.com",
+      "vinicioisaíasgisbertmoles@gmail.com",
+      "magdalenaamadorcañas@gmail.com",
+      "alejandrabuenobarral@gmail.com",
+      "ramónespaña@gmail.com"
+    ]
+  },
+  {
+    "name": "Fidela Adán Barrio",
+    "email": "fidelaadánbarrio@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 8
+      },
+      {
+        "day": 4,
+        "hour": 11
+      },
+      {
+        "day": 4,
+        "hour": 5
+      },
+      {
+        "day": 5,
+        "hour": 2
+      },
+      {
+        "day": 0,
+        "hour": 3
+      },
+      {
+        "day": 2,
+        "hour": 6
+      }
+    ],
+    "format_tutor": [
+      "Presencial"
+    ],
+    "cost_tutor": 24000,
+    "method_tutor": [
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Activo",
+      "Aprendizaje Visual"
+    ],
+    "type_group_tutor": [
+      "Individual"
+    ],
+    "type_tutor": "Estudiante",
+    "tutor_opinions": [
+      {
+        "opinion": "Deleniti nulla debitis distinctio voluptate rerum. Quidem odio beatae necessitatibus perferendis recusandae reprehenderit natus.",
+        "calification_tutor": 3,
+        "name_user": "Marcio Colom-Gutiérrez",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Quasi labore aspernatur neque temporibus voluptatibus.\nPlaceat culpa ullam dicta labore quaerat dolorem. Distinctio in illum magnam voluptate quisquam.",
+        "calification_tutor": 5,
+        "name_user": "Leonor Villanueva Piña",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Commodi optio quas porro corporis nesciunt ducimus ipsa. Magni quibusdam error a cumque. Eum sit deleniti.\nAnimi voluptatem ratione dignissimos unde quis. Beatae neque ipsam et.",
+        "calification_tutor": 2,
+        "name_user": "Hortensia Capdevila Campos",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Occaecati ipsa repellendus vel velit odio. Possimus reiciendis dignissimos nihil nobis.\nFacere totam magni veritatis soluta. Consequatur sequi sunt alias corrupti eveniet iure.",
+        "calification_tutor": 3,
+        "name_user": "Reyes Prieto Tejada",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Deleniti porro maiores perspiciatis quaerat animi. Dolorum cum vitae odit et. Aliquam a ducimus placeat perspiciatis quos.",
+        "calification_tutor": 1,
+        "name_user": "Aura Rufina Cobo Comas",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Gestión de los Sistemas de Info. Y las Tel.",
+      "Inglés",
+      "Sistemas automáticos de control",
+      "Procesos de costos II",
+      "Control e instrumentación en la Industria Alimentos",
+      "Contabilidad de los recursos y obligaciones de corto plazo",
+      "Fundamentos de contabilidad",
+      "Física III",
+      "Ciberseguridad"
+    ]
+  },
+  {
+    "name": "Jose Angel Moliner Sáez",
+    "email": "joseangelmolinersáez@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 10
+      },
+      {
+        "day": 3,
+        "hour": 9
+      },
+      {
+        "day": 0,
+        "hour": 2
+      },
+      {
+        "day": 5,
+        "hour": 7
+      },
+      {
+        "day": 3,
+        "hour": 9
+      },
+      {
+        "day": 3,
+        "hour": 9
+      },
+      {
+        "day": 1,
+        "hour": 1
+      },
+      {
+        "day": 3,
+        "hour": 4
+      },
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 4,
+        "hour": 0
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 49000,
+    "method": [
+      "Aprendizaje Teórico",
+      "Aprendizaje Visual",
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group": [
+      "Individual"
+    ],
+    "keywords": [
+      "Electiva",
+      "móviles"
+    ],
+    "semester": 2,
+    "career": "Ingeniería de Sistemas",
+    "clicks": [
+      "yagomadrigalblanch@gmail.com",
+      "alejandrabuenobarral@gmail.com",
+      "cayetanoluz@gmail.com",
+      "cayetanoluz@gmail.com"
+    ]
+  },
+  {
+    "name": "Galo Palomares Martí",
+    "email": "galopalomaresmartí@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 2
+      },
+      {
+        "day": 5,
+        "hour": 6
+      },
+      {
+        "day": 5,
+        "hour": 8
+      },
+      {
+        "day": 0,
+        "hour": 3
+      }
+    ],
+    "format_tutor": [
+      "Virtual",
+      "Presencial"
+    ],
+    "cost_tutor": 50000,
+    "method_tutor": [
+      "Aprendizaje Pragmático",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Activo"
+    ],
+    "type_group_tutor": [
+      "Grupal"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Vitae incidunt nostrum.\nQuae maxime accusamus corrupti veritatis eaque maiores. Modi nemo consequatur temporibus est quaerat. Quae accusantium consequatur vel.",
+        "calification_tutor": 1,
+        "name_user": "Hector Escolano Blasco",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Error sint unde debitis itaque molestiae. Temporibus maiores voluptates temporibus.\nQuidem ratione ad eligendi. Officiis vitae cum modi dignissimos voluptatibus accusantium.",
+        "calification_tutor": 2,
+        "name_user": "Cayetana Felisa Saavedra Garcia",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Laudantium quidem consequuntur explicabo doloremque molestiae veniam. Perspiciatis quam ea repellat sequi quae. Dolores minima enim odit impedit accusamus quisquam.",
+        "calification_tutor": 2,
+        "name_user": "Etelvina Español",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Inteligencia Artificial",
+      "Simulación Computacional",
+      "Legislación Tributaria I",
+      "Materiales de Construcción",
+      "Estadística",
+      "Investigación de Operaciones",
+      "Investigación de Mercados",
+      "Sociología de las Organizaciones",
+      "Contabilidad de los recursos y obligaciones de corto plazo"
+    ]
+  },
+  {
+    "name": "Sonia Monreal Alsina",
+    "email": "soniamonrealalsina@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 1
+      },
+      {
+        "day": 4,
+        "hour": 3
+      },
+      {
+        "day": 3,
+        "hour": 1
+      },
+      {
+        "day": 3,
+        "hour": 7
+      },
+      {
+        "day": 1,
+        "hour": 4
+      },
+      {
+        "day": 5,
+        "hour": 12
+      },
+      {
+        "day": 1,
+        "hour": 4
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 25000,
+    "method": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Activo",
+      "Aprendizaje Teórico",
+      "Aprendizaje Reflexivo"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "móviles",
+      "Sociología",
+      "Español",
+      "Legislación",
+      "Contabilidad",
+      "Datos",
+      "Internacional"
+    ],
+    "semester": 1,
+    "career": "Nutrición y Dietética",
+    "clicks": [
+      "anasofíateruelrocha@gmail.com",
+      "adeliamartíferrera@gmail.com",
+      "rafaelamercader-almazán@gmail.com",
+      "vinicioisaíasgisbertmoles@gmail.com",
+      "jafetcarmona@gmail.com"
+    ]
+  },
+  {
+    "name": "Donato Busquets",
+    "email": "donatobusquets@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 1
+      },
+      {
+        "day": 1,
+        "hour": 12
+      },
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 4,
+        "hour": 1
+      }
+    ],
+    "format_tutor": [
+      "Virtual",
+      "Presencial"
+    ],
+    "cost_tutor": 43000,
+    "method_tutor": [
+      "Aprendizaje Pragmático"
+    ],
+    "type_group_tutor": [
+      "Individual"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Necessitatibus nisi doloremque recusandae.\nNulla ut hic deserunt iusto nostrum.",
+        "calification_tutor": 5,
+        "name_user": "Lola Sureda Zurita",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Tempora reiciendis eaque commodi a praesentium. Repellendus cupiditate delectus alias labore recusandae. Iusto quo adipisci cum in deleniti.",
+        "calification_tutor": 1,
+        "name_user": "Olivia Cornejo",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "A placeat veniam facilis laborum eum ea ullam. Corrupti ullam fuga non soluta vero. Officiis voluptatibus dicta laudantium non incidunt ex.",
+        "calification_tutor": 2,
+        "name_user": "Poncio Julián Mercader",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Diseño Organizacional",
+      "Programación de aplicaciones móviles",
+      "Ecuaciones Diferenciales",
+      "Álgebra Lineal",
+      "Sistemas automáticos de control",
+      "Herramientas informáticas para la gestión",
+      "Entorno Organizacional",
+      "Investigación de Mercados"
+    ]
+  },
+  {
+    "name": "Ibán Rocha Agustín",
+    "email": "ibánrochaagustín@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 9
+      },
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 0,
+        "hour": 1
+      },
+      {
+        "day": 2,
+        "hour": 10
+      },
+      {
+        "day": 3,
+        "hour": 10
+      },
+      {
+        "day": 2,
+        "hour": 1
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 10000,
+    "method": [
+      "Aprendizaje Visual",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Activo",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Teórico"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Matemáticas",
+      "Mecánica",
+      "Herramientas",
+      "Publicidad",
+      "Multivariable",
+      "Fundamentos",
+      "Ventas",
+      "Tributario",
+      "Profesional",
+      "Alimentos"
+    ],
+    "semester": 5,
+    "career": "Contaduría",
+    "clicks": [
+      "magdalenaarmasolivé@gmail.com"
+    ]
+  },
+  {
+    "name": "Anacleto Gámez Pozo",
+    "email": "anacletogámezpozo@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 1
+      },
+      {
+        "day": 5,
+        "hour": 10
+      },
+      {
+        "day": 3,
+        "hour": 3
+      },
+      {
+        "day": 2,
+        "hour": 5
+      },
+      {
+        "day": 5,
+        "hour": 1
+      },
+      {
+        "day": 0,
+        "hour": 5
+      },
+      {
+        "day": 5,
+        "hour": 12
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 26000,
+    "method": [
+      "Aprendizaje Teórico",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Activo",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Visual"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "procesos",
+      "Contabilidad",
+      "corto",
+      "contable",
+      "Artificial",
+      "Modelación"
+    ],
+    "semester": 10,
+    "career": "Ingeniería de Sistemas",
+    "clicks": [
+      "anasofíateruelrocha@gmail.com",
+      "magdalenaarmasolivé@gmail.com"
+    ]
+  },
+  {
+    "name": "Gala Bou Alberola",
+    "email": "galaboualberola@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 7
+      },
+      {
+        "day": 1,
+        "hour": 7
+      },
+      {
+        "day": 5,
+        "hour": 9
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 34000,
+    "method": [
+      "Aprendizaje Teórico",
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Visual"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Financiera"
+    ],
+    "semester": 7,
+    "career": "Construcción",
+    "clicks": [
+      "jafetcarmona@gmail.com",
+      "alejandrabuenobarral@gmail.com"
+    ]
+  },
+  {
+    "name": "Miguela Galán Exposito",
+    "email": "miguelagalánexposito@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 9
+      },
+      {
+        "day": 5,
+        "hour": 3
+      },
+      {
+        "day": 4,
+        "hour": 0
+      },
+      {
+        "day": 2,
+        "hour": 11
+      },
+      {
+        "day": 1,
+        "hour": 2
+      },
+      {
+        "day": 1,
+        "hour": 8
+      }
+    ],
+    "format": [
+      "Presencial"
+    ],
+    "budget": 40000,
+    "method": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Auditivo"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Análisis",
+      "Empresa",
+      "coyuntura",
+      "Fundamentos",
+      "Costos",
+      "contabilidad",
+      "Ventas",
+      "Sociología",
+      "Física"
+    ],
+    "semester": 3,
+    "career": "Tecnología en Electrónica",
+    "clicks": [
+      "adeliamartíferrera@gmail.com",
+      "jafetcarmona@gmail.com",
+      "abrildelcalzada@gmail.com",
+      "adeliamartíferrera@gmail.com"
+    ]
+  },
+  {
+    "name": "Jorge de Mendoza",
+    "email": "jorgedemendoza@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 3
+      },
+      {
+        "day": 3,
+        "hour": 1
+      },
+      {
+        "day": 5,
+        "hour": 11
+      },
+      {
+        "day": 3,
+        "hour": 6
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 37000,
+    "method": [
+      "Aprendizaje Activo",
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Internacional",
+      "General",
+      "Procesos",
+      "gestión",
+      "Producción",
+      "Investigación",
+      "Matemáticas"
+    ],
+    "semester": 6,
+    "career": "Tecnología en Electrónica",
+    "clicks": [
+      "reginanuñez-colom@gmail.com",
+      "ramónespaña@gmail.com",
+      "magdalenaarmasolivé@gmail.com",
+      "chussoriano-simó@gmail.com",
+      "ramónespaña@gmail.com"
+    ]
+  },
+  {
+    "name": "Nico Manuel Iriarte Carbó",
+    "email": "nicomanueliriartecarbó@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 12
+      },
+      {
+        "day": 0,
+        "hour": 0
+      },
+      {
+        "day": 0,
+        "hour": 11
+      },
+      {
+        "day": 0,
+        "hour": 4
+      },
+      {
+        "day": 4,
+        "hour": 5
+      },
+      {
+        "day": 5,
+        "hour": 5
+      },
+      {
+        "day": 0,
+        "hour": 5
+      },
+      {
+        "day": 4,
+        "hour": 7
+      },
+      {
+        "day": 2,
+        "hour": 8
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 13000,
+    "method": [
+      "Aprendizaje Visual"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "Herramientas",
+      "Diferenciales",
+      "Planeación",
+      "Modelación",
+      "masa",
+      "Matemáticas",
+      "Álgebra",
+      "Comercio",
+      "Exterior"
+    ],
+    "semester": 10,
+    "career": "Tecnología en Desarrollo de Software",
+    "clicks": [
+      "angelitajuradocanales@gmail.com",
+      "américosaavedracortes@gmail.com"
+    ]
+  },
+  {
+    "name": "Rico Luna Caballero",
+    "email": "ricolunacaballero@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 10
+      },
+      {
+        "day": 5,
+        "hour": 6
+      },
+      {
+        "day": 4,
+        "hour": 10
+      },
+      {
+        "day": 0,
+        "hour": 0
+      },
+      {
+        "day": 4,
+        "hour": 9
+      },
+      {
+        "day": 0,
+        "hour": 3
+      },
+      {
+        "day": 3,
+        "hour": 11
+      },
+      {
+        "day": 4,
+        "hour": 8
+      },
+      {
+        "day": 1,
+        "hour": 6
+      }
+    ],
+    "format": [
+      "Presencial"
+    ],
+    "budget": 48000,
+    "method": [
+      "Aprendizaje Activo",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Pragmático"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Producción",
+      "Lenguajes",
+      "Fundamentos",
+      "Procesos",
+      "Internacional",
+      "Electiva",
+      "Informática",
+      "tributaria",
+      "Complejidad"
+    ],
+    "semester": 7,
+    "career": "Trabajo social",
+    "clicks": [
+      "abrildelcalzada@gmail.com",
+      "bonifaciopalomar-hernández@gmail.com",
+      "áureadelaguna@gmail.com",
+      "angelitajuradocanales@gmail.com"
+    ]
+  },
+  {
+    "name": "Custodio Gras",
+    "email": "custodiogras@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 7
+      },
+      {
+        "day": 1,
+        "hour": 6
+      },
+      {
+        "day": 4,
+        "hour": 9
+      },
+      {
+        "day": 2,
+        "hour": 6
+      },
+      {
+        "day": 4,
+        "hour": 6
+      },
+      {
+        "day": 4,
+        "hour": 8
+      },
+      {
+        "day": 3,
+        "hour": 0
+      },
+      {
+        "day": 3,
+        "hour": 5
+      },
+      {
+        "day": 4,
+        "hour": 1
+      },
+      {
+        "day": 0,
+        "hour": 4
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 10000,
+    "method": [
+      "Aprendizaje Teórico",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Análisis",
+      "Legislación",
+      "Inglés",
+      "Estadística",
+      "Alimentos",
+      "Control"
+    ],
+    "semester": 8,
+    "career": "Tecnología en Electrónica",
+    "clicks": [
+      "octaviogregorioamigóvalero@gmail.com",
+      "galopascual@gmail.com",
+      "javiálvaroroca@gmail.com",
+      "abrildelcalzada@gmail.com",
+      "adeliamartíferrera@gmail.com"
+    ]
+  },
+  {
+    "name": "Lorenza Larrañaga Mendez",
+    "email": "lorenzalarrañagamendez@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 5,
+        "hour": 3
+      },
+      {
+        "day": 0,
+        "hour": 9
+      },
+      {
+        "day": 1,
+        "hour": 5
+      },
+      {
+        "day": 2,
+        "hour": 10
+      },
+      {
+        "day": 1,
+        "hour": 11
+      },
+      {
+        "day": 0,
+        "hour": 2
+      },
+      {
+        "day": 5,
+        "hour": 6
+      },
+      {
+        "day": 4,
+        "hour": 12
+      },
+      {
+        "day": 1,
+        "hour": 11
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 36000,
+    "method": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Auditivo"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Electiva",
+      "contabilidad",
+      "Sistemas"
+    ],
+    "semester": 4,
+    "career": "Tecnología en Electrónica",
+    "clicks": [
+      "magdalenaarmasolivé@gmail.com",
+      "anasofíateruelrocha@gmail.com",
+      "galopalomaresmartí@gmail.com"
+    ]
+  },
+  {
+    "name": "Nazario Lobato Gracia",
+    "email": "nazariolobatogracia@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 7
+      },
+      {
+        "day": 1,
+        "hour": 3
+      },
+      {
+        "day": 1,
+        "hour": 0
+      },
+      {
+        "day": 0,
+        "hour": 3
+      },
+      {
+        "day": 1,
+        "hour": 3
+      },
+      {
+        "day": 1,
+        "hour": 0
+      },
+      {
+        "day": 0,
+        "hour": 0
+      },
+      {
+        "day": 4,
+        "hour": 8
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 12000,
+    "method": [
+      "Aprendizaje Activo",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Reflexivo"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Legislación",
+      "Física",
+      "Comercio",
+      "Comercial",
+      "aplicaciones",
+      "Construcción",
+      "tributaria",
+      "Inteligencia"
+    ],
+    "semester": 8,
+    "career": "Tecnología en Electrónica",
+    "clicks": [
+      "ignaciacoellocarnero@gmail.com",
+      "lauralarreamartin@gmail.com",
+      "alejandrabuenobarral@gmail.com"
+    ]
+  },
+  {
+    "name": "Alejandra Bueno Barral",
+    "email": "alejandrabuenobarral@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 8
+      },
+      {
+        "day": 1,
+        "hour": 0
+      },
+      {
+        "day": 3,
+        "hour": 11
+      },
+      {
+        "day": 0,
+        "hour": 6
+      }
+    ],
+    "format_tutor": [
+      "Presencial",
+      "Virtual"
+    ],
+    "cost_tutor": 40000,
+    "method_tutor": [
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Teórico",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group_tutor": [
+      "Individual"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Veritatis deleniti error necessitatibus molestias dicta nihil. Necessitatibus molestias iusto ipsum sint. Velit maxime eligendi voluptatem quibusdam facilis.",
+        "calification_tutor": 4,
+        "name_user": "Felipe Pujol-Aparicio",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Iusto corrupti dolorem eligendi eveniet. Quo possimus quisquam. Quam culpa hic aliquid vel molestiae.\nIncidunt fugiat similique veniam animi sunt.",
+        "calification_tutor": 3,
+        "name_user": "Marc del Campillo",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Nostrum maxime dolorem. Modi occaecati iusto earum dolor.\nDeserunt sapiente eos cupiditate quae. Corrupti aperiam officia omnis recusandae culpa numquam consectetur.",
+        "calification_tutor": 1,
+        "name_user": "Gabriel Sierra Casas",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Possimus velit nemo sint mollitia. Deleniti debitis corrupti quam laboriosam repellendus.",
+        "calification_tutor": 2,
+        "name_user": "Paloma Reguera Juárez",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Maxime expedita asperiores officia. Cum ducimus dignissimos beatae aperiam blanditiis. Harum exercitationem quidem debitis dolore.",
+        "calification_tutor": 5,
+        "name_user": "Cosme Palomo-Domingo",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Macroeconomía y coyuntura",
+      "Fundamentos de Lenguajes de Programación",
+      "Química",
+      "Análisis y Diseño de Algoritmos",
+      "Entorno Organizacional",
+      "Mecánica de Fluidos",
+      "Análisis Económico de Inversiones",
+      "Control e instrumentación en la Industria Alimentos"
+    ]
+  },
+  {
+    "name": "Flavia Cabezas Jimenez",
+    "email": "flaviacabezasjimenez@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 1,
+        "hour": 12
+      },
+      {
+        "day": 3,
+        "hour": 9
+      },
+      {
+        "day": 0,
+        "hour": 10
+      },
+      {
+        "day": 5,
+        "hour": 4
+      },
+      {
+        "day": 1,
+        "hour": 4
+      },
+      {
+        "day": 1,
+        "hour": 0
+      },
+      {
+        "day": 1,
+        "hour": 7
+      },
+      {
+        "day": 4,
+        "hour": 4
+      },
+      {
+        "day": 1,
+        "hour": 1
+      },
+      {
+        "day": 1,
+        "hour": 2
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 48000,
+    "method": [
+      "Aprendizaje Activo",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Pragmático"
+    ],
+    "type_group": [
+      "Individual"
+    ],
+    "keywords": [
+      "Mercadeo",
+      "Internacional",
+      "Estrategia",
+      "Casos"
+    ],
+    "semester": 5,
+    "career": "Tecnología en Electrónica",
+    "clicks": [
+      "fidelaadánbarrio@gmail.com",
+      "áureadelaguna@gmail.com"
+    ]
+  },
+  {
+    "name": "Miguela Anabel Expósito Mayol",
+    "email": "miguelaanabelexpósitomayol@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 0
+      },
+      {
+        "day": 4,
+        "hour": 4
+      },
+      {
+        "day": 1,
+        "hour": 8
+      },
+      {
+        "day": 1,
+        "hour": 12
+      },
+      {
+        "day": 3,
+        "hour": 8
+      },
+      {
+        "day": 5,
+        "hour": 9
+      },
+      {
+        "day": 3,
+        "hour": 0
+      },
+      {
+        "day": 4,
+        "hour": 6
+      },
+      {
+        "day": 5,
+        "hour": 1
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 24000,
+    "method": [
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "Gestión",
+      "Info.",
+      "Tributario",
+      "Derecho",
+      "Procesos",
+      "Comercio",
+      "Proceso"
+    ],
+    "semester": 9,
+    "career": "Contaduría",
+    "clicks": [
+      "magdalenaarmasolivé@gmail.com",
+      "adeliamartíferrera@gmail.com",
+      "sebastianzorrillacaro@gmail.com",
+      "chussoriano-simó@gmail.com",
+      "bernardodelguardia@gmail.com"
+    ]
+  },
+  {
+    "name": "Faustino Tena Oliva",
+    "email": "faustinotenaoliva@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 1,
+        "hour": 12
+      },
+      {
+        "day": 1,
+        "hour": 4
+      },
+      {
+        "day": 4,
+        "hour": 3
+      },
+      {
+        "day": 2,
+        "hour": 3
+      },
+      {
+        "day": 4,
+        "hour": 0
+      },
+      {
+        "day": 1,
+        "hour": 8
+      },
+      {
+        "day": 4,
+        "hour": 3
+      },
+      {
+        "day": 0,
+        "hour": 6
+      },
+      {
+        "day": 4,
+        "hour": 11
+      },
+      {
+        "day": 1,
+        "hour": 2
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 34000,
+    "method": [
+      "Aprendizaje Visual",
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Pragmático"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "organización",
+      "Comunicación",
+      "informáticas",
+      "Español",
+      "Teoría",
+      "alimentos",
+      "política",
+      "Ciberseguridad"
+    ],
+    "semester": 2,
+    "career": "Tecnología en Electrónica",
+    "clicks": [
+      "sebastianzorrillacaro@gmail.com",
+      "ignaciacoellocarnero@gmail.com",
+      "galopalomaresmartí@gmail.com"
+    ]
+  },
+  {
+    "name": "Rafaela Mercader-Almazán",
+    "email": "rafaelamercader-almazán@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 12
+      },
+      {
+        "day": 0,
+        "hour": 0
+      },
+      {
+        "day": 4,
+        "hour": 9
+      },
+      {
+        "day": 4,
+        "hour": 2
+      },
+      {
+        "day": 5,
+        "hour": 0
+      },
+      {
+        "day": 4,
+        "hour": 1
+      },
+      {
+        "day": 1,
+        "hour": 11
+      },
+      {
+        "day": 3,
+        "hour": 8
+      },
+      {
+        "day": 2,
+        "hour": 5
+      }
+    ],
+    "format_tutor": [
+      "Virtual",
+      "Presencial"
+    ],
+    "cost_tutor": 20000,
+    "method_tutor": [
+      "Aprendizaje Teórico",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Activo"
+    ],
+    "type_group_tutor": [
+      "Grupal"
+    ],
+    "type_tutor": "Estudiante",
+    "tutor_opinions": [
+      {
+        "opinion": "Nam fugiat quo alias.\nEnim molestiae quidem quidem ipsum reiciendis iste. Deleniti officia ut quia commodi error distinctio.\nEius magni amet harum debitis quia eligendi.",
+        "calification_tutor": 5,
+        "name_user": "Nando Jeremías Casado Murcia",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Optio dolorum pariatur qui ad neque. Debitis praesentium facilis nihil reiciendis. Tempora ea sit.\nCorrupti modi eos autem aut perspiciatis.",
+        "calification_tutor": 4,
+        "name_user": "Esmeralda Vergara Calatayud",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Fugit fuga repudiandae aspernatur accusamus aut. Ducimus perspiciatis natus.\nNecessitatibus maiores voluptate ad. Dolores maiores dicta iusto nulla.",
+        "calification_tutor": 5,
+        "name_user": "Jordana Landa Rueda",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Veritatis harum nam temporibus deleniti. Aut possimus iusto velit recusandae.\nMagni explicabo aut nostrum provident reprehenderit dolore. Praesentium deleniti cum fuga officiis iure.",
+        "calification_tutor": 5,
+        "name_user": "Victoriano Flavio Duque Canals",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Facilis optio blanditiis assumenda.",
+        "calification_tutor": 2,
+        "name_user": "Salomé del Valle",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Legislación comercial II",
+      "Sistemas automáticos de control",
+      "Evaluación y Administración de Proyectos",
+      "Microprocesadores",
+      "Arquitectura de Computadores",
+      "Diseño Organizacional"
+    ]
+  },
+  {
+    "name": "Antonio Salom Camacho",
+    "email": "antoniosalomcamacho@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 6
+      },
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 2,
+        "hour": 0
+      },
+      {
+        "day": 3,
+        "hour": 4
+      },
+      {
+        "day": 0,
+        "hour": 7
+      },
+      {
+        "day": 1,
+        "hour": 5
+      },
+      {
+        "day": 0,
+        "hour": 6
+      },
+      {
+        "day": 2,
+        "hour": 6
+      },
+      {
+        "day": 1,
+        "hour": 5
+      },
+      {
+        "day": 5,
+        "hour": 9
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 40000,
+    "method": [
+      "Aprendizaje Activo",
+      "Aprendizaje Visual",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Pragmático"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Proceso",
+      "Transferencia",
+      "Gestión",
+      "Presupuestos",
+      "Programación",
+      "Planeación",
+      "Herramientas",
+      "Materiales"
+    ],
+    "semester": 3,
+    "career": "Administración de empresas",
+    "clicks": [
+      "adeliamartíferrera@gmail.com",
+      "alejandrabuenobarral@gmail.com",
+      "rafaelamercader-almazán@gmail.com"
+    ]
+  },
+  {
+    "name": "Domingo Espinosa-Malo",
+    "email": "domingoespinosa-malo@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 0
+      },
+      {
+        "day": 3,
+        "hour": 11
+      },
+      {
+        "day": 4,
+        "hour": 6
+      },
+      {
+        "day": 5,
+        "hour": 12
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 25000,
+    "method": [
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Activo",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Pragmático"
+    ],
+    "type_group": [
+      "Individual"
+    ],
+    "keywords": [
+      "Matemáticas",
+      "Procedimiento",
+      "Redes",
+      "Materiales",
+      "IV:",
+      "Algoritmos"
+    ],
+    "semester": 4,
+    "career": "Trabajo social",
+    "clicks": [
+      "calixtomartínezhidalgo@gmail.com",
+      "xaviergilabertpeñas@gmail.com",
+      "sebastianzorrillacaro@gmail.com"
+    ]
+  },
+  {
+    "name": "Regina Nuñez-Colom",
+    "email": "reginanuñez-colom@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 0,
+        "hour": 2
+      },
+      {
+        "day": 4,
+        "hour": 8
+      }
+    ],
+    "format_tutor": [
+      "Presencial"
+    ],
+    "cost_tutor": 33000,
+    "method_tutor": [
+      "Aprendizaje Visual"
+    ],
+    "type_group_tutor": [
+      "Grupal"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Animi reprehenderit unde iusto a suscipit dolores. Repellat nostrum beatae veritatis assumenda quas quaerat. Sit minus reprehenderit dolorem officiis ducimus ratione.",
+        "calification_tutor": 5,
+        "name_user": "Débora Gertrudis Hernandez Egea",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Ex eos esse veritatis saepe earum atque. Minus ipsum reiciendis unde esse ipsam.",
+        "calification_tutor": 1,
+        "name_user": "Gil Mendoza Morante",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Español",
+      "Casos contables especiales II",
+      "Arquitectura de Computadores"
+    ]
+  },
+  {
+    "name": "Magdalena Armas Olivé",
+    "email": "magdalenaarmasolivé@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 9
+      },
+      {
+        "day": 2,
+        "hour": 6
+      },
+      {
+        "day": 3,
+        "hour": 5
+      },
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 5,
+        "hour": 3
+      }
+    ],
+    "format_tutor": [
+      "Virtual"
+    ],
+    "cost_tutor": 23000,
+    "method_tutor": [
+      "Aprendizaje Teórico",
+      "Aprendizaje Activo",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Visual",
+      "Aprendizaje Pragmático"
+    ],
+    "type_group_tutor": [
+      "Individual"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Quidem quos suscipit aliquid. Magnam ducimus quis molestiae expedita omnis. Beatae eos vel vitae.\nUt cumque veritatis amet. Vero similique provident dolorem culpa recusandae praesentium.",
+        "calification_tutor": 2,
+        "name_user": "Emperatriz Rivera Pombo",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Aspernatur cumque odit unde eaque. Velit nemo voluptas ex dicta id.\nAliquam ea blanditiis eveniet consequuntur. Culpa quas iusto quas ad possimus sunt.",
+        "calification_tutor": 3,
+        "name_user": "Aránzazu Estevez",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Quaerat hic natus ab facere. Rem non officia doloribus.\nMaiores expedita eos omnis. Vitae dolor quos. Maxime eos cum vel. Dolore debitis nobis voluptas.",
+        "calification_tutor": 3,
+        "name_user": "Martin del Hoz",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Contabilidad de los recursos y obligaciones de corto plazo",
+      "Microprocesadores",
+      "Español",
+      "Macroeconomía y coyuntura",
+      "Análisis Económico de Inversiones",
+      "Gestión Financiera y Presupuestos"
+    ]
+  },
+  {
+    "name": "Abril del Calzada",
+    "email": "abrildelcalzada@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 10
+      }
+    ],
+    "format_tutor": [
+      "Virtual"
+    ],
+    "cost_tutor": 34000,
+    "method_tutor": [
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Activo",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Visual"
+    ],
+    "type_group_tutor": [
+      "Grupal"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Error possimus culpa. Quam nemo harum nulla.\nCumque voluptatum quasi molestias. Ab eius enim magni asperiores vitae minus.",
+        "calification_tutor": 1,
+        "name_user": "Mateo Mas",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Sistemas Operativos",
+      "Legislación Tributaria I",
+      "Fundamentos de Lenguajes de Programación",
+      "Gestión de los Sistemas de Info. Y las Tel."
+    ]
+  },
+  {
+    "name": "Abilio Oliveras Esteve",
+    "email": "abiliooliverasesteve@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 3
+      },
+      {
+        "day": 3,
+        "hour": 12
+      },
+      {
+        "day": 5,
+        "hour": 11
+      },
+      {
+        "day": 5,
+        "hour": 12
+      },
+      {
+        "day": 0,
+        "hour": 3
+      },
+      {
+        "day": 0,
+        "hour": 0
+      },
+      {
+        "day": 0,
+        "hour": 5
+      },
+      {
+        "day": 1,
+        "hour": 1
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 20000,
+    "method": [
+      "Aprendizaje Visual"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "Contable",
+      "Bienes"
+    ],
+    "semester": 7,
+    "career": "Ingeniería de Sistemas",
+    "clicks": [
+      "cayetanoluz@gmail.com",
+      "angelitajuradocanales@gmail.com",
+      "alejandrabuenobarral@gmail.com",
+      "bernardosanabriagil@gmail.com"
+    ]
+  },
+  {
+    "name": "Angélica Maxi Hurtado Barbero",
+    "email": "angélicamaxihurtadobarbero@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 4
+      },
+      {
+        "day": 2,
+        "hour": 11
+      },
+      {
+        "day": 1,
+        "hour": 6
+      },
+      {
+        "day": 1,
+        "hour": 11
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 47000,
+    "method": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Teórico",
+      "Aprendizaje Activo"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "plazo",
+      "Operativos",
+      "Operativos"
+    ],
+    "semester": 9,
+    "career": "Tecnología en Electrónica",
+    "clicks": [
+      "galopascual@gmail.com",
+      "cayetanoluz@gmail.com",
+      "yagomadrigalblanch@gmail.com"
+    ]
+  },
+  {
+    "name": "Ramón España",
+    "email": "ramónespaña@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 7
+      },
+      {
+        "day": 4,
+        "hour": 3
+      },
+      {
+        "day": 2,
+        "hour": 1
+      },
+      {
+        "day": 4,
+        "hour": 12
+      },
+      {
+        "day": 1,
+        "hour": 8
+      }
+    ],
+    "format_tutor": [
+      "Presencial",
+      "Virtual"
+    ],
+    "cost_tutor": 28000,
+    "method_tutor": [
+      "Aprendizaje Auditivo",
+      "Aprendizaje Teórico",
+      "Aprendizaje Visual",
+      "Aprendizaje Reflexivo"
+    ],
+    "type_group_tutor": [
+      "Individual",
+      "Grupal"
+    ],
+    "type_tutor": "Estudiante",
+    "tutor_opinions": [
+      {
+        "opinion": "Provident vero occaecati pariatur recusandae quisquam. Ipsam dolorum doloremque expedita iusto. Vero tenetur esse ratione possimus.",
+        "calification_tutor": 3,
+        "name_user": "Perlita Manrique Campoy",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Dolor adipisci commodi voluptates et. Nam tenetur hic. Neque modi veniam aliquam.",
+        "calification_tutor": 5,
+        "name_user": "Azucena Clemente Barón",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Control e instrumentación en la Industria Alimentos",
+      "Investigación de Operaciones",
+      "Fundamentos de Programación",
+      "Análisis Económico de Inversiones",
+      "Investigación de Mercados",
+      "Modelación 3D",
+      "Sistemas de Producción",
+      "Sistemas Operativos"
+    ]
+  },
+  {
+    "name": "Adelia Martí Ferrera",
+    "email": "adeliamartíferrera@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 5
+      },
+      {
+        "day": 4,
+        "hour": 2
+      },
+      {
+        "day": 5,
+        "hour": 8
+      },
+      {
+        "day": 3,
+        "hour": 10
+      },
+      {
+        "day": 0,
+        "hour": 4
+      },
+      {
+        "day": 3,
+        "hour": 9
+      },
+      {
+        "day": 0,
+        "hour": 9
+      },
+      {
+        "day": 3,
+        "hour": 9
+      },
+      {
+        "day": 5,
+        "hour": 6
+      },
+      {
+        "day": 0,
+        "hour": 9
+      }
+    ],
+    "format_tutor": [
+      "Virtual",
+      "Presencial"
+    ],
+    "cost_tutor": 30000,
+    "method_tutor": [
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group_tutor": [
+      "Individual"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Accusamus recusandae eveniet hic optio eum dolorum. Qui tempora eligendi dicta consectetur. Ex dolores tempora nam pariatur omnis incidunt.",
+        "calification_tutor": 2,
+        "name_user": "Lidia Gisela Jove Correa",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Rerum maxime quisquam sit. Dicta itaque tempore eos.\nHic ab provident dignissimos molestias quo. Natus quae ea delectus cumque consectetur qui.",
+        "calification_tutor": 1,
+        "name_user": "Diana Girón Baeza",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Procesos de Fabricación de Bienes y Servicios",
+      "Fundamentos de contabilidad",
+      "Control Electrónico de Potencia"
+    ]
+  },
+  {
+    "name": "Anacleto Dominguez Gual",
+    "email": "anacletodominguezgual@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 1,
+        "hour": 7
+      },
+      {
+        "day": 2,
+        "hour": 0
+      },
+      {
+        "day": 1,
+        "hour": 0
+      },
+      {
+        "day": 2,
+        "hour": 5
+      },
+      {
+        "day": 4,
+        "hour": 7
+      },
+      {
+        "day": 1,
+        "hour": 4
+      },
+      {
+        "day": 3,
+        "hour": 3
+      },
+      {
+        "day": 2,
+        "hour": 5
+      },
+      {
+        "day": 1,
+        "hour": 7
+      },
+      {
+        "day": 4,
+        "hour": 5
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 27000,
+    "method": [
+      "Aprendizaje Visual",
+      "Aprendizaje Activo",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Auditivo"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "Sociología"
+    ],
+    "semester": 10,
+    "career": "Nutrición y Dietética",
+    "clicks": [
+      "anasofíateruelrocha@gmail.com"
+    ]
+  },
+  {
+    "name": "Vinicio Isaías Gisbert Moles",
+    "email": "vinicioisaíasgisbertmoles@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 2
+      },
+      {
+        "day": 5,
+        "hour": 2
+      },
+      {
+        "day": 5,
+        "hour": 0
+      },
+      {
+        "day": 5,
+        "hour": 6
+      },
+      {
+        "day": 5,
+        "hour": 4
+      },
+      {
+        "day": 4,
+        "hour": 2
+      }
+    ],
+    "format_tutor": [
+      "Virtual"
+    ],
+    "cost_tutor": 30000,
+    "method_tutor": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Pragmático"
+    ],
+    "type_group_tutor": [
+      "Grupal"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Distinctio blanditiis id suscipit. Eligendi velit nulla similique. Repellat voluptatem in ab.\nDoloribus rerum tenetur ut deserunt. Temporibus nam ab nobis facere.",
+        "calification_tutor": 2,
+        "name_user": "Elpidio Gelabert",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Asperiores incidunt corrupti cumque atque. Tempora saepe incidunt dolores laboriosam deserunt praesentium.",
+        "calification_tutor": 4,
+        "name_user": "Gerónimo Carranza Alcázar",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Non nulla expedita sit est ipsa et necessitatibus. Eligendi saepe molestiae maxime magni molestias nemo. Nemo dolor ducimus numquam est quam earum eos. Tempore dicta ducimus.",
+        "calification_tutor": 5,
+        "name_user": "Pili Luna Vilanova",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Talleres y laboratorios Ingeniería Alimentos IV",
+      "Construcción de Edificaciones",
+      "Legislación Tributaria I",
+      "Matemáticas Discretas",
+      "Análisis y Métodos Numéricos",
+      "Electiva Profesional III: Procedimiento Tributario",
+      "Estrategia y Planeación",
+      "Fundamentos de Lenguajes de Programación",
+      "Microeconomía",
+      "Investigación de Operaciones"
+    ]
+  },
+  {
+    "name": "Fabiola Carmona Belmonte",
+    "email": "fabiolacarmonabelmonte@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 4
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 21000,
+    "method": [
+      "Aprendizaje Pragmático"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Microprocesadores",
+      "Electiva",
+      "Publicidad",
+      "Cálculo",
+      "Dirección"
+    ],
+    "semester": 1,
+    "career": "Construcción",
+    "clicks": [
+      "xaviergilabertpeñas@gmail.com",
+      "adeliamartíferrera@gmail.com",
+      "donatobusquets@gmail.com",
+      "adeliamartíferrera@gmail.com",
+      "bernardosanabriagil@gmail.com"
+    ]
+  },
+  {
+    "name": "Gilberto Tolosa Sarabia",
+    "email": "gilbertotolosasarabia@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 10
+      },
+      {
+        "day": 5,
+        "hour": 7
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 47000,
+    "method": [
+      "Aprendizaje Activo",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Visual",
+      "Aprendizaje Pragmático"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "Sistemas",
+      "Legislación",
+      "alimentos",
+      "Servicios",
+      "Complejidad",
+      "recursos",
+      "General",
+      "Software",
+      "Constitución",
+      "Política"
+    ],
+    "semester": 10,
+    "career": "Ingeniería de Sistemas",
+    "clicks": [
+      "donatobusquets@gmail.com",
+      "octaviogregorioamigóvalero@gmail.com",
+      "calixtomartínezhidalgo@gmail.com",
+      "donatobusquets@gmail.com",
+      "bonifaciopalomar-hernández@gmail.com"
+    ]
+  },
+  {
+    "name": "Amaya Soria Miguel",
+    "email": "amayasoriamiguel@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 1
+      },
+      {
+        "day": 5,
+        "hour": 6
+      },
+      {
+        "day": 3,
+        "hour": 10
+      },
+      {
+        "day": 3,
+        "hour": 1
+      },
+      {
+        "day": 2,
+        "hour": 3
+      },
+      {
+        "day": 0,
+        "hour": 10
+      },
+      {
+        "day": 0,
+        "hour": 5
+      },
+      {
+        "day": 5,
+        "hour": 5
+      },
+      {
+        "day": 3,
+        "hour": 5
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 33000,
+    "method": [
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Teórico",
+      "Aprendizaje Auditivo"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "Exterior",
+      "Industria",
+      "Programación",
+      "costos",
+      "Multivariable"
+    ],
+    "semester": 7,
+    "career": "Contaduría",
+    "clicks": [
+      "sebastianzorrillacaro@gmail.com",
+      "octaviogregorioamigóvalero@gmail.com",
+      "lauralarreamartin@gmail.com",
+      "adeliamartíferrera@gmail.com"
+    ]
+  },
+  {
+    "name": "Leonel Rocha Miró",
+    "email": "leonelrochamiró@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 8
+      },
+      {
+        "day": 0,
+        "hour": 11
+      },
+      {
+        "day": 4,
+        "hour": 7
+      },
+      {
+        "day": 2,
+        "hour": 12
+      },
+      {
+        "day": 0,
+        "hour": 4
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 30000,
+    "method": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Activo",
+      "Aprendizaje Auditivo"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Economía",
+      "Financiera",
+      "Cálculo",
+      "Exterior",
+      "Fundamentos",
+      "Alimentos"
+    ],
+    "semester": 7,
+    "career": "Ingeniería de Sistemas",
+    "clicks": [
+      "claudioderedondo@gmail.com",
+      "reginanuñez-colom@gmail.com",
+      "javiálvaroroca@gmail.com",
+      "bernardosanabriagil@gmail.com",
+      "anasofíateruelrocha@gmail.com"
+    ]
+  },
+  {
+    "name": "Adelardo del Porcel",
+    "email": "adelardodelporcel@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 7
+      },
+      {
+        "day": 5,
+        "hour": 11
+      },
+      {
+        "day": 1,
+        "hour": 11
+      },
+      {
+        "day": 2,
+        "hour": 0
+      },
+      {
+        "day": 5,
+        "hour": 4
+      },
+      {
+        "day": 1,
+        "hour": 12
+      },
+      {
+        "day": 5,
+        "hour": 4
+      },
+      {
+        "day": 4,
+        "hour": 5
+      },
+      {
+        "day": 3,
+        "hour": 1
+      },
+      {
+        "day": 3,
+        "hour": 0
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 10000,
+    "method": [
+      "Aprendizaje Activo",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Teórico",
+      "Aprendizaje Auditivo"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Fabricación",
+      "Sociología",
+      "Diferenciales",
+      "Servicios",
+      "Comercial",
+      "Teoría",
+      "Ecuaciones",
+      "Planeación",
+      "Discretas"
+    ],
+    "semester": 1,
+    "career": "Construcción",
+    "clicks": [
+      "vinicioisaíasgisbertmoles@gmail.com",
+      "fidelaadánbarrio@gmail.com",
+      "vinicioisaíasgisbertmoles@gmail.com",
+      "ignaciacoellocarnero@gmail.com",
+      "calixtomartínezhidalgo@gmail.com"
+    ]
+  },
+  {
+    "name": "José Mari Soler Díez",
+    "email": "josémarisolerdíez@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 8
+      },
+      {
+        "day": 5,
+        "hour": 8
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 37000,
+    "method": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Visual",
+      "Aprendizaje Teórico",
+      "Aprendizaje Reflexivo"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Estructuras",
+      "General",
+      "Física",
+      "Electrónico",
+      "Análisis",
+      "proceso"
+    ],
+    "semester": 5,
+    "career": "Nutrición y Dietética",
+    "clicks": [
+      "rafaelamercader-almazán@gmail.com",
+      "reginanuñez-colom@gmail.com",
+      "octaviogregorioamigóvalero@gmail.com",
+      "sebastianzorrillacaro@gmail.com"
+    ]
+  },
+  {
+    "name": "Cristóbal Perera Folch",
+    "email": "cristóbalpererafolch@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 1,
+        "hour": 6
+      },
+      {
+        "day": 0,
+        "hour": 7
+      },
+      {
+        "day": 4,
+        "hour": 8
+      },
+      {
+        "day": 5,
+        "hour": 1
+      },
+      {
+        "day": 4,
+        "hour": 5
+      },
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 1,
+        "hour": 12
+      },
+      {
+        "day": 0,
+        "hour": 8
+      }
+    ],
+    "format": [
+      "Presencial"
+    ],
+    "budget": 20000,
+    "method": [
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Simulación",
+      "Econ.",
+      "Política"
+    ],
+    "semester": 3,
+    "career": "Trabajo social",
+    "clicks": [
+      "reginanuñez-colom@gmail.com",
+      "ramónespaña@gmail.com",
+      "adeliamartíferrera@gmail.com",
+      "calixtomartínezhidalgo@gmail.com"
+    ]
+  },
+  {
+    "name": "Ignacia Coello Carnero",
+    "email": "ignaciacoellocarnero@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 1
+      },
+      {
+        "day": 3,
+        "hour": 5
+      },
+      {
+        "day": 0,
+        "hour": 9
+      },
+      {
+        "day": 5,
+        "hour": 10
+      },
+      {
+        "day": 3,
+        "hour": 0
+      },
+      {
+        "day": 0,
+        "hour": 9
+      },
+      {
+        "day": 5,
+        "hour": 11
+      },
+      {
+        "day": 2,
+        "hour": 3
+      },
+      {
+        "day": 5,
+        "hour": 6
+      },
+      {
+        "day": 0,
+        "hour": 3
+      }
+    ],
+    "format_tutor": [
+      "Virtual",
+      "Presencial"
+    ],
+    "cost_tutor": 14000,
+    "method_tutor": [
+      "Aprendizaje Auditivo"
+    ],
+    "type_group_tutor": [
+      "Individual"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Quis ad magni reiciendis placeat nesciunt veniam. Illum autem sint ducimus expedita quod quam. Est quas nemo architecto quaerat rem inventore. Quam quibusdam reiciendis nisi id.",
+        "calification_tutor": 2,
+        "name_user": "Flavia Alegre Juan",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Sed cupiditate doloremque cupiditate quas fuga. Reprehenderit cupiditate nihil ipsum in.",
+        "calification_tutor": 2,
+        "name_user": "Fulgencio Trillo Ferreras",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Possimus laboriosam aut. Dolorem incidunt hic quam. Autem dolorum sed ut dicta.\nTenetur exercitationem voluptas veniam nemo animi dolores magni.",
+        "calification_tutor": 5,
+        "name_user": "Maximiano Bauzà-Chamorro",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Microprocesadores",
+      "Diseño Organizacional",
+      "Ecuaciones Diferenciales",
+      "Legislación Comercial I",
+      "Comercio Exterior",
+      "Legislación tributaria II",
+      "Modelación 3D"
+    ]
+  },
+  {
+    "name": "Magdalena Amador Cañas",
+    "email": "magdalenaamadorcañas@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 6
+      },
+      {
+        "day": 3,
+        "hour": 11
+      },
+      {
+        "day": 5,
+        "hour": 3
+      },
+      {
+        "day": 0,
+        "hour": 8
+      },
+      {
+        "day": 5,
+        "hour": 9
+      },
+      {
+        "day": 4,
+        "hour": 12
+      }
+    ],
+    "format_tutor": [
+      "Presencial",
+      "Virtual"
+    ],
+    "cost_tutor": 24000,
+    "method_tutor": [
+      "Aprendizaje Teórico",
+      "Aprendizaje Visual"
+    ],
+    "type_group_tutor": [
+      "Individual"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Animi vitae eos provident aliquid dolores voluptatibus. Sunt recusandae quo adipisci nulla deleniti. Atque dignissimos iure inventore quisquam accusamus natus.",
+        "calification_tutor": 3,
+        "name_user": "Wálter del Carro",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Voluptas non earum temporibus unde magnam alias. Quod aliquam culpa.\nUllam magnam distinctio aperiam eaque velit recusandae. Illum nulla esse eum. Vero ipsam ut expedita.",
+        "calification_tutor": 3,
+        "name_user": "Macario Figueroa Pedro",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Incidunt autem tempora. Delectus explicabo commodi.\nAspernatur quae repellat incidunt iusto labore odit eligendi. Incidunt mollitia sed dolor.",
+        "calification_tutor": 1,
+        "name_user": "Adelardo Adadia Ros",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Vero at veritatis provident voluptatibus mollitia ipsam. Voluptatem soluta laudantium illo tempore. Porro minima provident accusamus.",
+        "calification_tutor": 1,
+        "name_user": "Apolonia Campos Iglesias",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Fundamentos de Mercadeo"
+    ]
+  },
+  {
+    "name": "Ani Agustina Pablo Echeverría",
+    "email": "aniagustinapabloecheverría@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 10
+      },
+      {
+        "day": 3,
+        "hour": 5
+      },
+      {
+        "day": 4,
+        "hour": 8
+      },
+      {
+        "day": 2,
+        "hour": 9
+      },
+      {
+        "day": 0,
+        "hour": 5
+      },
+      {
+        "day": 0,
+        "hour": 8
+      },
+      {
+        "day": 3,
+        "hour": 12
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 49000,
+    "method": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Pragmático"
+    ],
+    "type_group": [
+      "Individual"
+    ],
+    "keywords": [
+      "Investigación",
+      "Servicios",
+      "Casos",
+      "Programación",
+      "Profesional",
+      "Dirección",
+      "Construcción",
+      "Mercadeo",
+      "Profesional",
+      "Industria"
+    ],
+    "semester": 5,
+    "career": "Ingeniería de Alimentos",
+    "clicks": [
+      "galopalomaresmartí@gmail.com",
+      "bernardodelguardia@gmail.com"
+    ]
+  },
+  {
+    "name": "Juliana Ramírez Pont",
+    "email": "julianaramírezpont@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 12
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 46000,
+    "method": [
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Operativos",
+      "Costos",
+      "Seminario",
+      "Servicios"
+    ],
+    "semester": 9,
+    "career": "Tecnología en Desarrollo de Software",
+    "clicks": [
+      "javiálvaroroca@gmail.com",
+      "abrildelcalzada@gmail.com"
+    ]
+  },
+  {
+    "name": "Camilo Andreu Iniesta",
+    "email": "camiloandreuiniesta@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 1,
+        "hour": 1
+      },
+      {
+        "day": 4,
+        "hour": 5
+      },
+      {
+        "day": 1,
+        "hour": 11
+      },
+      {
+        "day": 1,
+        "hour": 7
+      },
+      {
+        "day": 3,
+        "hour": 3
+      },
+      {
+        "day": 3,
+        "hour": 0
+      },
+      {
+        "day": 2,
+        "hour": 10
+      },
+      {
+        "day": 0,
+        "hour": 6
+      },
+      {
+        "day": 5,
+        "hour": 3
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 42000,
+    "method": [
+      "Aprendizaje Auditivo"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "Comercio",
+      "Física",
+      "Exterior",
+      "Español",
+      "instrumentación",
+      "Termodinámica",
+      "Legislación",
+      "Programación",
+      "Métodos"
+    ],
+    "semester": 4,
+    "career": "Ingeniería de Sistemas",
+    "clicks": [
+      "sebastianzorrillacaro@gmail.com",
+      "reginanuñez-colom@gmail.com",
+      "chussoriano-simó@gmail.com",
+      "bonifaciopalomar-hernández@gmail.com",
+      "áureadelaguna@gmail.com"
+    ]
+  },
+  {
+    "name": "Cecilia Coloma-Porcel",
+    "email": "ceciliacoloma-porcel@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 4
+      },
+      {
+        "day": 1,
+        "hour": 9
+      },
+      {
+        "day": 5,
+        "hour": 4
+      },
+      {
+        "day": 3,
+        "hour": 4
+      },
+      {
+        "day": 0,
+        "hour": 2
+      },
+      {
+        "day": 1,
+        "hour": 12
+      },
+      {
+        "day": 1,
+        "hour": 1
+      },
+      {
+        "day": 3,
+        "hour": 5
+      },
+      {
+        "day": 5,
+        "hour": 12
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 15000,
+    "method": [
+      "Aprendizaje Reflexivo"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "tributaria"
+    ],
+    "semester": 1,
+    "career": "Ingeniería de Alimentos",
+    "clicks": [
+      "calixtomartínezhidalgo@gmail.com",
+      "reginanuñez-colom@gmail.com",
+      "rafaelamercader-almazán@gmail.com",
+      "américosaavedracortes@gmail.com"
+    ]
+  },
+  {
+    "name": "Jennifer Solé Manzanares",
+    "email": "jennifersolémanzanares@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 6
+      },
+      {
+        "day": 5,
+        "hour": 9
+      },
+      {
+        "day": 4,
+        "hour": 7
+      },
+      {
+        "day": 0,
+        "hour": 11
+      },
+      {
+        "day": 5,
+        "hour": 2
+      },
+      {
+        "day": 5,
+        "hour": 4
+      },
+      {
+        "day": 4,
+        "hour": 4
+      }
+    ],
+    "format": [
+      "Presencial"
+    ],
+    "budget": 20000,
+    "method": [
+      "Aprendizaje Visual"
+    ],
+    "type_group": [
+      "Individual"
+    ],
+    "keywords": [
+      "Optimización",
+      "Derecho",
+      "Análisis",
+      "tributaria"
+    ],
+    "semester": 10,
+    "career": "Construcción",
+    "clicks": [
+      "galopascual@gmail.com",
+      "claudioderedondo@gmail.com",
+      "claudioderedondo@gmail.com"
+    ]
+  },
+  {
+    "name": "Chus Soriano-Simó",
+    "email": "chussoriano-simó@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 4
+      },
+      {
+        "day": 4,
+        "hour": 4
+      },
+      {
+        "day": 4,
+        "hour": 11
+      },
+      {
+        "day": 1,
+        "hour": 1
+      },
+      {
+        "day": 2,
+        "hour": 10
+      },
+      {
+        "day": 1,
+        "hour": 10
+      },
+      {
+        "day": 4,
+        "hour": 6
+      },
+      {
+        "day": 1,
+        "hour": 11
+      },
+      {
+        "day": 2,
+        "hour": 3
+      },
+      {
+        "day": 4,
+        "hour": 6
+      }
+    ],
+    "format_tutor": [
+      "Presencial"
+    ],
+    "cost_tutor": 11000,
+    "method_tutor": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Teórico"
+    ],
+    "type_group_tutor": [
+      "Grupal",
+      "Individual"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Molestias mollitia pariatur velit. Nam reprehenderit modi sint inventore maxime aliquam. Soluta incidunt nesciunt laudantium rerum eius sint.",
+        "calification_tutor": 5,
+        "name_user": "Alcides Vicente Cruz",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Dolorem repellendus atque iste fugiat pariatur voluptas. Magni reiciendis illo in vitae nostrum. Molestiae dignissimos ut et.\nRem neque nemo quaerat. Doloremque earum et illo ullam ducimus.",
+        "calification_tutor": 4,
+        "name_user": "Victorino Moreno Pinedo Uría",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Voluptatum cumque quidem minus quod delectus. Dolorem corrupti cumque voluptate est nostrum. Voluptas commodi numquam architecto culpa. Delectus veritatis excepturi ut porro fugiat hic sunt.",
+        "calification_tutor": 4,
+        "name_user": "Marc Reina Criado",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Voluptate dignissimos officiis alias. Facere corporis sed nobis voluptatem. Ea necessitatibus soluta reiciendis error deleniti.",
+        "calification_tutor": 1,
+        "name_user": "Paloma Saavedra Duque",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Quaerat voluptatum necessitatibus veniam magni. Quos non libero minima distinctio natus veritatis. Iste architecto laudantium enim recusandae recusandae.",
+        "calification_tutor": 2,
+        "name_user": "Simón Alberto Mate",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Control y auditoría",
+      "Casos contables especiales II",
+      "Bases de Datos",
+      "Análisis y Métodos Numéricos",
+      "Derecho y Constitución política",
+      "Control e instrumentación en la Industria Alimentos",
+      "Gestión de los Sistemas de Info. Y las Tel.",
+      "Procesos de fermentación de alimentos",
+      "Legislación comercial II"
+    ]
+  },
+  {
+    "name": "Ana Sofía Teruel Rocha",
+    "email": "anasofíateruelrocha@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 1,
+        "hour": 2
+      },
+      {
+        "day": 3,
+        "hour": 11
+      },
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 5,
+        "hour": 4
+      },
+      {
+        "day": 2,
+        "hour": 3
+      },
+      {
+        "day": 4,
+        "hour": 12
+      },
+      {
+        "day": 0,
+        "hour": 7
+      },
+      {
+        "day": 1,
+        "hour": 1
+      },
+      {
+        "day": 4,
+        "hour": 7
+      },
+      {
+        "day": 4,
+        "hour": 6
+      }
+    ],
+    "format_tutor": [
+      "Virtual",
+      "Presencial"
+    ],
+    "cost_tutor": 24000,
+    "method_tutor": [
+      "Aprendizaje Auditivo",
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group_tutor": [
+      "Grupal"
+    ],
+    "type_tutor": "Estudiante",
+    "tutor_opinions": [
+      {
+        "opinion": "Facere quidem doloremque ipsum. Provident deleniti voluptatum odio fugit. Laborum quae consequuntur magnam.",
+        "calification_tutor": 5,
+        "name_user": "Armida Segura Landa",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Deleniti dignissimos impedit rem fuga. Impedit debitis tenetur occaecati.\nOccaecati eos hic quaerat iste dolor rem. Aperiam ratione voluptates. Earum corporis veniam repudiandae.",
+        "calification_tutor": 3,
+        "name_user": "María de Boix",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Gestión Financiera y Presupuestos",
+      "Minería de datos",
+      "Física I & II",
+      "Matemáticas Discretas",
+      "Dirección y organización contable",
+      "Programación de aplicaciones web",
+      "Gerencia de Ventas",
+      "Álgebra Lineal",
+      "Complejidad y Optimización",
+      "Investigación de Operaciones"
+    ]
+  },
+  {
+    "name": "José Luis Folch Amorós",
+    "email": "joséluisfolchamorós@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 5
+      },
+      {
+        "day": 1,
+        "hour": 10
+      },
+      {
+        "day": 1,
+        "hour": 10
+      },
+      {
+        "day": 0,
+        "hour": 8
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 19000,
+    "method": [
+      "Aprendizaje Auditivo",
+      "Aprendizaje Pragmático"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Biología",
+      "Proyectos",
+      "Redes",
+      "Física"
+    ],
+    "semester": 1,
+    "career": "Ingeniería de Alimentos",
+    "clicks": [
+      "adeliamartíferrera@gmail.com"
+    ]
+  },
+  {
+    "name": "Bernardo Sanabria Gil",
+    "email": "bernardosanabriagil@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 6
+      },
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 2,
+        "hour": 0
+      },
+      {
+        "day": 2,
+        "hour": 10
+      },
+      {
+        "day": 4,
+        "hour": 6
+      },
+      {
+        "day": 4,
+        "hour": 9
+      },
+      {
+        "day": 2,
+        "hour": 2
+      },
+      {
+        "day": 1,
+        "hour": 0
+      },
+      {
+        "day": 1,
+        "hour": 2
+      }
+    ],
+    "format_tutor": [
+      "Presencial",
+      "Virtual"
+    ],
+    "cost_tutor": 46000,
+    "method_tutor": [
+      "Aprendizaje Auditivo"
+    ],
+    "type_group_tutor": [
+      "Individual",
+      "Grupal"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Quis nesciunt quod magni vitae quibusdam porro. Placeat laborum fugiat consequatur nemo sit.",
+        "calification_tutor": 4,
+        "name_user": "Ainoa Amador Tur",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Sistemas automáticos de control",
+      "Química",
+      "Fundamentos de Lenguajes de Programación",
+      "Dirección y organización contable",
+      "Gestión Financiera y Presupuestos",
+      "Transferencia de masa en el proceso de Alimentos"
+    ]
+  },
+  {
+    "name": "Amparo Perales Vives",
+    "email": "amparoperalesvives@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 4
+      },
+      {
+        "day": 0,
+        "hour": 11
+      },
+      {
+        "day": 1,
+        "hour": 7
+      },
+      {
+        "day": 2,
+        "hour": 8
+      },
+      {
+        "day": 2,
+        "hour": 4
+      },
+      {
+        "day": 2,
+        "hour": 6
+      },
+      {
+        "day": 4,
+        "hour": 6
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 29000,
+    "method": [
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Visual",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Teórico"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Inteligencia",
+      "Dirección",
+      "Bienes",
+      "Programación",
+      "Econ.",
+      "Análisis",
+      "Tributario",
+      "Inversiones",
+      "Entorno"
+    ],
+    "semester": 3,
+    "career": "Construcción",
+    "clicks": [
+      "alejandrabuenobarral@gmail.com",
+      "magdalenaamadorcañas@gmail.com"
+    ]
+  },
+  {
+    "name": "Amancio del Pedrosa",
+    "email": "amanciodelpedrosa@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 1,
+        "hour": 6
+      }
+    ],
+    "format": [
+      "Presencial"
+    ],
+    "budget": 43000,
+    "method": [
+      "Aprendizaje Teórico"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Fundamentos",
+      "Optimización",
+      "Comunicación",
+      "Construcción",
+      "Fluidos",
+      "Deshidratación",
+      "Presupuestos",
+      "Control",
+      "Fiscal",
+      "Revisoría"
+    ],
+    "semester": 1,
+    "career": "Tecnología en Desarrollo de Software",
+    "clicks": [
+      "claudioderedondo@gmail.com"
+    ]
+  },
+  {
+    "name": "Xavier Gilabert Peñas",
+    "email": "xaviergilabertpeñas@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 7
+      },
+      {
+        "day": 2,
+        "hour": 3
+      },
+      {
+        "day": 4,
+        "hour": 5
+      },
+      {
+        "day": 1,
+        "hour": 5
+      },
+      {
+        "day": 3,
+        "hour": 8
+      },
+      {
+        "day": 1,
+        "hour": 1
+      },
+      {
+        "day": 3,
+        "hour": 5
+      }
+    ],
+    "format_tutor": [
+      "Virtual"
+    ],
+    "cost_tutor": 11000,
+    "method_tutor": [
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Teórico",
+      "Aprendizaje Activo"
+    ],
+    "type_group_tutor": [
+      "Individual",
+      "Grupal"
+    ],
+    "type_tutor": "Estudiante",
+    "tutor_opinions": [
+      {
+        "opinion": "Voluptatibus nulla corrupti nulla eaque dicta magnam rerum. Delectus magni deleniti quia quaerat odio blanditiis. Ut tempore doloribus ea odit voluptatibus.",
+        "calification_tutor": 1,
+        "name_user": "Ariel Aranda Mínguez",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Programación de aplicaciones móviles",
+      "Simulación Computacional",
+      "Fundamentos de contabilidad",
+      "Talleres y laboratorios Ingeniería Alimentos IV",
+      "Ciberseguridad",
+      "Aseguramiento de la calidad en la Industria de Alimentos",
+      "Física III"
+    ]
+  },
+  {
+    "name": "Jafet Carmona",
+    "email": "jafetcarmona@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 8
+      },
+      {
+        "day": 1,
+        "hour": 6
+      },
+      {
+        "day": 1,
+        "hour": 8
+      },
+      {
+        "day": 0,
+        "hour": 11
+      }
+    ],
+    "format_tutor": [
+      "Virtual"
+    ],
+    "cost_tutor": 17000,
+    "method_tutor": [
+      "Aprendizaje Teórico",
+      "Aprendizaje Visual"
+    ],
+    "type_group_tutor": [
+      "Grupal"
+    ],
+    "type_tutor": "Estudiante",
+    "tutor_opinions": [
+      {
+        "opinion": "Cum rem officiis sit minima. Esse facilis cupiditate assumenda.\nEos quod laboriosam laboriosam cumque tenetur animi. Voluptatum amet corporis reprehenderit dolorum quas.",
+        "calification_tutor": 4,
+        "name_user": "Claudio Robles Uría",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Vitae quas nostrum fugiat tempora. Voluptatem quam aspernatur ad. Possimus labore iste labore.",
+        "calification_tutor": 3,
+        "name_user": "Eva María Martín Galindo",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Animi voluptate pariatur dignissimos eius. Quos aspernatur sint possimus.",
+        "calification_tutor": 2,
+        "name_user": "Gema Barral Armengol",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Dolor velit minima.\nAlias consectetur eveniet ea tempore dignissimos necessitatibus. Perferendis excepturi cupiditate suscipit veniam dignissimos error. Cumque vitae necessitatibus eaque cupiditate.",
+        "calification_tutor": 4,
+        "name_user": "Viviana Valverde Cabanillas",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Corporis enim corporis dignissimos aspernatur beatae numquam. Excepturi velit eaque quibusdam nihil. A soluta repellendus atque.",
+        "calification_tutor": 2,
+        "name_user": "Sandalio Luque Morante",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Sistemas automáticos de control",
+      "Seminario de Teoría Contable",
+      "Software y procesos contables",
+      "Cálculo Multivariable"
+    ]
+  },
+  {
+    "name": "Cayetano Luz",
+    "email": "cayetanoluz@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 9
+      },
+      {
+        "day": 4,
+        "hour": 5
+      },
+      {
+        "day": 2,
+        "hour": 6
+      }
+    ],
+    "format_tutor": [
+      "Virtual",
+      "Presencial"
+    ],
+    "cost_tutor": 34000,
+    "method_tutor": [
+      "Aprendizaje Visual",
+      "Aprendizaje Teórico",
+      "Aprendizaje Pragmático"
+    ],
+    "type_group_tutor": [
+      "Grupal",
+      "Individual"
+    ],
+    "type_tutor": "Estudiante",
+    "tutor_opinions": [
+      {
+        "opinion": "Blanditiis architecto culpa beatae dicta assumenda cum. Voluptatem nulla vel velit dolorum maxime quasi.",
+        "calification_tutor": 5,
+        "name_user": "Encarna Antonia Falcón Olivera",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Sunt veniam eius sunt ea reprehenderit omnis. Dolores explicabo nulla occaecati quas veritatis totam. Consectetur excepturi deserunt similique autem officia id dignissimos.",
+        "calification_tutor": 5,
+        "name_user": "Jordán Espinosa",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Deserunt natus debitis saepe dicta. Eius necessitatibus inventore.\nConsequatur cum dignissimos consectetur sed illum. Assumenda eaque praesentium voluptatum minus repellat.",
+        "calification_tutor": 3,
+        "name_user": "Hernán Domingo",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Facilis dolorem ex magni. Soluta qui atque quam quos perferendis voluptas.\nLaboriosam vero cupiditate nihil fuga. Odit tempore praesentium ipsa est. Dolorem velit labore quisquam non numquam sint.",
+        "calification_tutor": 2,
+        "name_user": "Mariana Albero Pujol",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Complejidad y Optimización",
+      "Control y auditoría"
+    ]
+  },
+  {
+    "name": "Yago Madrigal Blanch",
+    "email": "yagomadrigalblanch@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 2,
+        "hour": 8
+      },
+      {
+        "day": 1,
+        "hour": 9
+      },
+      {
+        "day": 5,
+        "hour": 12
+      },
+      {
+        "day": 5,
+        "hour": 9
+      },
+      {
+        "day": 1,
+        "hour": 1
+      },
+      {
+        "day": 0,
+        "hour": 0
+      },
+      {
+        "day": 5,
+        "hour": 6
+      },
+      {
+        "day": 3,
+        "hour": 9
+      },
+      {
+        "day": 4,
+        "hour": 8
+      }
+    ],
+    "format_tutor": [
+      "Virtual",
+      "Presencial"
+    ],
+    "cost_tutor": 32000,
+    "method_tutor": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Pragmático"
+    ],
+    "type_group_tutor": [
+      "Individual",
+      "Grupal"
+    ],
+    "type_tutor": "Estudiante",
+    "tutor_opinions": [
+      {
+        "opinion": "Officia animi nemo quae similique necessitatibus corrupti fuga. Voluptatum soluta accusamus quis. Quae eligendi tempora repellat.\nLabore laborum nulla. Error amet earum asperiores voluptas.",
+        "calification_tutor": 1,
+        "name_user": "Martin Fuente-Suárez",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Estadística",
+      "Gestión Financiera y Presupuestos",
+      "Control Electrónico de Potencia",
+      "Fundamentos de Responsabilidad Social Empresarial",
+      "Estructuras",
+      "Álgebra Lineal"
+    ]
+  },
+  {
+    "name": "Laura Larrea Martin",
+    "email": "lauralarreamartin@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 4
+      },
+      {
+        "day": 4,
+        "hour": 12
+      },
+      {
+        "day": 1,
+        "hour": 3
+      },
+      {
+        "day": 4,
+        "hour": 0
+      },
+      {
+        "day": 2,
+        "hour": 8
+      }
+    ],
+    "format_tutor": [
+      "Presencial"
+    ],
+    "cost_tutor": 23000,
+    "method_tutor": [
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Visual",
+      "Aprendizaje Activo",
+      "Aprendizaje Teórico"
+    ],
+    "type_group_tutor": [
+      "Grupal",
+      "Individual"
+    ],
+    "type_tutor": "Estudiante",
+    "tutor_opinions": [
+      {
+        "opinion": "Iusto quas rerum expedita sit. Modi quos dolore pariatur commodi fugit laboriosam sint. Non quibusdam inventore corrupti ea quas modi.",
+        "calification_tutor": 5,
+        "name_user": "Bárbara Torrecilla Asensio",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Física de la construcción",
+      "Deshidratación de alimentos",
+      "Revisoría Fiscal",
+      "Software y procesos contables",
+      "Fundamentos de Economía y Comercio",
+      "Casos contables especiales II",
+      "Macroeconomía y coyuntura",
+      "Sistemas Operativos"
+    ]
+  },
+  {
+    "name": "Flor Viñas Diez",
+    "email": "florviñasdiez@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 11
+      },
+      {
+        "day": 1,
+        "hour": 8
+      },
+      {
+        "day": 2,
+        "hour": 7
+      },
+      {
+        "day": 0,
+        "hour": 0
+      },
+      {
+        "day": 2,
+        "hour": 0
+      },
+      {
+        "day": 0,
+        "hour": 3
+      },
+      {
+        "day": 1,
+        "hour": 12
+      },
+      {
+        "day": 5,
+        "hour": 10
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 17000,
+    "method": [
+      "Aprendizaje Visual",
+      "Aprendizaje Reflexivo"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "web",
+      "contables",
+      "Física",
+      "alimentos",
+      "construcción"
+    ],
+    "semester": 4,
+    "career": "Tecnología en Electrónica",
+    "clicks": [
+      "áureadelaguna@gmail.com",
+      "sebastianzorrillacaro@gmail.com"
+    ]
+  },
+  {
+    "name": "Javier Sabas Monreal Manjón",
+    "email": "javiersabasmonrealmanjón@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 11
+      },
+      {
+        "day": 5,
+        "hour": 9
+      },
+      {
+        "day": 5,
+        "hour": 1
+      },
+      {
+        "day": 4,
+        "hour": 12
+      },
+      {
+        "day": 3,
+        "hour": 0
+      },
+      {
+        "day": 0,
+        "hour": 4
+      },
+      {
+        "day": 0,
+        "hour": 9
+      },
+      {
+        "day": 4,
+        "hour": 4
+      },
+      {
+        "day": 3,
+        "hour": 3
+      },
+      {
+        "day": 3,
+        "hour": 7
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 43000,
+    "method": [
+      "Aprendizaje Teórico",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Visual",
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Casos",
+      "Empresarial"
+    ],
+    "semester": 1,
+    "career": "Construcción",
+    "clicks": [
+      "bonifaciopalomar-hernández@gmail.com"
+    ]
+  },
+  {
+    "name": "Concepción Ribera",
+    "email": "concepciónribera@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 1,
+        "hour": 3
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 49000,
+    "method": [
+      "Aprendizaje Activo",
+      "Aprendizaje Teórico",
+      "Aprendizaje Reflexivo"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Ventas",
+      "aplicaciones",
+      "Arquitectura",
+      "Bienes",
+      "Informática",
+      "Proyectos",
+      "Mercados",
+      "Procesos",
+      "Organizacional",
+      "Costos"
+    ],
+    "semester": 1,
+    "career": "Tecnología en Electrónica",
+    "clicks": [
+      "sebastianzorrillacaro@gmail.com"
+    ]
+  },
+  {
+    "name": "Nilo Mur-Barrera",
+    "email": "nilomur-barrera@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 1
+      },
+      {
+        "day": 1,
+        "hour": 1
+      },
+      {
+        "day": 3,
+        "hour": 11
+      },
+      {
+        "day": 1,
+        "hour": 8
+      }
+    ],
+    "format": [
+      "Presencial"
+    ],
+    "budget": 30000,
+    "method": [
+      "Aprendizaje Visual",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Activo"
+    ],
+    "type_group": [
+      "Individual"
+    ],
+    "keywords": [
+      "Economía",
+      "Organizaciones",
+      "Legislación"
+    ],
+    "semester": 5,
+    "career": "Ingeniería de Alimentos",
+    "clicks": [
+      "yagomadrigalblanch@gmail.com",
+      "vinicioisaíasgisbertmoles@gmail.com",
+      "bernardodelguardia@gmail.com",
+      "yagomadrigalblanch@gmail.com",
+      "javiálvaroroca@gmail.com"
+    ]
+  },
+  {
+    "name": "Domitila del Espinosa",
+    "email": "domitiladelespinosa@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 4,
+        "hour": 1
+      },
+      {
+        "day": 2,
+        "hour": 7
+      },
+      {
+        "day": 2,
+        "hour": 1
+      },
+      {
+        "day": 5,
+        "hour": 1
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 39000,
+    "method": [
+      "Aprendizaje Visual"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "Legislación",
+      "Producción",
+      "construcción",
+      "Programación",
+      "Fundamentos"
+    ],
+    "semester": 6,
+    "career": "Administración de empresas",
+    "clicks": [
+      "yagomadrigalblanch@gmail.com",
+      "áureadelaguna@gmail.com",
+      "octaviogregorioamigóvalero@gmail.com",
+      "angelitajuradocanales@gmail.com",
+      "lauralarreamartin@gmail.com"
+    ]
+  },
+  {
+    "name": "Florina del Ribera",
+    "email": "florinadelribera@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 1,
+        "hour": 9
+      },
+      {
+        "day": 4,
+        "hour": 3
+      },
+      {
+        "day": 0,
+        "hour": 4
+      },
+      {
+        "day": 5,
+        "hour": 8
+      },
+      {
+        "day": 5,
+        "hour": 0
+      },
+      {
+        "day": 5,
+        "hour": 5
+      }
+    ],
+    "format": [
+      "Virtual",
+      "Presencial"
+    ],
+    "budget": 18000,
+    "method": [
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Visual",
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Teórico",
+      "Aprendizaje Pragmático"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Sistemas",
+      "Contabilidad"
+    ],
+    "semester": 5,
+    "career": "Ingeniería de Sistemas",
+    "clicks": [
+      "alejandrabuenobarral@gmail.com",
+      "donatobusquets@gmail.com",
+      "ignaciacoellocarnero@gmail.com",
+      "galopalomaresmartí@gmail.com",
+      "rafaelamercader-almazán@gmail.com"
+    ]
+  },
+  {
+    "name": "Américo Saavedra Cortes",
+    "email": "américosaavedracortes@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 3
+      },
+      {
+        "day": 0,
+        "hour": 10
+      },
+      {
+        "day": 3,
+        "hour": 10
+      },
+      {
+        "day": 1,
+        "hour": 5
+      },
+      {
+        "day": 3,
+        "hour": 5
+      },
+      {
+        "day": 4,
+        "hour": 2
+      },
+      {
+        "day": 2,
+        "hour": 8
+      },
+      {
+        "day": 1,
+        "hour": 4
+      }
+    ],
+    "format_tutor": [
+      "Presencial"
+    ],
+    "cost_tutor": 23000,
+    "method_tutor": [
+      "Aprendizaje Reflexivo"
+    ],
+    "type_group_tutor": [
+      "Grupal"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Ipsa ex eum. Esse beatae eius quam hic. Blanditiis voluptatem molestias.",
+        "calification_tutor": 3,
+        "name_user": "Lupe Prieto",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Física de la construcción",
+      "Modelación 3D",
+      "Electiva Profesional III: Procedimiento Tributario",
+      "Deshidratación de alimentos",
+      "Construcción de Edificaciones"
+    ]
+  },
+  {
+    "name": "Galo Pascual",
+    "email": "galopascual@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 0
+      },
+      {
+        "day": 0,
+        "hour": 4
+      },
+      {
+        "day": 1,
+        "hour": 5
+      },
+      {
+        "day": 5,
+        "hour": 10
+      }
+    ],
+    "format_tutor": [
+      "Presencial",
+      "Virtual"
+    ],
+    "cost_tutor": 21000,
+    "method_tutor": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Activo",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Teórico"
+    ],
+    "type_group_tutor": [
+      "Individual",
+      "Grupal"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Cupiditate nam molestiae et quibusdam dignissimos aliquid. Incidunt nulla nam ab commodi quod voluptate ab. Minus sapiente ullam fugiat.\nDolorem culpa perspiciatis non libero.",
+        "calification_tutor": 2,
+        "name_user": "Anselmo Garmendia Azcona",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Dicta consectetur ea blanditiis nesciunt vitae quidem hic. Distinctio libero recusandae repudiandae odit illum beatae.\nCum nisi fugit. Ipsum quam provident eveniet exercitationem ut.",
+        "calification_tutor": 3,
+        "name_user": "Eutimio Losada Cabanillas",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Iure quod veritatis blanditiis. Voluptate quidem eveniet praesentium adipisci commodi unde. Sapiente officia recusandae. Excepturi officiis quidem esse occaecati ducimus atque.",
+        "calification_tutor": 2,
+        "name_user": "Celia Berrocal Galán",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Inteligencia Artificial",
+      "Análisis Económico de Inversiones",
+      "Complejidad y Optimización",
+      "Software y procesos contables",
+      "Matemáticas Discretas",
+      "Fundamentos de contabilidad",
+      "Gestión Financiera y Presupuestos"
+    ]
+  },
+  {
+    "name": "Claudio de Redondo",
+    "email": "claudioderedondo@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 12
+      },
+      {
+        "day": 2,
+        "hour": 8
+      },
+      {
+        "day": 2,
+        "hour": 5
+      },
+      {
+        "day": 0,
+        "hour": 2
+      },
+      {
+        "day": 1,
+        "hour": 10
+      },
+      {
+        "day": 4,
+        "hour": 8
+      },
+      {
+        "day": 1,
+        "hour": 3
+      },
+      {
+        "day": 2,
+        "hour": 4
+      }
+    ],
+    "format_tutor": [
+      "Virtual"
+    ],
+    "cost_tutor": 28000,
+    "method_tutor": [
+      "Aprendizaje Pragmático",
+      "Aprendizaje Activo",
+      "Aprendizaje Teórico"
+    ],
+    "type_group_tutor": [
+      "Individual"
+    ],
+    "type_tutor": "Estudiante",
+    "tutor_opinions": [
+      {
+        "opinion": "Pariatur veniam enim incidunt culpa quos.\nAliquam quaerat consectetur. Sapiente modi perspiciatis dolores tenetur aperiam debitis. Officia sequi dolorem voluptatum.",
+        "calification_tutor": 3,
+        "name_user": "Noelia Manjón-Jáuregui",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Matemáticas Básicas",
+      "Análisis y Diseño de Algoritmos",
+      "Gestión Financiera y Presupuestos",
+      "Legislación tributaria II"
+    ]
+  },
+  {
+    "name": "Bonifacio Palomar-Hernández",
+    "email": "bonifaciopalomar-hernández@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 7
+      },
+      {
+        "day": 3,
+        "hour": 7
+      },
+      {
+        "day": 1,
+        "hour": 1
+      },
+      {
+        "day": 3,
+        "hour": 3
+      },
+      {
+        "day": 0,
+        "hour": 10
+      }
+    ],
+    "format_tutor": [
+      "Presencial",
+      "Virtual"
+    ],
+    "cost_tutor": 44000,
+    "method_tutor": [
+      "Aprendizaje Auditivo"
+    ],
+    "type_group_tutor": [
+      "Grupal"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Consequuntur ratione magni optio hic repellat. Quidem quas nulla cupiditate sunt dolore incidunt.",
+        "calification_tutor": 1,
+        "name_user": "Teófila Torrents-Carnero",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Asperiores quam ipsum fugiat. Corrupti incidunt perspiciatis esse officia. Optio veritatis commodi.\nDolorum odio quisquam assumenda. Atque quidem neque.",
+        "calification_tutor": 4,
+        "name_user": "Azeneth Carmina Bustamante Barros",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Fundamentos de Economía y Comercio",
+      "Cálculo Multivariable"
+    ]
+  },
+  {
+    "name": "Arcelia Arévalo",
+    "email": "arceliaarévalo@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 1
+      },
+      {
+        "day": 2,
+        "hour": 7
+      },
+      {
+        "day": 1,
+        "hour": 10
+      },
+      {
+        "day": 5,
+        "hour": 12
+      },
+      {
+        "day": 3,
+        "hour": 12
+      },
+      {
+        "day": 1,
+        "hour": 2
+      },
+      {
+        "day": 3,
+        "hour": 10
+      },
+      {
+        "day": 4,
+        "hour": 1
+      }
+    ],
+    "format": [
+      "Presencial"
+    ],
+    "budget": 28000,
+    "method": [
+      "Aprendizaje Auditivo",
+      "Aprendizaje Activo",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Visual"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Organizaciones"
+    ],
+    "semester": 6,
+    "career": "Ingeniería de Sistemas",
+    "clicks": [
+      "américosaavedracortes@gmail.com"
+    ]
+  },
+  {
+    "name": "Inmaculada Arroyo",
+    "email": "inmaculadaarroyo@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 2
+      },
+      {
+        "day": 0,
+        "hour": 10
+      },
+      {
+        "day": 4,
+        "hour": 4
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 23000,
+    "method": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Visual",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Activo",
+      "Aprendizaje Teórico"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Operaciones",
+      "Procesos"
+    ],
+    "semester": 9,
+    "career": "Ingeniería de Alimentos",
+    "clicks": [
+      "sebastianzorrillacaro@gmail.com",
+      "claudioderedondo@gmail.com",
+      "galopalomaresmartí@gmail.com",
+      "jafetcarmona@gmail.com",
+      "ramónespaña@gmail.com"
+    ]
+  },
+  {
+    "name": "Javi Álvaro Roca",
+    "email": "javiálvaroroca@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 2,
+        "hour": 6
+      },
+      {
+        "day": 2,
+        "hour": 8
+      },
+      {
+        "day": 5,
+        "hour": 1
+      },
+      {
+        "day": 5,
+        "hour": 0
+      },
+      {
+        "day": 3,
+        "hour": 12
+      },
+      {
+        "day": 4,
+        "hour": 2
+      }
+    ],
+    "format_tutor": [
+      "Virtual"
+    ],
+    "cost_tutor": 22000,
+    "method_tutor": [
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group_tutor": [
+      "Grupal",
+      "Individual"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "Tenetur deserunt earum modi exercitationem ea eaque at.\nFacere at nisi autem. Explicabo temporibus quos eum numquam. Laborum inventore nam autem cum alias.",
+        "calification_tutor": 2,
+        "name_user": "Crescencia Prieto Barral",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Fuga quae odio laborum. Autem suscipit sequi ipsam. Tenetur beatae ad similique mollitia. Pariatur modi cumque voluptates.",
+        "calification_tutor": 5,
+        "name_user": "Agustina Carvajal-Blanca",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Vel harum atque. Quam et ullam non. Eum doloremque iusto mollitia neque debitis asperiores.\nQuia nesciunt voluptas accusamus esse porro. Itaque quo accusamus quis aspernatur.",
+        "calification_tutor": 4,
+        "name_user": "Jose Leon Milla",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Aliquid tenetur minus. Facere eaque repudiandae accusamus voluptatem consequuntur. Maxime atque sed eum.",
+        "calification_tutor": 4,
+        "name_user": "Luciano Pacheco Alonso",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "In optio voluptatum quos cum perferendis hic necessitatibus. Debitis harum dolorum sed ipsum numquam error assumenda.\nTenetur nam ipsum.",
+        "calification_tutor": 4,
+        "name_user": "Alcides Román Pi",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Gestión de la Producción de Bienes y Servicios",
+      "Procesos de costos II",
+      "Economía de Empresa",
+      "Estrategia y Planeación",
+      "Fundamentos de Lenguajes de Programación",
+      "Proceso administrativo"
+    ]
+  },
+  {
+    "name": "Bernardo del Guardia",
+    "email": "bernardodelguardia@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 9
+      },
+      {
+        "day": 0,
+        "hour": 5
+      },
+      {
+        "day": 5,
+        "hour": 6
+      },
+      {
+        "day": 3,
+        "hour": 11
+      },
+      {
+        "day": 1,
+        "hour": 1
+      },
+      {
+        "day": 2,
+        "hour": 10
+      },
+      {
+        "day": 0,
+        "hour": 5
+      },
+      {
+        "day": 3,
+        "hour": 0
+      },
+      {
+        "day": 3,
+        "hour": 12
+      }
+    ],
+    "format_tutor": [
+      "Virtual"
+    ],
+    "cost_tutor": 31000,
+    "method_tutor": [
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Activo"
+    ],
+    "type_group_tutor": [
+      "Grupal",
+      "Individual"
+    ],
+    "type_tutor": "Profesor",
+    "tutor_opinions": [
+      {
+        "opinion": "A culpa ducimus alias labore. Dolorum eum autem reprehenderit est necessitatibus qui.\nMinima fugiat ipsum voluptatem.\nVoluptatum at dolorem totam dolor. Hic vitae dicta a harum.",
+        "calification_tutor": 1,
+        "name_user": "Claudia Abril Roldán",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Quas odio exercitationem praesentium maxime animi. Magnam alias dolore beatae nobis facilis.",
+        "calification_tutor": 3,
+        "name_user": "Lalo Llorente",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Sed dolore eius odio. Nulla dolores consequuntur soluta nihil minus. Facilis totam mollitia eum. Sunt impedit dolorum recusandae doloremque libero.",
+        "calification_tutor": 3,
+        "name_user": "Tadeo de Herrera",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Fundamentos de Economía y Comercio",
+      "Gestión Financiera y Presupuestos",
+      "Fundamentos de contabilidad",
+      "Mecánica de Fluidos",
+      "Legislación Laboral",
+      "Talleres y laboratorios Ingeniería Alimentos IV",
+      "Gerencia de Ventas",
+      "Construcción de Edificaciones"
+    ]
+  },
+  {
+    "name": "Angelita Jurado Canales",
+    "email": "angelitajuradocanales@gmail.com",
+    "password": "1234",
+    "is_tutor": true,
+    "is_student": false,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 8
+      },
+      {
+        "day": 2,
+        "hour": 12
+      },
+      {
+        "day": 1,
+        "hour": 12
+      },
+      {
+        "day": 4,
+        "hour": 8
+      },
+      {
+        "day": 2,
+        "hour": 7
+      },
+      {
+        "day": 5,
+        "hour": 12
+      },
+      {
+        "day": 3,
+        "hour": 6
+      }
+    ],
+    "format_tutor": [
+      "Virtual",
+      "Presencial"
+    ],
+    "cost_tutor": 26000,
+    "method_tutor": [
+      "Aprendizaje Teórico",
+      "Aprendizaje Activo",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Visual"
+    ],
+    "type_group_tutor": [
+      "Individual",
+      "Grupal"
+    ],
+    "type_tutor": "Estudiante",
+    "tutor_opinions": [
+      {
+        "opinion": "Cum voluptas eos aperiam odio. Laborum minima suscipit nemo dolor non architecto. Nostrum sequi voluptatem sint.",
+        "calification_tutor": 1,
+        "name_user": "Dora Perera Casanova",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Dolores tenetur alias aperiam ut. Nemo aliquid rem voluptatum ipsam. Officia soluta ex voluptatibus sit reprehenderit.",
+        "calification_tutor": 1,
+        "name_user": "Hilda Piñeiro Caparrós",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Quaerat exercitationem alias temporibus. Fugit nostrum adipisci ipsum. Sunt recusandae nemo sed.\nAdipisci maiores dolorem. Nesciunt nihil libero suscipit molestias tempora.",
+        "calification_tutor": 4,
+        "name_user": "Obdulia Arco Valderrama",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      },
+      {
+        "opinion": "Fugit praesentium quas minus numquam distinctio. Omnis excepturi ad cupiditate saepe pariatur soluta distinctio.",
+        "calification_tutor": 5,
+        "name_user": "Leocadio Agudo Segarra",
+        "url_img": "https://profilephotos2.blob.core.windows.net/tutoriapp/image_default.png"
+      }
+    ],
+    "subjects_tutor": [
+      "Biología",
+      "Inglés",
+      "Ecuaciones Diferenciales",
+      "Física I & II",
+      "Construcción de Edificaciones"
+    ]
+  },
+  {
+    "name": "Elías de Rivera",
+    "email": "elíasderivera@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 5,
+        "hour": 3
+      },
+      {
+        "day": 2,
+        "hour": 10
+      },
+      {
+        "day": 0,
+        "hour": 2
+      },
+      {
+        "day": 1,
+        "hour": 12
+      },
+      {
+        "day": 5,
+        "hour": 8
+      },
+      {
+        "day": 5,
+        "hour": 1
+      },
+      {
+        "day": 1,
+        "hour": 9
+      },
+      {
+        "day": 0,
+        "hour": 4
+      },
+      {
+        "day": 1,
+        "hour": 8
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 25000,
+    "method": [
+      "Aprendizaje Pragmático",
+      "Aprendizaje Auditivo",
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Activo"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Operaciones",
+      "automáticos",
+      "masa",
+      "Cálculo",
+      "Básicas",
+      "contable"
+    ],
+    "semester": 1,
+    "career": "Trabajo social",
+    "clicks": [
+      "alejandrabuenobarral@gmail.com",
+      "donatobusquets@gmail.com",
+      "yagomadrigalblanch@gmail.com",
+      "ramónespaña@gmail.com",
+      "alejandrabuenobarral@gmail.com"
+    ]
+  },
+  {
+    "name": "Bárbara Maldonado Busquets",
+    "email": "bárbaramaldonadobusquets@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 5
+      },
+      {
+        "day": 2,
+        "hour": 6
+      },
+      {
+        "day": 3,
+        "hour": 9
+      },
+      {
+        "day": 5,
+        "hour": 4
+      },
+      {
+        "day": 2,
+        "hour": 8
+      }
+    ],
+    "format": [
+      "Presencial"
+    ],
+    "budget": 23000,
+    "method": [
+      "Aprendizaje Pragmático",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Teórico",
+      "Aprendizaje Visual"
+    ],
+    "type_group": [
+      "Grupal"
+    ],
+    "keywords": [
+      "Económico"
+    ],
+    "semester": 3,
+    "career": "Contaduría",
+    "clicks": [
+      "anasofíateruelrocha@gmail.com"
+    ]
+  },
+  {
+    "name": "Rómulo Blazquez Lillo",
+    "email": "rómuloblazquezlillo@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 3,
+        "hour": 7
+      },
+      {
+        "day": 0,
+        "hour": 8
+      }
+    ],
+    "format": [
+      "Virtual"
+    ],
+    "budget": 32000,
+    "method": [
+      "Aprendizaje Pragmático",
+      "Aprendizaje Reflexivo",
+      "Aprendizaje Teórico",
+      "Aprendizaje Activo",
+      "Aprendizaje Kinestésico"
+    ],
+    "type_group": [
+      "Grupal",
+      "Individual"
+    ],
+    "keywords": [
+      "Diseño",
+      "Comunicación",
+      "Multivariable",
+      "Tributario"
+    ],
+    "semester": 10,
+    "career": "Administración de empresas",
+    "clicks": [
+      "ignaciacoellocarnero@gmail.com",
+      "jafetcarmona@gmail.com",
+      "alejandrabuenobarral@gmail.com"
+    ]
+  },
+  {
+    "name": "Eufemia Giménez",
+    "email": "eufemiagiménez@gmail.com",
+    "password": "1234",
+    "is_tutor": false,
+    "is_student": true,
+    "availability": [
+      {
+        "day": 0,
+        "hour": 8
+      },
+      {
+        "day": 4,
+        "hour": 6
+      },
+      {
+        "day": 3,
+        "hour": 6
+      },
+      {
+        "day": 1,
+        "hour": 4
+      }
+    ],
+    "format": [
+      "Presencial",
+      "Virtual"
+    ],
+    "budget": 46000,
+    "method": [
+      "Aprendizaje Activo",
+      "Aprendizaje Kinestésico",
+      "Aprendizaje Pragmático",
+      "Aprendizaje Visual",
+      "Aprendizaje Teórico"
+    ],
+    "type_group": [
+      "Individual",
+      "Grupal"
+    ],
+    "keywords": [
+      "Control",
+      "Química",
+      "web",
+      "Industria",
+      "Organizaciones",
+      "Básicas",
+      "administrativo",
+      "Gestión",
+      "Simulación"
+    ],
+    "semester": 6,
+    "career": "Nutrición y Dietética",
+    "clicks": [
+      "américosaavedracortes@gmail.com"
+    ]
+  }
+]
