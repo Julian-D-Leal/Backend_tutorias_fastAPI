@@ -8,7 +8,6 @@ from bson import ObjectId
 # from scripts.searchEngine.searchEngine import searchEngine
 import utils
 from auth import AuthJWT
-from typing import List 
 
 user = APIRouter()
 
@@ -33,7 +32,7 @@ async def createUser(user: User, Authorize: AuthJWT = Depends()):
 
     #crear token de acceso
     access_token = Authorize.create_access_token(
-        subject=user_created['email'], expires_time=timedelta(minutes=ACCESS_TOKEN_EXPIRES_IN))
+        subject=user_created['email'], expires_time=timedelta(days=ACCESS_TOKEN_EXPIRES_IN))
     
     #crear token de refresco
     refresh_token = Authorize.create_refresh_token(
@@ -58,7 +57,7 @@ async def login(user: LoginUserSchema, Authorize: AuthJWT = Depends()):
     
     #crear token de acceso
     access_token = Authorize.create_access_token(
-        subject=db_user['email'], expires_time=timedelta(minutes=ACCESS_TOKEN_EXPIRES_IN))
+        subject=db_user['email'], expires_time=timedelta(days=ACCESS_TOKEN_EXPIRES_IN))
     
     #crear token de refresco
     refresh_token = Authorize.create_refresh_token(
@@ -84,7 +83,7 @@ async def refresh(Authorize: AuthJWT = Depends()):
                                 detail='el usuario no existe')
         
         access_token = Authorize.create_access_token(
-            subject= user['email'], expires_time=timedelta(minutes=ACCESS_TOKEN_EXPIRES_IN))
+            subject= user['email'], expires_time=timedelta(days=ACCESS_TOKEN_EXPIRES_IN))
     except Exception as e:
         error = e.__class__.__name__
         if error == 'MissingTokenError':
@@ -180,7 +179,7 @@ async def updateUser(id: str, user: dict, Authorize: AuthJWT = Depends()):
         if error == 'InvalidHeaderError':
             raise HTTPException(
                 status_code=status.HTTP_400_BAD_REQUEST, detail='Porfavor proporcione un token de acceso')
-        if error == 'ExpiredSignatureError':
+        if error == 'JWTDecodeError':
             raise HTTPException(
                 status_code=status.HTTP_400_BAD_REQUEST, detail='El token de acceso ha expirado')
         raise HTTPException(

@@ -178,7 +178,7 @@
 #                             word = nlp.vocab[word]
 #                             similarity = keyword.similarity(word)
 #                             if similarity > maxScore:
-#                                 score = similarity
+#                                 maxScore = similarity
 #                         score += maxScore
 #                         continue
 #                     s = subject["subject"].lower()

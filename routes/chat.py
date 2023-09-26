@@ -10,9 +10,7 @@ router = APIRouter()
 
 sio_server = socketio.AsyncServer(
     async_mode='asgi',
-    cors_allowed_origins=[],
-    logger=True,
-    engineio_logger=True,
+    cors_allowed_origins=[]
 )
 
 sio_app = socketio.ASGIApp(
@@ -33,8 +31,8 @@ async def messages(sid, data):
     sender = data["idUser"]
     receiver = data["idReceiver"]
     room_id = await get_room_id(sender, receiver)
-    historial = await get_messages_for_conversation(data["idUser"], data["idReceiver"])
-    await sio_server.emit('messages', {'sid': sid, 'messages': historial}, room=room_id)
+    #historial = await get_messages_for_conversation(data["idUser"], data["idReceiver"])
+    #await sio_server.emit('messages', {'sid': sid, 'messages': historial}, room=room_id)
 
 @sio_server.event
 async def chat(sid, message):
@@ -44,8 +42,7 @@ async def chat(sid, message):
     message = Message(**message)
     message = message.dict()
     db.messages.insert_one(message)
-    Newmessages = await get_messages_for_conversation(sender, receiver)
-    await sio_server.emit('chat', {'sid': sid, 'messages': messagesEntity(Newmessages)},  room=room_id)
+    await sio_server.emit('chat', {'sid': sid, 'message': messageEntity(message)},  room=room_id, skip_sid=sid)
 
 @sio_server.event
 async def join_room(sid, data):
@@ -53,7 +50,7 @@ async def join_room(sid, data):
     receiver = data["idReceiver"]
     room_id = await get_room_id(sender, receiver)
     sio_server.enter_room(sid, room_id)
-    db.messages.update_many({"sender": receiver, "receiver": sender}, {"$set": {"read": True}})
+    db.messages.update_many({"sender": receiver, "receiver": sender}, {"$set": {"read": True}}) #cambiar poner los mensajes en leido
     await sio_server.emit('join_room', {'sid': sid, 'room': room_id}, room=room_id)
 
 async def get_room_id(user_id: str, recipient_id: str):
@@ -64,14 +61,32 @@ async def get_room_id(user_id: str, recipient_id: str):
         room_id = db.rooms.insert_one({"room": concatenated_ids})
     return room_id.get("room")
 
-async def get_messages_for_conversation(user_id: str, recipient_id: str):
+# async def get_messages_for_conversation(user_id: str, recipient_id: str):
+#     messages = db.messages.find({
+#         "$or": [
+#             {"sender": user_id, "receiver": recipient_id},
+#             {"sender": recipient_id, "receiver": user_id}
+#         ]
+#     })
+#     return messagesEntity(messages)
+
+@router.get("/historial/user/{user_id}",response_model=dict, tags=["Chat"])
+async def get_historial(user_id: str):
     messages = db.messages.find({
         "$or": [
-            {"sender": user_id, "receiver": recipient_id},
-            {"sender": recipient_id, "receiver": user_id}
+            {"sender": user_id},
+            {"receiver": user_id}
         ]
     })
-    return messagesEntity(messages)
+    messages = messagesEntity(messages)
+    diferents_ids = []
+    for message in messages:
+        if message["sender"] != user_id and message["sender"] not in diferents_ids:
+            diferents_ids.append(message["sender"])
+        elif message["receiver"] != user_id and message["receiver"] not in diferents_ids:
+            diferents_ids.append(message["receiver"])
+    historial = [ {"id": id, "messages":[message for message in messages if message["sender"] == id or message["receiver"] == id]} for id in diferents_ids]
+    return {"historial": historial}
 
 @router.get("/messages/{user_id}")
 async def get_conversations_by_id(user_id: str):
@@ -88,5 +103,6 @@ async def get_conversations_by_id(user_id: str):
     for user in users:
         user_info = {"_id": user["_id"], "name": user["name"], "image_url": user["image_url"],"read": False if user["_id"] in objectIds_unread_messages else True}
         response.append(user_info)
+    print(str(response))
     return conversationsEntity(response)
 

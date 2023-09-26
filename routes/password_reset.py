@@ -257,7 +257,7 @@ async def change_password_auth_user(email: str, newPass: ChangePasswordAuth, Aut
             status_code=status.HTTP_400_BAD_REQUEST, detail=error)
     
     newPass = newPass.dict()
-    db_user = db.users.find_one({"email": current_user.lower()})
+    db_user = db.users.find_one({"email": email.lower()})
 
     if not utils.verify_password(newPass['actualPassword'], db_user['password']):
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST,
