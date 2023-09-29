@@ -57,11 +57,11 @@ async def login(user: LoginUserSchema, Authorize: AuthJWT = Depends()):
     
     #crear token de acceso
     access_token = Authorize.create_access_token(
-        subject=db_user['email'], expires_time=timedelta(days=ACCESS_TOKEN_EXPIRES_IN))
+        subject=db_user['email'], expires_time=timedelta(seconds=ACCESS_TOKEN_EXPIRES_IN))
     
     #crear token de refresco
     refresh_token = Authorize.create_refresh_token(
-        subject=db_user['email'], expires_time=timedelta(days=REFRESH_TOKEN_EXPIRES_IN))
+        subject=db_user['email'], expires_time=timedelta(seconds=REFRESH_TOKEN_EXPIRES_IN))
     
     return {"status": "success","access_token": access_token, "refresh_token": refresh_token, "token_type": "bearer", "user": userEntity(db_user)}
 
@@ -83,7 +83,7 @@ async def refresh(Authorize: AuthJWT = Depends()):
                                 detail='el usuario no existe')
         
         access_token = Authorize.create_access_token(
-            subject= user['email'], expires_time=timedelta(days=ACCESS_TOKEN_EXPIRES_IN))
+            subject= user['email'], expires_time=timedelta(seconds=ACCESS_TOKEN_EXPIRES_IN))
     except Exception as e:
         error = e.__class__.__name__
         if error == 'MissingTokenError':

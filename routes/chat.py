@@ -27,12 +27,10 @@ async def disconnect(sid):
     print(f'{sid}: disconnected')
 
 @sio_server.event
-async def messages(sid, data):
+async def messReaded(sid, data):
     sender = data["idUser"]
     receiver = data["idReceiver"]
-    room_id = await get_room_id(sender, receiver)
-    #historial = await get_messages_for_conversation(data["idUser"], data["idReceiver"])
-    #await sio_server.emit('messages', {'sid': sid, 'messages': historial}, room=room_id)
+    db.messages.update_many({"sender": receiver, "receiver": sender}, {"$set": {"read": True}})
 
 @sio_server.event
 async def chat(sid, message):
@@ -50,8 +48,6 @@ async def join_room(sid, data):
     receiver = data["idReceiver"]
     room_id = await get_room_id(sender, receiver)
     sio_server.enter_room(sid, room_id)
-    db.messages.update_many({"sender": receiver, "receiver": sender}, {"$set": {"read": True}}) #cambiar poner los mensajes en leido
-    await sio_server.emit('join_room', {'sid': sid, 'room': room_id}, room=room_id)
 
 async def get_room_id(user_id: str, recipient_id: str):
     sorted_ids = sorted([user_id, recipient_id])
@@ -103,6 +99,5 @@ async def get_conversations_by_id(user_id: str):
     for user in users:
         user_info = {"_id": user["_id"], "name": user["name"], "image_url": user["image_url"],"read": False if user["_id"] in objectIds_unread_messages else True}
         response.append(user_info)
-    print(str(response))
     return conversationsEntity(response)
 
