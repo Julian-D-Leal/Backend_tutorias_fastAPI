@@ -218,8 +218,6 @@ async def createCodeReset(email: str):
         token=reset_code,
         expires=expiration_datetime
         )
-    del password_reset.id
-    print(password_reset.dict())
     db.password_resets.insert_one(password_reset.dict())
     
     return {"message": "código de recuperación enviado."}
