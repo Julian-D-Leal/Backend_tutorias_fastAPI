@@ -4,7 +4,9 @@
     "career": "Tecnología en Electrónica",
     "semester": 2,
     "keywords": [
-      "Fundamentos"
+      "Fundamentos",
+      "de",
+      "Programación"
     ],
     "subject": "Comercio Exterior",
     "subject_career": "Administración de Empresas, Contaduría",
@@ -859,7 +861,7 @@
       "Fundamentos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -979,7 +981,7 @@
       "Fundamentos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -2395,7 +2397,7 @@
       "Materiales"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.56
   },
@@ -2575,7 +2577,7 @@
       "Materiales"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.43
   },
@@ -4267,7 +4269,7 @@
       "Lineal"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -4477,7 +4479,7 @@
       "Lineal"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -5911,7 +5913,7 @@
       "Comercio"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -6081,7 +6083,7 @@
       "Comercio"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -7403,7 +7405,7 @@
       "Exterior"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.55
   },
@@ -7563,7 +7565,7 @@
       "Exterior"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.5
   },
@@ -8659,7 +8661,7 @@
       "Economía"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.57
   },
@@ -8789,7 +8791,7 @@
       "Economía"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.49
   },
@@ -10215,7 +10217,7 @@
       "Seminario"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.49
   },
@@ -10395,7 +10397,7 @@
       "Seminario"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.38
   },
@@ -11511,7 +11513,7 @@
       "Fundamentos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -11641,7 +11643,7 @@
       "Fundamentos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -13211,7 +13213,7 @@
       "Ventas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.59
   },
@@ -13411,7 +13413,7 @@
       "Ventas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.44
   },
@@ -14835,7 +14837,7 @@
       "tributaria"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.32
   },
@@ -15005,7 +15007,7 @@
       "tributaria"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.21
   },
@@ -16543,7 +16545,7 @@
       "Comercial"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -16733,7 +16735,7 @@
       "Comercial"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -18003,7 +18005,7 @@
       "Internacional"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -18153,7 +18155,7 @@
       "Internacional"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -19599,7 +19601,7 @@
       "Operaciones"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -19779,7 +19781,7 @@
       "Operaciones"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -20823,7 +20825,7 @@
       "Comercio"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -20943,7 +20945,7 @@
       "Comercio"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.28
   },
@@ -22503,7 +22505,7 @@
       "Sistemas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -22703,7 +22705,7 @@
       "Sistemas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -24127,7 +24129,7 @@
       "Física"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.5
   },
@@ -24297,7 +24299,7 @@
       "Física"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.39
   },
@@ -25763,7 +25765,7 @@
       "Construcción"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -25943,7 +25945,7 @@
       "Construcción"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -27275,7 +27277,7 @@
       "Matemáticas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -27435,7 +27437,7 @@
       "Matemáticas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -28891,7 +28893,7 @@
       "Gerencia"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.39
   },
@@ -29071,7 +29073,7 @@
       "Gerencia"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.3
   },
@@ -30547,7 +30549,7 @@
       "Herramientas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -30727,7 +30729,7 @@
       "Herramientas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -31915,7 +31917,7 @@
       "Legislación"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -32055,7 +32057,7 @@
       "Legislación"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.31
   },
@@ -33131,7 +33133,7 @@
       "Producción"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -33261,7 +33263,7 @@
       "Producción"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.42
   },
@@ -34327,7 +34329,7 @@
       "Talleres"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -34457,7 +34459,7 @@
       "Talleres"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -36027,7 +36029,7 @@
       "Macroeconomía"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.49
   },
@@ -36227,7 +36229,7 @@
       "Macroeconomía"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.39
   },
@@ -37435,7 +37437,7 @@
       "construcción"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -37575,7 +37577,7 @@
       "construcción"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -39011,7 +39013,7 @@
       "Redes"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -39191,7 +39193,7 @@
       "Redes"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -40523,7 +40525,7 @@
       "Sistemas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.41
   },
@@ -40683,7 +40685,7 @@
       "Sistemas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.3
   },
@@ -41779,7 +41781,7 @@
       "Discretas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.6
   },
@@ -41909,7 +41911,7 @@
       "Discretas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.49
   },
@@ -43479,7 +43481,7 @@
       "Seminario"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.53
   },
@@ -43679,7 +43681,7 @@
       "Seminario"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.42
   },
@@ -45319,7 +45321,7 @@
       "Internacional"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -45519,7 +45521,7 @@
       "Internacional"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -46583,7 +46585,7 @@
       "Inversiones"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -46703,7 +46705,7 @@
       "Inversiones"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.47
   },
@@ -48263,7 +48265,7 @@
       "Investigación"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -48463,7 +48465,7 @@
       "Investigación"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -50031,7 +50033,7 @@
       "laboratorios"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -50221,7 +50223,7 @@
       "laboratorios"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -51491,7 +51493,7 @@
       "administrativo"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -51641,7 +51643,7 @@
       "administrativo"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.44
   },
@@ -52727,7 +52729,7 @@
       "Bases"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -52857,7 +52859,7 @@
       "Bases"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -54355,7 +54357,7 @@
       "Procesos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.5
   },
@@ -54545,7 +54547,7 @@
       "Procesos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.4
   },
@@ -56247,7 +56249,7 @@
       "obligaciones"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.54
   },
@@ -56457,7 +56459,7 @@
       "obligaciones"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.39
   },
@@ -57963,7 +57965,7 @@
       "Fundamentos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -58143,7 +58145,7 @@
       "Fundamentos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -59259,7 +59261,7 @@
       "Procedimiento"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.52
   },
@@ -59389,7 +59391,7 @@
       "Procedimiento"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.53
   },
@@ -60815,7 +60817,7 @@
       "Dirección"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -60995,7 +60997,7 @@
       "Dirección"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -62687,7 +62689,7 @@
       "Fundamentos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -62897,7 +62899,7 @@
       "Fundamentos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.49
   },
@@ -64619,7 +64621,7 @@
       "Fundamentos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -64829,7 +64831,7 @@
       "Fundamentos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -65903,7 +65905,7 @@
       "informáticas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.63
   },
@@ -66023,7 +66025,7 @@
       "informáticas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.67
   },
@@ -67511,7 +67513,7 @@
       "Alimentos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.55
   },
@@ -67701,7 +67703,7 @@
       "Alimentos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.41
   },
@@ -68899,7 +68901,7 @@
       "Español"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -69039,7 +69041,7 @@
       "Español"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.37
   },
@@ -70115,7 +70117,7 @@
       "automáticos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -70245,7 +70247,7 @@
       "automáticos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -71239,7 +71241,7 @@
       "móviles"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -71359,7 +71361,7 @@
       "móviles"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -72559,7 +72561,7 @@
       "proceso"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -72709,7 +72711,7 @@
       "proceso"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -73867,7 +73869,7 @@
       "Edificaciones"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -74007,7 +74009,7 @@
       "Edificaciones"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.51
   },
@@ -75227,7 +75229,7 @@
       "Aseguramiento"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.58
   },
@@ -75377,7 +75379,7 @@
       "Aseguramiento"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.43
   },
@@ -76391,7 +76393,7 @@
       "Cálculo"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.51
   },
@@ -76511,7 +76513,7 @@
       "Cálculo"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.45
   },
@@ -77711,7 +77713,7 @@
       "Macroeconomía"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -77861,7 +77863,7 @@
       "Macroeconomía"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.5
   },
@@ -79091,7 +79093,7 @@
       "Operaciones"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -79241,7 +79243,7 @@
       "Operaciones"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.38
   },
@@ -80687,7 +80689,7 @@
       "coyuntura"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -80867,7 +80869,7 @@
       "coyuntura"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -81911,7 +81913,7 @@
       "3D"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -82031,7 +82033,7 @@
       "3D"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.14
   },
@@ -83159,7 +83161,7 @@
       "Física"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.5
   },
@@ -83299,7 +83301,7 @@
       "Física"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.44
   },
@@ -84807,7 +84809,7 @@
       "Sistemas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -84997,7 +84999,7 @@
       "Sistemas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -86411,7 +86413,7 @@
       "Fabricación"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.48
   },
@@ -86581,7 +86583,7 @@
       "Fabricación"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.4
   },
@@ -87903,7 +87905,7 @@
       "automáticos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.62
   },
@@ -88063,7 +88065,7 @@
       "automáticos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.46
   },
@@ -89591,7 +89593,7 @@
       "Química"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -89781,7 +89783,7 @@
       "Química"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.45
   },
@@ -91411,7 +91413,7 @@
       "Lineal"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.52
   },
@@ -91611,7 +91613,7 @@
       "Lineal"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.39
   },
@@ -92819,7 +92821,7 @@
       "proceso"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -92959,7 +92961,7 @@
       "proceso"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -94035,7 +94037,7 @@
       "Sistemas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.51
   },
@@ -94165,7 +94167,7 @@
       "Sistemas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.39
   },
@@ -95375,7 +95377,7 @@
       "proceso"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -95525,7 +95527,7 @@
       "proceso"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -96611,7 +96613,7 @@
       "Análisis"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.51
   },
@@ -96741,7 +96743,7 @@
       "Análisis"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.42
   },
@@ -98311,7 +98313,7 @@
       "Análisis"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -98511,7 +98513,7 @@
       "Análisis"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -100007,7 +100009,7 @@
       "Ventas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -100187,7 +100189,7 @@
       "Ventas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },

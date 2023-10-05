@@ -4,7 +4,9 @@
     "career": "Tecnología en Electrónica",
     "semester": 2,
     "keywords": [
-      "Fundamentos"
+      "Fundamentos",
+      "de",
+      "Programación"
     ],
     "subject": "Comercio Exterior",
     "subject_career": "Administración de Empresas, Contaduría",
@@ -859,7 +861,7 @@
       "Fundamentos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -979,7 +981,7 @@
       "Fundamentos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -1039,9 +1041,9 @@
       "Fundamentos"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.48
   },
   {
     "email": "sebastiánarrietasedano@gmail.com",
@@ -1051,9 +1053,9 @@
       "Fundamentos"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
-    "subject_score": 0
+    "subject_score": 0.55
   },
   {
     "email": "sebastiánarrietasedano@gmail.com",
@@ -1063,9 +1065,9 @@
       "Fundamentos"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.66
   },
   {
     "email": "sebastiánarrietasedano@gmail.com",
@@ -1075,9 +1077,9 @@
       "Fundamentos"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.66
   },
   {
     "email": "sebastiánarrietasedano@gmail.com",
@@ -2395,7 +2397,7 @@
       "Materiales"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.56
   },
@@ -2575,7 +2577,7 @@
       "Materiales"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.43
   },
@@ -2665,7 +2667,7 @@
       "Materiales"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -2683,7 +2685,7 @@
       "Materiales"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -2701,7 +2703,7 @@
       "Materiales"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -2719,7 +2721,7 @@
       "Materiales"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -4267,7 +4269,7 @@
       "Lineal"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -4477,7 +4479,7 @@
       "Lineal"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -4582,7 +4584,7 @@
       "Lineal"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -4603,7 +4605,7 @@
       "Lineal"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -4624,7 +4626,7 @@
       "Lineal"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -4645,7 +4647,7 @@
       "Lineal"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -5911,7 +5913,7 @@
       "Comercio"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -6081,7 +6083,7 @@
       "Comercio"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -6166,7 +6168,7 @@
       "Comercio"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -6183,7 +6185,7 @@
       "Comercio"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -6200,7 +6202,7 @@
       "Comercio"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -6217,7 +6219,7 @@
       "Comercio"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -7403,7 +7405,7 @@
       "Exterior"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.55
   },
@@ -7563,7 +7565,7 @@
       "Exterior"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.5
   },
@@ -7643,7 +7645,7 @@
       "Exterior"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -7659,7 +7661,7 @@
       "Exterior"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -7675,7 +7677,7 @@
       "Exterior"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -7691,7 +7693,7 @@
       "Exterior"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -8659,7 +8661,7 @@
       "Economía"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.57
   },
@@ -8789,7 +8791,7 @@
       "Economía"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.49
   },
@@ -8854,7 +8856,7 @@
       "Economía"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -8867,7 +8869,7 @@
       "Economía"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -8880,7 +8882,7 @@
       "Economía"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -8893,7 +8895,7 @@
       "Economía"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -10215,7 +10217,7 @@
       "Seminario"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.49
   },
@@ -10395,7 +10397,7 @@
       "Seminario"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.38
   },
@@ -10485,7 +10487,7 @@
       "Seminario"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -10503,7 +10505,7 @@
       "Seminario"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -10521,7 +10523,7 @@
       "Seminario"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -10539,7 +10541,7 @@
       "Seminario"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -11511,7 +11513,7 @@
       "Fundamentos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -11641,7 +11643,7 @@
       "Fundamentos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -11706,9 +11708,9 @@
       "Fundamentos"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.5
   },
   {
     "email": "socorroarellanodomínguez@gmail.com",
@@ -11719,9 +11721,9 @@
       "Fundamentos"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
-    "subject_score": 0
+    "subject_score": 0.55
   },
   {
     "email": "socorroarellanodomínguez@gmail.com",
@@ -11732,9 +11734,9 @@
       "Fundamentos"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.59
   },
   {
     "email": "socorroarellanodomínguez@gmail.com",
@@ -11745,9 +11747,9 @@
       "Fundamentos"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.71
   },
   {
     "email": "socorroarellanodomínguez@gmail.com",
@@ -13211,7 +13213,7 @@
       "Ventas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.59
   },
@@ -13411,7 +13413,7 @@
       "Ventas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.44
   },
@@ -13511,7 +13513,7 @@
       "Ventas"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -13531,7 +13533,7 @@
       "Ventas"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -13551,7 +13553,7 @@
       "Ventas"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -13571,7 +13573,7 @@
       "Ventas"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -14835,7 +14837,7 @@
       "tributaria"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.32
   },
@@ -15005,7 +15007,7 @@
       "tributaria"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.21
   },
@@ -15090,7 +15092,7 @@
       "tributaria"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -15107,7 +15109,7 @@
       "tributaria"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -15124,7 +15126,7 @@
       "tributaria"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -15141,7 +15143,7 @@
       "tributaria"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -16543,7 +16545,7 @@
       "Comercial"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -16733,7 +16735,7 @@
       "Comercial"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -16828,7 +16830,7 @@
       "Comercial"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -16847,7 +16849,7 @@
       "Comercial"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -16866,7 +16868,7 @@
       "Comercial"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -16885,7 +16887,7 @@
       "Comercial"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -18003,7 +18005,7 @@
       "Internacional"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -18153,7 +18155,7 @@
       "Internacional"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -18228,7 +18230,7 @@
       "Internacional"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -18243,7 +18245,7 @@
       "Internacional"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -18258,7 +18260,7 @@
       "Internacional"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -18273,7 +18275,7 @@
       "Internacional"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -19599,7 +19601,7 @@
       "Operaciones"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -19779,7 +19781,7 @@
       "Operaciones"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -19869,7 +19871,7 @@
       "Operaciones"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -19887,7 +19889,7 @@
       "Operaciones"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -19905,7 +19907,7 @@
       "Operaciones"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -19923,7 +19925,7 @@
       "Operaciones"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -20823,7 +20825,7 @@
       "Comercio"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -20943,7 +20945,7 @@
       "Comercio"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.28
   },
@@ -21003,7 +21005,7 @@
       "Comercio"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -21015,7 +21017,7 @@
       "Comercio"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -21027,7 +21029,7 @@
       "Comercio"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -21039,7 +21041,7 @@
       "Comercio"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -22503,7 +22505,7 @@
       "Sistemas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -22703,7 +22705,7 @@
       "Sistemas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -22803,7 +22805,7 @@
       "Sistemas"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -22823,7 +22825,7 @@
       "Sistemas"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -22843,7 +22845,7 @@
       "Sistemas"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -22863,7 +22865,7 @@
       "Sistemas"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -24127,7 +24129,7 @@
       "Física"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.5
   },
@@ -24297,7 +24299,7 @@
       "Física"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.39
   },
@@ -24382,7 +24384,7 @@
       "Física"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -24399,7 +24401,7 @@
       "Física"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -24416,7 +24418,7 @@
       "Física"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -24433,7 +24435,7 @@
       "Física"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -25763,7 +25765,7 @@
       "Construcción"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -25943,7 +25945,7 @@
       "Construcción"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -26033,7 +26035,7 @@
       "Construcción"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -26051,7 +26053,7 @@
       "Construcción"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -26069,7 +26071,7 @@
       "Construcción"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -26087,7 +26089,7 @@
       "Construcción"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -27275,7 +27277,7 @@
       "Matemáticas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -27435,7 +27437,7 @@
       "Matemáticas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -27515,7 +27517,7 @@
       "Matemáticas"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -27531,7 +27533,7 @@
       "Matemáticas"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -27547,7 +27549,7 @@
       "Matemáticas"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -27563,7 +27565,7 @@
       "Matemáticas"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -28891,7 +28893,7 @@
       "Gerencia"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.39
   },
@@ -29071,7 +29073,7 @@
       "Gerencia"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.3
   },
@@ -29161,7 +29163,7 @@
       "Gerencia"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -29179,7 +29181,7 @@
       "Gerencia"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -29197,7 +29199,7 @@
       "Gerencia"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -29215,7 +29217,7 @@
       "Gerencia"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -30547,7 +30549,7 @@
       "Herramientas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -30727,7 +30729,7 @@
       "Herramientas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -30817,7 +30819,7 @@
       "Herramientas"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -30835,7 +30837,7 @@
       "Herramientas"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -30853,7 +30855,7 @@
       "Herramientas"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -30871,7 +30873,7 @@
       "Herramientas"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -31915,7 +31917,7 @@
       "Legislación"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -32055,7 +32057,7 @@
       "Legislación"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.31
   },
@@ -32125,7 +32127,7 @@
       "Legislación"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -32139,7 +32141,7 @@
       "Legislación"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -32153,7 +32155,7 @@
       "Legislación"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -32167,7 +32169,7 @@
       "Legislación"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -33131,7 +33133,7 @@
       "Producción"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -33261,7 +33263,7 @@
       "Producción"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.42
   },
@@ -33326,7 +33328,7 @@
       "Producción"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -33339,7 +33341,7 @@
       "Producción"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -33352,7 +33354,7 @@
       "Producción"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -33365,7 +33367,7 @@
       "Producción"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -34327,7 +34329,7 @@
       "Talleres"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -34457,7 +34459,7 @@
       "Talleres"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -34522,7 +34524,7 @@
       "Talleres"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -34535,7 +34537,7 @@
       "Talleres"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -34548,7 +34550,7 @@
       "Talleres"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -34561,7 +34563,7 @@
       "Talleres"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -36027,7 +36029,7 @@
       "Macroeconomía"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.49
   },
@@ -36227,7 +36229,7 @@
       "Macroeconomía"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.39
   },
@@ -36327,7 +36329,7 @@
       "Macroeconomía"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -36347,7 +36349,7 @@
       "Macroeconomía"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -36367,7 +36369,7 @@
       "Macroeconomía"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -36387,7 +36389,7 @@
       "Macroeconomía"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -37435,7 +37437,7 @@
       "construcción"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -37575,7 +37577,7 @@
       "construcción"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -37645,7 +37647,7 @@
       "construcción"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -37659,7 +37661,7 @@
       "construcción"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -37673,7 +37675,7 @@
       "construcción"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -37687,7 +37689,7 @@
       "construcción"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -39011,7 +39013,7 @@
       "Redes"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -39191,7 +39193,7 @@
       "Redes"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -39281,9 +39283,9 @@
       "Redes"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.48
   },
   {
     "email": "julietafelisaquinterosalamanca@gmail.com",
@@ -39299,9 +39301,9 @@
       "Redes"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
-    "subject_score": 0
+    "subject_score": 0.47
   },
   {
     "email": "julietafelisaquinterosalamanca@gmail.com",
@@ -39317,9 +39319,9 @@
       "Redes"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.51
   },
   {
     "email": "julietafelisaquinterosalamanca@gmail.com",
@@ -39335,9 +39337,9 @@
       "Redes"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.52
   },
   {
     "email": "julietafelisaquinterosalamanca@gmail.com",
@@ -40523,7 +40525,7 @@
       "Sistemas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.41
   },
@@ -40683,7 +40685,7 @@
       "Sistemas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.3
   },
@@ -40763,7 +40765,7 @@
       "Sistemas"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -40779,7 +40781,7 @@
       "Sistemas"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -40795,7 +40797,7 @@
       "Sistemas"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -40811,7 +40813,7 @@
       "Sistemas"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -41779,7 +41781,7 @@
       "Discretas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.6
   },
@@ -41909,7 +41911,7 @@
       "Discretas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.49
   },
@@ -41974,7 +41976,7 @@
       "Discretas"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -41987,7 +41989,7 @@
       "Discretas"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -42000,7 +42002,7 @@
       "Discretas"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -42013,7 +42015,7 @@
       "Discretas"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -43479,7 +43481,7 @@
       "Seminario"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.53
   },
@@ -43679,7 +43681,7 @@
       "Seminario"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.42
   },
@@ -43779,7 +43781,7 @@
       "Seminario"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -43799,7 +43801,7 @@
       "Seminario"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -43819,7 +43821,7 @@
       "Seminario"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -43839,7 +43841,7 @@
       "Seminario"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -45319,7 +45321,7 @@
       "Internacional"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -45519,7 +45521,7 @@
       "Internacional"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -45619,7 +45621,7 @@
       "Internacional"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -45639,7 +45641,7 @@
       "Internacional"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -45659,7 +45661,7 @@
       "Internacional"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -45679,7 +45681,7 @@
       "Internacional"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -46583,7 +46585,7 @@
       "Inversiones"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -46703,7 +46705,7 @@
       "Inversiones"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.47
   },
@@ -46763,7 +46765,7 @@
       "Inversiones"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -46775,7 +46777,7 @@
       "Inversiones"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -46787,7 +46789,7 @@
       "Inversiones"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -46799,7 +46801,7 @@
       "Inversiones"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -48263,7 +48265,7 @@
       "Investigación"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -48463,7 +48465,7 @@
       "Investigación"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -48563,7 +48565,7 @@
       "Investigación"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -48583,7 +48585,7 @@
       "Investigación"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -48603,7 +48605,7 @@
       "Investigación"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -48623,7 +48625,7 @@
       "Investigación"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -50031,7 +50033,7 @@
       "laboratorios"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -50221,7 +50223,7 @@
       "laboratorios"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -50316,9 +50318,9 @@
       "laboratorios"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.52
   },
   {
     "email": "amayajuliánaznar@gmail.com",
@@ -50335,9 +50337,9 @@
       "laboratorios"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
-    "subject_score": 0
+    "subject_score": 0.43
   },
   {
     "email": "amayajuliánaznar@gmail.com",
@@ -50354,9 +50356,9 @@
       "laboratorios"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.56
   },
   {
     "email": "amayajuliánaznar@gmail.com",
@@ -50373,9 +50375,9 @@
       "laboratorios"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.56
   },
   {
     "email": "amayajuliánaznar@gmail.com",
@@ -51491,7 +51493,7 @@
       "administrativo"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -51641,7 +51643,7 @@
       "administrativo"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.44
   },
@@ -51716,7 +51718,7 @@
       "administrativo"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -51731,7 +51733,7 @@
       "administrativo"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -51746,7 +51748,7 @@
       "administrativo"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -51761,7 +51763,7 @@
       "administrativo"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -52727,7 +52729,7 @@
       "Bases"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -52857,7 +52859,7 @@
       "Bases"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -52922,7 +52924,7 @@
       "Bases"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -52935,7 +52937,7 @@
       "Bases"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -52948,7 +52950,7 @@
       "Bases"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -52961,7 +52963,7 @@
       "Bases"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -54355,7 +54357,7 @@
       "Procesos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.5
   },
@@ -54545,7 +54547,7 @@
       "Procesos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.4
   },
@@ -54640,7 +54642,7 @@
       "Procesos"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -54659,7 +54661,7 @@
       "Procesos"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -54678,7 +54680,7 @@
       "Procesos"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -54697,7 +54699,7 @@
       "Procesos"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -56247,7 +56249,7 @@
       "obligaciones"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.54
   },
@@ -56457,7 +56459,7 @@
       "obligaciones"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.39
   },
@@ -56562,7 +56564,7 @@
       "obligaciones"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -56583,7 +56585,7 @@
       "obligaciones"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -56604,7 +56606,7 @@
       "obligaciones"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -56625,7 +56627,7 @@
       "obligaciones"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -57963,7 +57965,7 @@
       "Fundamentos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -58143,7 +58145,7 @@
       "Fundamentos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -58233,9 +58235,9 @@
       "Fundamentos"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.48
   },
   {
     "email": "carlagracielapedroiglesia@gmail.com",
@@ -58251,9 +58253,9 @@
       "Fundamentos"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
-    "subject_score": 0
+    "subject_score": 0.44
   },
   {
     "email": "carlagracielapedroiglesia@gmail.com",
@@ -58269,9 +58271,9 @@
       "Fundamentos"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.51
   },
   {
     "email": "carlagracielapedroiglesia@gmail.com",
@@ -58287,9 +58289,9 @@
       "Fundamentos"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.61
   },
   {
     "email": "carlagracielapedroiglesia@gmail.com",
@@ -59259,7 +59261,7 @@
       "Procedimiento"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.52
   },
@@ -59389,7 +59391,7 @@
       "Procedimiento"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.53
   },
@@ -59454,7 +59456,7 @@
       "Procedimiento"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -59467,7 +59469,7 @@
       "Procedimiento"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -59480,7 +59482,7 @@
       "Procedimiento"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -59493,7 +59495,7 @@
       "Procedimiento"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -60815,7 +60817,7 @@
       "Dirección"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -60995,7 +60997,7 @@
       "Dirección"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -61085,9 +61087,9 @@
       "Dirección"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.48
   },
   {
     "email": "currohozaliaga@gmail.com",
@@ -61103,9 +61105,9 @@
       "Dirección"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
-    "subject_score": 0
+    "subject_score": 0.39
   },
   {
     "email": "currohozaliaga@gmail.com",
@@ -61121,9 +61123,9 @@
       "Dirección"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.47
   },
   {
     "email": "currohozaliaga@gmail.com",
@@ -61139,9 +61141,9 @@
       "Dirección"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.54
   },
   {
     "email": "currohozaliaga@gmail.com",
@@ -62687,7 +62689,7 @@
       "Fundamentos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -62897,7 +62899,7 @@
       "Fundamentos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.49
   },
@@ -63002,7 +63004,7 @@
       "Fundamentos"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -63023,7 +63025,7 @@
       "Fundamentos"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -63044,7 +63046,7 @@
       "Fundamentos"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -63065,7 +63067,7 @@
       "Fundamentos"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -64619,7 +64621,7 @@
       "Fundamentos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -64829,7 +64831,7 @@
       "Fundamentos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -64934,7 +64936,7 @@
       "Fundamentos"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -64955,7 +64957,7 @@
       "Fundamentos"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -64976,7 +64978,7 @@
       "Fundamentos"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -64997,7 +64999,7 @@
       "Fundamentos"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -65903,7 +65905,7 @@
       "informáticas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.63
   },
@@ -66023,7 +66025,7 @@
       "informáticas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.67
   },
@@ -66083,7 +66085,7 @@
       "informáticas"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -66095,7 +66097,7 @@
       "informáticas"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -66107,7 +66109,7 @@
       "informáticas"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -66119,7 +66121,7 @@
       "informáticas"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -67511,7 +67513,7 @@
       "Alimentos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.55
   },
@@ -67701,7 +67703,7 @@
       "Alimentos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.41
   },
@@ -67796,7 +67798,7 @@
       "Alimentos"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -67815,7 +67817,7 @@
       "Alimentos"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -67834,7 +67836,7 @@
       "Alimentos"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -67853,7 +67855,7 @@
       "Alimentos"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -68899,7 +68901,7 @@
       "Español"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -69039,7 +69041,7 @@
       "Español"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.37
   },
@@ -69109,7 +69111,7 @@
       "Español"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -69123,7 +69125,7 @@
       "Español"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -69137,7 +69139,7 @@
       "Español"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -69151,7 +69153,7 @@
       "Español"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -70115,7 +70117,7 @@
       "automáticos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -70245,7 +70247,7 @@
       "automáticos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -70310,9 +70312,9 @@
       "automáticos"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.54
   },
   {
     "email": "giselaarielrochadiéguez@gmail.com",
@@ -70323,9 +70325,9 @@
       "automáticos"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
-    "subject_score": 0
+    "subject_score": 0.56
   },
   {
     "email": "giselaarielrochadiéguez@gmail.com",
@@ -70336,9 +70338,9 @@
       "automáticos"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.76
   },
   {
     "email": "giselaarielrochadiéguez@gmail.com",
@@ -70349,9 +70351,9 @@
       "automáticos"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.7
   },
   {
     "email": "giselaarielrochadiéguez@gmail.com",
@@ -71239,7 +71241,7 @@
       "móviles"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -71359,7 +71361,7 @@
       "móviles"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -71419,7 +71421,7 @@
       "móviles"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -71431,7 +71433,7 @@
       "móviles"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -71443,7 +71445,7 @@
       "móviles"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -71455,7 +71457,7 @@
       "móviles"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -72559,7 +72561,7 @@
       "proceso"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -72709,7 +72711,7 @@
       "proceso"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -72784,9 +72786,9 @@
       "proceso"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.66
   },
   {
     "email": "esperanzamanriquebenito@gmail.com",
@@ -72799,9 +72801,9 @@
       "proceso"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
-    "subject_score": 0
+    "subject_score": 0.54
   },
   {
     "email": "esperanzamanriquebenito@gmail.com",
@@ -72814,9 +72816,9 @@
       "proceso"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.71
   },
   {
     "email": "esperanzamanriquebenito@gmail.com",
@@ -72829,9 +72831,9 @@
       "proceso"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.63
   },
   {
     "email": "esperanzamanriquebenito@gmail.com",
@@ -73867,7 +73869,7 @@
       "Edificaciones"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -74007,7 +74009,7 @@
       "Edificaciones"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.51
   },
@@ -74077,7 +74079,7 @@
       "Edificaciones"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -74091,7 +74093,7 @@
       "Edificaciones"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -74105,7 +74107,7 @@
       "Edificaciones"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -74119,7 +74121,7 @@
       "Edificaciones"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -75227,7 +75229,7 @@
       "Aseguramiento"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.58
   },
@@ -75377,7 +75379,7 @@
       "Aseguramiento"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.43
   },
@@ -75452,7 +75454,7 @@
       "Aseguramiento"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -75467,7 +75469,7 @@
       "Aseguramiento"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -75482,7 +75484,7 @@
       "Aseguramiento"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -75497,7 +75499,7 @@
       "Aseguramiento"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -76391,7 +76393,7 @@
       "Cálculo"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.51
   },
@@ -76511,7 +76513,7 @@
       "Cálculo"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.45
   },
@@ -76571,7 +76573,7 @@
       "Cálculo"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -76583,7 +76585,7 @@
       "Cálculo"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -76595,7 +76597,7 @@
       "Cálculo"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -76607,7 +76609,7 @@
       "Cálculo"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -77711,7 +77713,7 @@
       "Macroeconomía"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -77861,7 +77863,7 @@
       "Macroeconomía"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.5
   },
@@ -77936,7 +77938,7 @@
       "Macroeconomía"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -77951,7 +77953,7 @@
       "Macroeconomía"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -77966,7 +77968,7 @@
       "Macroeconomía"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -77981,7 +77983,7 @@
       "Macroeconomía"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -79091,7 +79093,7 @@
       "Operaciones"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -79241,7 +79243,7 @@
       "Operaciones"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.38
   },
@@ -79316,7 +79318,7 @@
       "Operaciones"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -79331,7 +79333,7 @@
       "Operaciones"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -79346,7 +79348,7 @@
       "Operaciones"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -79361,7 +79363,7 @@
       "Operaciones"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -80687,7 +80689,7 @@
       "coyuntura"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -80867,7 +80869,7 @@
       "coyuntura"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -80957,9 +80959,9 @@
       "coyuntura"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.45
   },
   {
     "email": "teófiladecarreño@gmail.com",
@@ -80975,9 +80977,9 @@
       "coyuntura"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
-    "subject_score": 0
+    "subject_score": 0.45
   },
   {
     "email": "teófiladecarreño@gmail.com",
@@ -80993,9 +80995,9 @@
       "coyuntura"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.5
   },
   {
     "email": "teófiladecarreño@gmail.com",
@@ -81011,9 +81013,9 @@
       "coyuntura"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.57
   },
   {
     "email": "teófiladecarreño@gmail.com",
@@ -81911,7 +81913,7 @@
       "3D"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -82031,7 +82033,7 @@
       "3D"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.14
   },
@@ -82091,7 +82093,7 @@
       "3D"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -82103,7 +82105,7 @@
       "3D"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -82115,7 +82117,7 @@
       "3D"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -82127,7 +82129,7 @@
       "3D"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -83159,7 +83161,7 @@
       "Física"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.5
   },
@@ -83299,7 +83301,7 @@
       "Física"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.44
   },
@@ -83369,7 +83371,7 @@
       "Física"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -83383,7 +83385,7 @@
       "Física"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -83397,7 +83399,7 @@
       "Física"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -83411,7 +83413,7 @@
       "Física"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -84807,7 +84809,7 @@
       "Sistemas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -84997,7 +84999,7 @@
       "Sistemas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -85092,9 +85094,9 @@
       "Sistemas"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.52
   },
   {
     "email": "marisolfuenteguardiola@gmail.com",
@@ -85111,9 +85113,9 @@
       "Sistemas"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
-    "subject_score": 0
+    "subject_score": 0.47
   },
   {
     "email": "marisolfuenteguardiola@gmail.com",
@@ -85130,9 +85132,9 @@
       "Sistemas"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.54
   },
   {
     "email": "marisolfuenteguardiola@gmail.com",
@@ -85149,9 +85151,9 @@
       "Sistemas"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
-    "subject_score": 0
+    "subject_score": 0.64
   },
   {
     "email": "marisolfuenteguardiola@gmail.com",
@@ -86411,7 +86413,7 @@
       "Fabricación"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.48
   },
@@ -86581,7 +86583,7 @@
       "Fabricación"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.4
   },
@@ -86666,7 +86668,7 @@
       "Fabricación"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -86683,7 +86685,7 @@
       "Fabricación"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -86700,7 +86702,7 @@
       "Fabricación"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -86717,7 +86719,7 @@
       "Fabricación"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -87903,7 +87905,7 @@
       "automáticos"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.62
   },
@@ -88063,7 +88065,7 @@
       "automáticos"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.46
   },
@@ -88143,7 +88145,7 @@
       "automáticos"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -88159,7 +88161,7 @@
       "automáticos"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -88175,7 +88177,7 @@
       "automáticos"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -88191,7 +88193,7 @@
       "automáticos"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -89591,7 +89593,7 @@
       "Química"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -89781,7 +89783,7 @@
       "Química"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.45
   },
@@ -89876,7 +89878,7 @@
       "Química"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -89895,7 +89897,7 @@
       "Química"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -89914,7 +89916,7 @@
       "Química"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -89933,7 +89935,7 @@
       "Química"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -91411,7 +91413,7 @@
       "Lineal"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.52
   },
@@ -91611,7 +91613,7 @@
       "Lineal"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.39
   },
@@ -91711,7 +91713,7 @@
       "Lineal"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -91731,7 +91733,7 @@
       "Lineal"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -91751,7 +91753,7 @@
       "Lineal"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -91771,7 +91773,7 @@
       "Lineal"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -92819,7 +92821,7 @@
       "proceso"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -92959,7 +92961,7 @@
       "proceso"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -93029,7 +93031,7 @@
       "proceso"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -93043,7 +93045,7 @@
       "proceso"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -93057,7 +93059,7 @@
       "proceso"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -93071,7 +93073,7 @@
       "proceso"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -94035,7 +94037,7 @@
       "Sistemas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.51
   },
@@ -94165,7 +94167,7 @@
       "Sistemas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.39
   },
@@ -94230,7 +94232,7 @@
       "Sistemas"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -94243,7 +94245,7 @@
       "Sistemas"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -94256,7 +94258,7 @@
       "Sistemas"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -94269,7 +94271,7 @@
       "Sistemas"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -95375,7 +95377,7 @@
       "proceso"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -95525,7 +95527,7 @@
       "proceso"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -95600,7 +95602,7 @@
       "proceso"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -95615,7 +95617,7 @@
       "proceso"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -95630,7 +95632,7 @@
       "proceso"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -95645,7 +95647,7 @@
       "proceso"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -96611,7 +96613,7 @@
       "Análisis"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0.51
   },
@@ -96741,7 +96743,7 @@
       "Análisis"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0.42
   },
@@ -96806,7 +96808,7 @@
       "Análisis"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -96819,7 +96821,7 @@
       "Análisis"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -96832,7 +96834,7 @@
       "Análisis"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -96845,7 +96847,7 @@
       "Análisis"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -98311,7 +98313,7 @@
       "Análisis"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -98511,7 +98513,7 @@
       "Análisis"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -98611,7 +98613,7 @@
       "Análisis"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -98631,7 +98633,7 @@
       "Análisis"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -98651,7 +98653,7 @@
       "Análisis"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -98671,7 +98673,7 @@
       "Análisis"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -100007,7 +100009,7 @@
       "Ventas"
     ],
     "subject": "Ecuaciones Diferenciales",
-    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos,Construcción",
+    "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
     "subject_semester": 4,
     "subject_score": 0
   },
@@ -100187,7 +100189,7 @@
       "Ventas"
     ],
     "subject": "Matemáticas Básicas",
-    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software,Contaduría, Administración de Empresas, Construcción,Nutricion y Dietetica, Ingeniería de Alimentos\t",
+    "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
     "subject_semester": 1,
     "subject_score": 0
   },
@@ -100277,7 +100279,7 @@
       "Ventas"
     ],
     "subject": "Control Electrónico de Potencia",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -100295,7 +100297,7 @@
       "Ventas"
     ],
     "subject": "Microprocesadores ",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 5,
     "subject_score": 0
   },
@@ -100313,7 +100315,7 @@
       "Ventas"
     ],
     "subject": "Sistemas automáticos de control",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
@@ -100331,7 +100333,7 @@
       "Ventas"
     ],
     "subject": "Sistemas de Comunicación",
-    "subject_career": "Tecnología en Electronica",
+    "subject_career": "Tecnología en Electrónica",
     "subject_semester": 6,
     "subject_score": 0
   },
