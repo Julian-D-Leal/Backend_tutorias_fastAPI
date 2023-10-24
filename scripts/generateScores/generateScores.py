@@ -184,7 +184,9 @@ def generateScoresSubjects():
                     s = subject["subject"].lower()
                     s = nlp.vocab[s]
                     score += keyword.similarity(s)
-                avgScore = score/len(student["keywords"])
+                avgScoreKeywords = score/len(student["keywords"])
+                avgScoreSemester = 1 - abs(student["semester"] - subject["semester"])/10
+                avgScore = (avgScoreKeywords + avgScoreSemester)/2
                 data_dict = {
                     "email" : student["email"],
                     "asignatura": subject["subject"], 
@@ -217,4 +219,5 @@ def generateScoresSubjects():
                     final_dataset.append(final_dict)
     with open('scripts/generateScores/subjectScores.json', 'w',encoding='utf-8') as json_file:
         json.dump(final_dataset, json_file, ensure_ascii=False, indent=2)
+        
 generateScoresSubjects()

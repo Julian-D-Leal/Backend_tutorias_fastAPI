@@ -1,0 +1,462 @@
+[
+    {
+      "subject": "Comercio Exterior",
+      "subject_career": "Administración de Empresas, Contaduría",
+      "subject_semester": 6
+    },
+    {
+      "subject": "Diseño Organizacional ",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 2
+    },
+    {
+      "subject": "Economía de Empresa",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 3
+    },
+    {
+      "subject": "Entorno Organizacional",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 4
+    },
+    {
+      "subject": "Estrategia y Planeación",
+      "subject_career": "Administración de Empresas", 
+      "subject_semester": 5
+    },
+    {
+      "subject": "Fundamentos de Mercadeo",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 5
+    },
+    {
+      "subject": "Fundamentos de Responsabilidad Social Empresarial",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 8
+    },
+    {
+      "subject": "Gerencia de Ventas",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 7
+    },
+    {
+      "subject": "Gestión de la Producción de Bienes y Servicios",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 6
+    },
+    {
+      "subject": "Gestión de los Sistemas de Info. Y las Tel.",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 10
+    },
+    {
+      "subject": "Gestión Financiera y Presupuestos",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 6
+    },
+    {
+      "subject": "Investigación de Mercados",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 8
+    },
+    {
+      "subject": "Investigación de Operaciones",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 5
+    },
+    {
+      "subject": "Microeconomía",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 4
+    },
+    {
+      "subject": "Política Econ. Nacional e Internacional",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 5
+    },
+    {
+      "subject": "Procesos de Fabricación de Bienes y Servicios",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 7
+    },
+    {
+      "subject": "Publicidad ",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 9
+    },
+    {
+      "subject": "Sociología de la Organizaciones",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 4
+    },
+    {
+      "subject": "Herramientas informáticas para la gestión ",
+      "subject_career": "Administración de Empresas",
+      "subject_semester": 1
+    },
+    {
+      "subject": "Fundamentos de contabilidad ",
+      "subject_career": "Administración de Empresas, Contaduría",
+      "subject_semester": 1
+    },
+    {
+      "subject": "Legislación Laboral",
+      "subject_career": "Administración de Empresas, Contaduría",
+      "subject_semester": 5
+    },
+    {
+      "subject": "Evaluación y Administración de Proyectos",
+      "subject_career": "Administración de Empresas, Contaduría, Ingeniería de Sistemas",
+      "subject_semester": 7
+    },
+    {
+      "subject": "Fundamentos de Economía y Comercio ",
+      "subject_career": "Administración de Empresas, Contaduría, Trabajo social",
+      "subject_semester": 1
+    },
+    {
+      "subject": "Inglés",
+      "subject_career": "Administración de Empresas, Tecnología en Desarrollo de Software, Contaduría, Ingeniería de Sistemas, Ingeniería de Alimentos, Trabajo social",
+      "subject_semester": 1
+    },
+    {
+      "subject": "Construcción de Edificaciones ",
+      "subject_career": "Construcción",
+      "subject_semester": 2
+    },
+    {
+      "subject": "Estructuras ",
+      "subject_career": "Construcción",
+      "subject_semester": 2
+    },
+    {
+      "subject": "Física de la construcción",
+      "subject_career": "Construcción",
+      "subject_semester": 2
+    },
+    {
+      "subject": "Materiales de Construcción   ",
+      "subject_career": "Construcción",
+      "subject_semester": 2
+    },
+    {
+      "subject": "Taller de Representacion ",
+      "subject_career": "Construcción",
+      "subject_semester": 2
+    },
+    {
+      "subject": " Derecho y Constitucion política",
+      "subject_career": "Construcción, Administración de Empresas, Contaduría",
+      "subject_semester": 2
+    },
+    {
+      "subject": "Análisis de Costos y Presupuestos",
+      "subject_career": "Contaduría",
+      "subject_semester": 8
+    },
+    {
+      "subject": "Casos contables especiales II",
+      "subject_career": "Contaduría",
+      "subject_semester": 5
+    },
+    {
+      "subject": "Casos Contables Especiales I",
+      "subject_career": "Contaduría",
+      "subject_semester": 4
+    },
+    {
+      "subject": "Contabilidad de los recursos y obligaciones de corto plazo",
+      "subject_career": "Contaduría",
+      "subject_semester": 2
+    },
+    {
+      "subject": "Control y auditoría",
+      "subject_career": "Contaduría",
+      "subject_semester": 7
+    },
+    {
+      "subject": "Dirección y organización contable",
+      "subject_career": "Contaduría",
+      "subject_semester": 7
+    },
+    {
+      "subject": "Electiva Profesional III: Procedimiento Tributario",
+      "subject_career": "Contaduría",
+      "subject_semester": 8
+    },
+    {
+      "subject": "Electiva Profesional IV: Fundamentos de Contabilidad Internacional",
+      "subject_career": "Contaduría",
+      "subject_semester": 7
+    },
+    {
+      "subject": "Fundamentos de Costos",
+      "subject_career": "Contaduría",
+      "subject_semester": 6
+    },
+    {
+      "subject": "Legislación comercial II",
+      "subject_career": "Contaduría",
+      "subject_semester": 3
+    },
+    {
+      "subject": "Legislación tributaria II",
+      "subject_career": "Contaduría",
+      "subject_semester": 7
+    },
+    {
+      "subject": "Legislación Tributaria I",
+      "subject_career": "Contaduría",
+      "subject_semester": 6
+    },
+    {
+      "subject": "Procesos de costos II",
+      "subject_career": "Contaduría",
+      "subject_semester": 7
+    },
+    {
+      "subject": "Revisoría Fiscal",
+      "subject_career": "Contaduría",
+      "subject_semester": 10
+    },
+    {
+      "subject": "Seminario de Teoría Contable",
+      "subject_career": "Contaduría",
+      "subject_semester": 6
+    },
+    {
+      "subject": "Sistemas de Producción",
+      "subject_career": "Contaduría",
+      "subject_semester": 5
+    },
+    {
+      "subject": "Software y procesos contables",
+      "subject_career": "Contaduría",
+      "subject_semester": 7
+    },
+    {
+      "subject": "Legislación  Comercial  I",
+      "subject_career": "Contaduría, Administración de Empresas",
+      "subject_semester": 2
+    },
+    {
+      "subject": "Macroeconomía y coyuntura",
+      "subject_career": "Contaduría, Administración de Empresas",
+      "subject_semester": 2
+    },
+    {
+      "subject": "Proceso administrativo",
+      "subject_career": "Contaduría, Administración de Empresas",
+      "subject_semester": 3
+    },
+    {
+      "subject": "Cálculo monovariable",
+      "subject_career": "Contaduría, Administración de Empresas, Ingeniería de Alimentos, Ingeniería de Sistemas, Tecnología en Desarrollo de Software",
+      "subject_semester": 1
+    },
+    {
+      "subject": "Estadística",
+      "subject_career": "Contaduría, Administración de Empresas, Trabajo social, Ingeniería de Sistemas, Construcción",
+      "subject_semester": 4
+    },
+    {
+      "subject": "Aseguram. de la calidad Ind. de Alimentos",
+      "subject_career": "Ingeniería de Alimentos",
+      "subject_semester": 6
+    },
+    {
+      "subject": "Control e instrum. en la Indust Alimentos",
+      "subject_career": "Ingeniería de Alimentos",
+      "subject_semester": 8
+    },
+    {
+      "subject": "Deshidratación de alimentos",
+      "subject_career": "Ingeniería de Alimentos",
+      "subject_semester": 8
+    },
+    {
+      "subject": "Física III",
+      "subject_career": "Ingeniería de Alimentos",
+      "subject_semester": 4
+    },
+    {
+      "subject": "Informática I",
+      "subject_career": "Ingeniería de Alimentos",
+      "subject_semester": 2
+    },
+    {
+      "subject": "Mecánica de Fluidos",
+      "subject_career": "Ingeniería de Alimentos",
+      "subject_semester": 6
+    },
+    {
+      "subject": "Procesos de fermentación de alimentos",
+      "subject_career": "Ingeniería de Alimentos",
+      "subject_semester": 8
+    },
+    {
+      "subject": "Talleres y laborat. Ingen. Alim. IV",
+      "subject_career": "Ingeniería de Alimentos",
+      "subject_semester": 6
+    },
+    {
+      "subject": "Termodinámica General",
+      "subject_career": "Ingeniería de Alimentos",
+      "subject_semester": 6
+    },
+    {
+      "subject": "Transf. de masa en el proc. de Alimentos",
+      "subject_career": "Ingeniería de Alimentos",
+      "subject_semester": 8
+    },
+    {
+      "subject": "Análisis Económico de Inversiones",
+      "subject_career": "Ingeniería de Sistemas",
+      "subject_semester": 9
+    },
+    {
+      "subject": "Programación de aplicaciones web",
+      "subject_career": "Ingeniería de Sistemas",
+      "subject_semester": 8
+    },
+    {
+      "subject": "Arquitectura de Computadores",
+      "subject_career": "Ingeniería de Sistemas",
+      "subject_semester": 4
+    },
+    {
+      "subject": "Cálculo Multivariable",
+      "subject_career": "Ingeniería de Sistemas",
+      "subject_semester": 3
+    },
+    {
+      "subject": "Ciberseguridad",
+      "subject_career": "Ingeniería de Sistemas",
+      "subject_semester": 10
+    },
+    {
+      "subject": "Complejidad y Optimización",
+      "subject_career": "Ingeniería de Sistemas",
+      "subject_semester": 9
+    },
+    {
+      "subject": "Modelación 3D",
+      "subject_career": "Ingeniería de Sistemas",
+      "subject_semester": 7
+    },
+    {
+      "subject": "Programacion de aplicaciones móviles",
+      "subject_career": "Ingeniería de Sistemas",
+      "subject_semester": 8
+    },
+    {
+      "subject": "Minería de datos",
+      "subject_career": "Ingeniería de Sistemas",
+      "subject_semester": 9
+    },
+    {
+      "subject": "Ecuaciones Diferenciales",
+      "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Construcción",
+      "subject_semester": 4
+    },
+    {
+      "subject": "Fundamentos de Lenguajes de Programación",
+      "subject_career": "Ingeniería de Sistemas",
+      "subject_semester": 4
+    },
+    {
+      "subject": "Fundamentos de Redes",
+      "subject_career": "Ingeniería de Sistemas",
+      "subject_semester": 6
+    },
+    {
+      "subject": "Inteligencia Artificial",
+      "subject_career": "Ingeniería de Sistemas",
+      "subject_semester": 7
+    },
+    {
+      "subject": "Simulación Computacional",
+      "subject_career": "Ingeniería de Sistemas",
+      "subject_semester": 7
+    },
+    {
+      "subject": "Análisis y Métodos Numéricos",
+      "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos",
+      "subject_semester": 5
+    },
+    {
+      "subject": "Física I & II",
+      "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos",
+      "subject_semester": 4
+    },
+    {
+      "subject": "Algebra Lineal",
+      "subject_career": "Ingeniería de Sistemas, Ingeniería de Alimentos, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción",
+      "subject_semester": 2
+    },
+    {
+      "subject": "Bases de Datos",
+      "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software",
+      "subject_semester": 6
+    },
+    {
+      "subject": "Análisis y Diseño de Algoritmos",
+      "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software",
+      "subject_semester": 5
+    },
+    {
+      "subject": "Matemáticas Básicas",
+      "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Contaduría, Administración de Empresas, Construcción, Nutricion y Dietetica, Ingeniería de Alimentos",
+      "subject_semester": 1
+    },
+    {
+      "subject": "Matemáticas Discretas",
+      "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software",
+      "subject_semester": 2
+    },
+    {
+      "subject": "Sistemas Operativos ",
+      "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software",
+      "subject_semester": 3
+    },
+    {
+      "subject": "Fundamentos de Programación",
+      "subject_career": "Ingeniería de Sistemas, Tecnología en Desarrollo de Software, Administración de Empresas",
+      "subject_semester": 1
+    },
+    {
+      "subject": "Español",
+      "subject_career": "Ingeniería de Sistemas, Trabajo social, Contaduría, Administración de Empresas, Ingeniería de Alimentos",
+      "subject_semester": 1
+    },
+    {
+      "subject": "Control Electrónico de Potencia",
+      "subject_career": "Tecnología en Electrónica",
+      "subject_semester": 6.48
+    },
+    {
+      "subject": "Microprocesadores ",
+      "subject_career": "Tecnología en Electrónica",
+      "subject_semester": 5.55
+    },
+    {
+      "subject": "Sistemas automáticos de control",
+      "subject_career": "Tecnología en Electrónica",
+      "subject_semester": 6.66
+    },
+    {
+      "subject": "Sistemas de Comunicación",
+      "subject_career": "Tecnología en Electrónica",
+      "subject_semester": 6.66
+    },
+    {
+      "subject": "Química",
+      "subject_career": "Ingeniería de Alimentos, Nutrición y Dietética",
+      "subject_semester": 1
+    },
+    {
+      "subject": "Biología",
+      "subject_career": "Ingeniería de Alimentos",
+      "subject_semester": 1
+    }
+]

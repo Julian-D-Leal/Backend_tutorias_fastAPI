@@ -1,13 +1,14 @@
-from datetime import timedelta
+import utils
+from auth import AuthJWT
+from bson import ObjectId
 from config.config import settings
 from config.db import db
+from datetime import timedelta
 from fastapi import APIRouter, Depends, HTTPException, status, Query
 from models.user import User, LoginUserSchema
 from schemas.user import userEntity, usersEntity
-from bson import ObjectId
+from scripts.neuronalNetwork.neuronalNetwork import predict_subject_score, predict_tutor_score, recommendation
 from scripts.searchEngine.searchEngine import searchEngine
-import utils
-from auth import AuthJWT
 
 user = APIRouter()
 
@@ -168,9 +169,28 @@ async def getUsers(id : str):
         "name": user["name"],
         "is_tutor": user["is_tutor"]
     }
-    print(user_dict)
     return user_dict
 
+@user.get('/users/tutores/recommendations/{id}', response_model=list, status_code=status.HTTP_200_OK,tags=["Users"])
+async def getRecommendations(id: str):
+    user = db.users.find_one({"_id": ObjectId(id)})
+    user_input_subject = {
+        'career': user['career'],
+        'semester': user['semester'],
+        'keywords': user['keywords'] if type(user['keywords']) == list else []
+    }
+    user_input_tutor = {
+        'student_availability': user['availability'],
+        'format': user['format'],
+        'budget': user['budget'],
+        'method': user['method'],
+        'type_group': user['type_group'],
+        'clicks': user['clicks'] if type(user['clicks']) == list else []
+    }
+    tutors = db.users.find({"is_tutor": True})
+    tutor_input = [tutor for tutor in tutors]
+    recommendations = (recommendation(predict_subject_score(user_input_subject), predict_tutor_score(user_input_tutor, tutor_input)))
+    return recommendations
 
 @user.patch('/users/update/{id}', response_model=dict, tags=["Users"], status_code=status.HTTP_200_OK)
 async def updateUser(id: str, user: dict, Authorize: AuthJWT = Depends()):
