@@ -190,7 +190,7 @@ async def getRecommendations(id: str):
     tutors = db.users.find({"is_tutor": True})
     tutor_input = [tutor for tutor in tutors]
     recommendations = (recommendation(predict_subject_score(user_input_subject), predict_tutor_score(user_input_tutor, tutor_input)))
-    return recommendations
+    return [(email, score) for email,score in recommendations if user['email'] != email]
 
 @user.patch('/users/update/{id}', response_model=dict, tags=["Users"], status_code=status.HTTP_200_OK)
 async def updateUser(id: str, user: dict, Authorize: AuthJWT = Depends()):
