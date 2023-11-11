@@ -7,4 +7,4 @@ class Message(BaseModel):
     receiver: str
     date: Optional[str]
     time: Optional[str]
-    read: bool | None = Field(default=False)
+    read: bool = False

@@ -1,79 +1,141 @@
+absl-py==2.0.0
 anyio==3.7.1
+asttokens==2.4.0
+astunparse==1.6.3
 azure-core==1.29.3
 azure-storage-blob==12.17.0
+backcall==0.2.0
 bcrypt==4.0.1
 bidict==0.22.1
 blis==0.7.10
 build==0.10.0
+cachetools==5.3.1
 catalogue==2.0.9
 certifi==2023.7.22
 cffi==1.15.1
 charset-normalizer==3.2.0
 click==8.1.6
 colorama==0.4.6
+comm==0.1.4
 confection==0.1.3
+contourpy==1.1.1
 cryptography==3.4.8
+cycler==0.12.0
 cymem==2.0.8
+debugpy==1.8.0
+decorator==5.1.1
 dnspython==2.4.1
 email-validator==2.0.0.post2
-# es-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/es_core_news_lg-3.6.0/es_core_news_lg-3.6.0-py3-none-any.whl#sha256=882bd0af2a5117acc17812e821133d8884cfaf4c93362a9ebac538548729de8d
-# et-xmlfile==1.1.0
+es-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/es_core_news_lg-3.6.0/es_core_news_lg-3.6.0-py3-none-any.whl#sha256=882bd0af2a5117acc17812e821133d8884cfaf4c93362a9ebac538548729de8d
+et-xmlfile==1.1.0
 exceptiongroup==1.1.2
-# Faker==19.6.2
+executing==1.2.0
+Faker==19.6.2
 fastapi==0.97.0
 fastapi-jwt-auth==0.5.0
 fastapi-socketio==0.0.10
+flatbuffers==23.5.26
+fonttools==4.43.0
+gast==0.5.4
+google-auth==2.23.2
+google-auth-oauthlib==1.0.0
+google-pasta==0.2.0
+grpcio==1.58.0
 gunicorn==21.2.0
 h11==0.14.0
+h5py==3.9.0
 idna==3.4
+ipykernel==6.25.2
+ipython==8.15.0
 isodate==0.6.1
+jedi==0.19.0
 Jinja2==3.1.2
 joblib==1.3.2
+jupyter_client==8.3.1
+jupyter_core==5.3.2
+keras==2.14.0
+kiwisolver==1.4.5
 langcodes==3.3.0
+libclang==16.0.6
+Markdown==3.4.4
 MarkupSafe==2.1.3
+matplotlib==3.8.0
+matplotlib-inline==0.1.6
+ml-dtypes==0.2.0
 murmurhash==1.0.10
+nest-asyncio==1.5.8
 nltk==3.8.1
 numpy==1.25.2
-# openpyxl==3.1.2
+oauthlib==3.2.2
+openpyxl==3.1.2
+opt-einsum==3.3.0
 packaging==23.1
 pandas==2.0.3
+parso==0.8.3
 passlib==1.7.4
 pathy==0.10.2
+pickleshare==0.7.5
+Pillow==10.0.1
 pip-tools==7.3.0
+platformdirs==3.10.0
 preshed==3.0.9
+prompt-toolkit==3.0.39
+protobuf==4.24.3
+psutil==5.9.5
+pure-eval==0.2.2
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
 pycparser==2.21
 pydantic==1.10.11
+Pygments==2.16.1
 PyJWT==1.7.1
 pymongo==4.4.1
+pyparsing==3.1.1
 pyproject_hooks==1.0.0
 python-dateutil==2.8.2
 python-dotenv==1.0.0
 python-engineio==4.6.1
+# python-magic-bin==0.4.14
 python-magic==0.4.27 #debe ser python-magic y no python-magic-bin
 python-multipart==0.0.6
 python-socketio==5.8.0
 pytz==2023.3
+pyzmq==25.1.1
 regex==2023.8.8
 requests==2.31.0
-# scikit-learn==1.3.1
-# scipy==1.11.2
+requests-oauthlib==1.3.1
+rsa==4.9
+scikit-learn==1.3.1
+scipy==1.11.2
 secure-smtplib==0.1.1
 six==1.16.0
 smart-open==6.4.0
 sniffio==1.3.0
-# spacy==3.6.1
-# spacy-legacy==3.0.12
-# spacy-loggers==1.0.5
+spacy==3.6.1
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
 srsly==2.4.7
+stack-data==0.6.2
 starlette==0.27.0
+# tensorboard==2.14.1
+# tensorboard-data-server==0.7.1
+# tensorflow==2.14.0
+# # tensorflow-estimator==2.14.0
+# tensorflow-io-gcs-filesystem==0.31.0
+termcolor==2.3.0
 thinc==8.1.12
-# threadpoolctl==3.2.0
+threadpoolctl==3.2.0
 tomli==2.0.1
+tornado==6.3.3
 tqdm==4.66.1
+traitlets==5.10.1
 typer==0.9.0
 typing_extensions==4.7.1
 tzdata==2023.3
 urllib3==2.0.4
 uvicorn==0.23.1
 wasabi==1.1.2
+wcwidth==0.2.6
 websockets==11.0.3
+Werkzeug==2.3.7
+wrapt==1.14.1

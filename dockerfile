@@ -1,5 +1,5 @@
 # Use the official Python image as the base image
-FROM python:3.11-slim-buster
+FROM python:3.9-slim-buster
 
 # Set the working directory in the container
 WORKDIR /app
@@ -10,9 +10,10 @@ COPY requirements.txt .
 # Install the dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends libmagic1 && rm -rf /var/lib/apt/lists/*
 
-RUN pip install filemagic
-RUN pip install --upgrade pip
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install tensorflow-cpu && \
+    pip install filemagic && \
+    pip install --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
 
 # Copy the rest of the application code to the working directory
 COPY . .

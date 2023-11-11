@@ -1,3 +1,4 @@
+import os
 import numpy as np
 import pandas as pd
 import spacy
@@ -449,6 +450,18 @@ user_pred_tutor = {
   }
 
 def recommendation(subject_score, tutor_score):
+    import tensorflow as tf
+    os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
+
+    if tf.test.gpu_device_name():
+        print('GPU found')
+    else:
+        print("No GPU found")
+
+    # with tf.device('/CPU:0'):
+    #     a = tf.constant([[1.0, 2.0, 3.0], [4.0, 5.0, 6.0]])
+    #     b = tf.constant([[1.0, 2.0], [3.0, 4.0], [5.0, 6.0]])
+
     emails = [tutor[0] for tutor in tutor_score]
     scores = [tutor[1][0] for tutor in tutor_score]
     subjects = [tutor[2] for tutor in tutor_score]
